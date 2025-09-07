@@ -9,7 +9,7 @@ export async function up(knex: Knex): Promise<void> {
     table.timestamp('deleted_at', { useTz: false });
 
     // Create unique constraint for name
-    table.unique(['name'], 'roles_name_guard_name_unique');
+    table.unique(['name']);
   });
 }
 
