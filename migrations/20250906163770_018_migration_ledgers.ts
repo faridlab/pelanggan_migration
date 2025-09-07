@@ -13,7 +13,7 @@ export async function up(knex: Knex): Promise<void> {
     table.timestamp('deleted_at', { useTz: false });
 
     // Create unique constraint
-    table.unique(['account', 'period_start', 'period_end'], 'ledgers_account_period_unique');
+    table.unique(['account', 'period_start', 'period_end']);
 
     // Create indexes
     table.index('account');
