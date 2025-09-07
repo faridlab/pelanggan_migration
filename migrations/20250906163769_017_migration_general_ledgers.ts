@@ -5,7 +5,7 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('account').notNullable();
     table.timestamp('posting_date', { useTz: false }).notNullable();
-    table.text('description').nullable();
+    table.string('description').nullable();
     table.decimal('debit', 15, 2).notNullable().defaultTo(0);
     table.decimal('credit', 15, 2).notNullable().defaultTo(0);
     table.uuid('journal').notNullable();
