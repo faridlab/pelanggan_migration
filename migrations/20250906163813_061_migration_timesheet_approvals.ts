@@ -1,0 +1,48 @@
+import type { Knex } from "knex";
+
+export async function up(knex: Knex): Promise<void> {
+  return knex.schema.createTable('timesheet_approvals', (table) => {
+    table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
+    table.uuid('employee_id').notNullable();
+    table.uuid('approver_id');
+    table.integer('year').notNullable();
+    table.specificType('month', 'SMALLINT').notNullable();
+    table.text('remark').notNullable();
+    table.specificType('billable_time', 'TIME(0)').notNullable();
+    table.float('billable_cost').notNullable();
+    table.string('status', 255).notNullable().defaultTo('pending');
+    table.json('data');
+    table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
+    table.timestamp('deleted_at', { useTz: false });
+
+    // Create indexes
+    table.index('employee_id');
+    table.index('approver_id');
+    table.index('year');
+    table.index('month');
+    table.index('status');
+
+    // Create foreign key constraints
+    table.foreign('employee_id', 'timesheet_approvals_employee_id_foreign')
+      .references('id')
+      .inTable('employees')
+      .onDelete('RESTRICT')
+      .onUpdate('CASCADE');
+
+    table.foreign('approver_id', 'timesheet_approvals_approver_id_foreign')
+      .references('id')
+      .inTable('employees')
+      .onDelete('RESTRICT')
+      .onUpdate('CASCADE');
+
+    // Add check constraints
+    table.check('?? >= 1 AND ?? <= 12', ['month', 'month']);
+    table.check('?? >= 1900', ['year']);
+    table.check('?? IN (?, ?, ?)', ['status', 'pending', 'approved', 'rejected']);
+  });
+}
+
+export async function down(knex: Knex): Promise<void> {
+  return knex.schema.dropTable('timesheet_approvals');
+}
