@@ -7,7 +7,7 @@ export async function up(knex: Knex): Promise<void> {
     table.string('reference_number').nullable();
     table.enum('position', ['debit', 'credit']).notNullable();
     table.decimal('amount', 15, 2).notNullable();
-    table.text('description').nullable();
+    table.string('description').nullable();
     table.string('payment_method').nullable();
     table.uuid('account').notNullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
