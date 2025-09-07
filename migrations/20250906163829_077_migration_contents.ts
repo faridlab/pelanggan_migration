@@ -1,0 +1,31 @@
+import type { Knex } from "knex";
+
+export async function up(knex: Knex): Promise<void> {
+  return knex.schema.createTable('contents', (table) => {
+    table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
+    table.string('title', 1024).notNullable();
+    table.string('slug', 1024).notNullable();
+    table.string('category', 1024).nullable();
+    table.text('content').notNullable();
+    table.string('type', 255).notNullable().defaultTo('post');
+    table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
+    table.timestamp('deleted_at', { useTz: false });
+
+    // Create indexes
+    table.index('title');
+    table.index('slug');
+    table.index('category');
+    table.index('type');
+    table.index('created_at');
+    table.index('updated_at');
+    table.index('deleted_at');
+
+    // Create unique constraint for slug
+    table.unique('slug', 'contents_slug_unique');
+  });
+}
+
+export async function down(knex: Knex): Promise<void> {
+  return knex.schema.dropTable('contents');
+}
