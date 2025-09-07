@@ -5,7 +5,7 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('permission_id').notNullable();
     table.uuid('role_id').notNullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
-    table.timestamp('updated_at', { useTz: false });
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
 
     // Create composite primary key
