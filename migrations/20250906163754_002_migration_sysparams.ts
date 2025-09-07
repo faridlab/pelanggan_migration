@@ -6,9 +6,9 @@ export async function up(knex: Knex): Promise<void> {
     table.string('group', 255).notNullable();
     table.string('key', 255).notNullable();
     table.string('value', 255).notNullable();
-    table.json('data');
-    table.smallint('order');
-    table.string('status', 255).notNullable().defaultTo('active');
+    table.json('data').nullable();
+    table.smallint('order').nullable();
+    table.enum('status', ['active', 'inactive']).notNullable().defaultTo('inactive');
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
