@@ -4,6 +4,7 @@ export async function up(knex: Knex): Promise<void> {
   return knex.schema.createTable('organization_specialties', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('organization_id').notNullable();
+    table.uuid('specialty_id').notNullable();
     table.string('name', 255).notNullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
@@ -11,12 +12,19 @@ export async function up(knex: Knex): Promise<void> {
 
     // Create indexes
     table.index('organization_id');
+    table.index('specialty_id');
     table.index('name');
 
     // Create foreign key constraint
     table.foreign('organization_id', 'organization_specialties_organization_id_foreign')
       .references('id')
       .inTable('organizations')
+      .onDelete('RESTRICT')
+      .onUpdate('CASCADE');
+
+    table.foreign('specialty_id', 'organization_specialties_specialty_id_foreign')
+      .references('id')
+      .inTable('specialties')
       .onDelete('RESTRICT')
       .onUpdate('CASCADE');
   });
