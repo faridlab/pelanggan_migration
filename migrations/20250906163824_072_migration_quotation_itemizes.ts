@@ -19,7 +19,7 @@ export async function up(knex: Knex): Promise<void> {
     // Create foreign key constraints
     table.foreign('industry_id', 'quotation_itemizes_industry_id_foreign')
       .references('id')
-      .inTable('organization_industries')
+      .inTable('industries')
       .onDelete('RESTRICT')
       .onUpdate('CASCADE');
   });
