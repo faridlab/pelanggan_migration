@@ -1,10 +1,11 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const TYPES = ['school', 'work', 'home', 'other'];
   return knex.schema.createTable('contact_addresses', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('contact_id').notNullable();
-    table.string('type', 255).notNullable().defaultTo('home');
+    table.enum('type', TYPES).notNullable().defaultTo('home');
     table.string('type_other', 255).nullable();
     table.string('country', 255).nullable();
     table.string('province', 255).nullable();
