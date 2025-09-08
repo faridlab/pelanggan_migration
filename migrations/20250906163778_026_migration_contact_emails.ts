@@ -1,10 +1,12 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const TYPES = ['home', 'work', 'school', 'main', 'email', 'business', 'personal', 'other'];
   return knex.schema.createTable('contact_emails', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('contact_id').notNullable();
-    table.string('type', 255).notNullable().defaultTo('email');
+    table.enum('type', TYPES).notNullable().defaultTo('email');
+    table.string('type_other', 255).nullable();
     table.string('email', 255).notNullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
