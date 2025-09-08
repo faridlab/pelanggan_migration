@@ -1,22 +1,27 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const TYPES = [
+    'department',
+    'level',
+    'position'
+  ];
+
   return knex.schema.createTable('organization_structures', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('organization_id').notNullable();
-    table.string('type', 255).notNullable().defaultTo('department');
-    table.smallint('order').notNullable().defaultTo(0);
+    table.uuid('structure_id').nullable();
     table.string('name', 255).notNullable();
+    table.enum('type', TYPES).notNullable().defaultTo('department');
+    table.smallint('order').notNullable().defaultTo(0);
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
-    table.uuid('structure_id').nullable();
 
     // Create indexes
     table.index('organization_id');
     table.index('structure_id');
     table.index('type');
-    table.index('order');
 
     // Create foreign key constraints
     table.foreign('organization_id', 'organization_structures_organization_id_foreign')
