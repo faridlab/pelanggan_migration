@@ -12,7 +12,6 @@ export async function up(knex: Knex): Promise<void> {
     // Create indexes
     table.index('contact_id');
     table.index('user_id');
-    table.unique(['contact_id', 'user_id'], 'user_has_contacts_unique');
 
     // Create foreign key constraints
     table.foreign('contact_id', 'user_has_contacts_contact_id_foreign')
