@@ -1,10 +1,12 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const TYPES = ['facebook', 'twitter', 'instagram', 'tiktok', 'github', 'gitlab', 'bitbucket', 'telegram', 'pinterest', 'linkedin', 'youtube', 'other'];
   return knex.schema.createTable('contact_socials', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('contact_id').notNullable();
-    table.string('type', 255).notNullable().defaultTo('facebook');
+    table.enum('type', TYPES).notNullable().defaultTo('facebook');
+    table.string('type_other').nullable();
     table.string('url', 255).notNullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
