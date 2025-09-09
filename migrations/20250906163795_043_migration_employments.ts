@@ -1,10 +1,12 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const statuses = ['active', 'inactive', 'terminated', 'resigned', 'retired', 'other'];
+  const employment_statuses = ['permanent', 'contract', 'intern', 'part-time', 'promoted', 'other'];
   return knex.schema.createTable('employments', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('employee_id').notNullable();
-    table.string('employment_status', 255).notNullable();
+    table.enum('employment_status', employment_statuses).notNullable().defaultTo('active');
     table.date('join_date').notNullable();
     table.date('end_join_date').nullable();
     table.uuid('organization_id').notNullable();
@@ -12,7 +14,7 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('level_id').notNullable();
     table.uuid('position_id').notNullable();
     table.uuid('direct_manager_id').nullable();
-    table.string('status', 255).notNullable();
+    table.enum('status', statuses).notNullable().defaultTo('active');
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
