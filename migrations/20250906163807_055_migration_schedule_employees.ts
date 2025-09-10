@@ -3,6 +3,7 @@ import type { Knex } from "knex";
 export async function up(knex: Knex): Promise<void> {
   return knex.schema.createTable('schedule_employees', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
+    table.uuid('organization_id').notNullable();
     table.uuid('employee_id').notNullable();
     table.date('schedule_date').notNullable();
     table.integer('order_number').notNullable().defaultTo(500);
@@ -11,7 +12,6 @@ export async function up(knex: Knex): Promise<void> {
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
-    table.uuid('organization_id').notNullable();
 
     // Create indexes
     table.index('employee_id');
