@@ -2,11 +2,32 @@ import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
   return knex.schema.createTable('attendance_clocks', (table) => {
+    const methods = [
+      'api',
+      'web',
+      'mobile',
+      'android',
+      'ios',
+      'fingerprint',
+      'rfc',
+      'manual',
+      'app',
+      'rfid',
+      'qrcode',
+      'barcode',
+      'nfc',
+      'bluetooth',
+      'wifi',
+      'iot',
+      'middleware',
+      'third-party',
+      'other',
+    ];
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('attendance_id').notNullable();
     table.uuid('organization_id').notNullable();
     table.uuid('employee_id').notNullable();
-    table.string('method', 255).notNullable().defaultTo('api');
+    table.enum('method', methods).notNullable().defaultTo('api');
     table.date('date').notNullable();
     table.time('clock').notNullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
