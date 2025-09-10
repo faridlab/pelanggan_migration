@@ -2,11 +2,11 @@ import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
   const statuses = ['active', 'inactive', 'terminated', 'resigned', 'retired', 'other'];
-  const employment_statuses = ['permanent', 'contract', 'intern', 'part-time', 'promoted', 'other'];
+  const employment_statuses = ['permanent', 'contract', 'probation', 'assosiate', 'intern', 'part-time', 'promoted', 'other'];
   return knex.schema.createTable('employments', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('employee_id').notNullable();
-    table.enum('employment_status', employment_statuses).notNullable().defaultTo('active');
+    table.enum('employment_status', employment_statuses).notNullable().defaultTo('assosiate');
     table.date('join_date').notNullable();
     table.date('end_join_date').nullable();
     table.uuid('organization_id').notNullable();
