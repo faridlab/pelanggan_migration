@@ -1,6 +1,7 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const types = ['work', 'overtime', 'break', 'leave'];
   return knex.schema.createTable('timesheets', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('employee_id').notNullable();
@@ -11,7 +12,7 @@ export async function up(knex: Knex): Promise<void> {
     table.date('time').notNullable();
     table.date('time_start');
     table.date('time_end');
-    table.string('type', 255).notNullable().defaultTo('work');
+    table.enum('type', types).notNullable().defaultTo('work');
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
