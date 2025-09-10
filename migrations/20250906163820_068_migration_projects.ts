@@ -1,6 +1,7 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const statuses = ['draft', 'in-progress', 'not-started', 'on-hold', 'canceled', 'finished'];
   return knex.schema.createTable('projects', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.string('code_number', 6).notNullable();
@@ -17,7 +18,7 @@ export async function up(knex: Knex): Promise<void> {
     table.decimal('exchange_value', 15, 2).notNullable().defaultTo(0);
     table.decimal('hours_estimate', 15, 2).notNullable().defaultTo(0);
     table.text('note').nullable();
-    table.string('status', 255).notNullable().defaultTo('draft');
+    table.enum('status', statuses).notNullable().defaultTo('draft');
     table.json('data').nullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
