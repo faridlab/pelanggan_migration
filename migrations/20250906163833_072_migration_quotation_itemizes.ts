@@ -22,6 +22,12 @@ export async function up(knex: Knex): Promise<void> {
       .inTable('industries')
       .onDelete('RESTRICT')
       .onUpdate('CASCADE');
+
+    table.foreign('category_id', 'quotation_itemizes_category_id_foreign')
+      .references('id')
+      .inTable('industries')
+      .onDelete('RESTRICT')
+      .onUpdate('CASCADE');
   });
 }
 
