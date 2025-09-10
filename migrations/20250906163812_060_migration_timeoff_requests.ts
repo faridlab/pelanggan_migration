@@ -1,6 +1,7 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const statuses = ['request', 'approved', 'rejected'];
   return knex.schema.createTable('timeoff_requests', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('organization_id').notNullable();
@@ -8,7 +9,7 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('employee_id').notNullable();
     table.date('date_start').notNullable();
     table.date('date_end').notNullable();
-    table.string('status', 255).notNullable().defaultTo('request');
+    table.enum('status', statuses).notNullable().defaultTo('request');
     table.text('note').notNullable();
     table.uuid('approval_employee_id');
     table.text('note_reject');
