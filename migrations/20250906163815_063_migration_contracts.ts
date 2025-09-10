@@ -1,6 +1,7 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const statuses = ['active', 'inactive', 'draft'];
   return knex.schema.createTable('contracts', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.string('subject', 255).notNullable();
@@ -10,12 +11,12 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('type_id').notNullable();
     table.uuid('client_id').notNullable();
     table.decimal('value_contract', 15, 2).notNullable();
-    table.string('base_currency', 3).notNullable().defaultTo('USD');
-    table.string('exchange_currency', 3).notNullable().defaultTo('USD');
+    table.string('base_currency', 3).notNullable().defaultTo('IDR');
+    table.string('exchange_currency', 3).notNullable().defaultTo('IDR');
     table.decimal('exchange_value', 15, 2).notNullable().defaultTo(0);
     table.text('address_alternative').nullable();
     table.text('note').nullable();
-    table.string('status', 255).notNullable().defaultTo('active');
+    table.enum('status', statuses).notNullable().defaultTo('active');
     table.json('data').nullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
