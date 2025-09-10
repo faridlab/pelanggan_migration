@@ -1,16 +1,17 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
+  const weekdays = ['weekend', 'weekday'];
   return knex.schema.createTable('schedule_weekdays', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('schedule_id').notNullable();
-    table.string('sun', 255).notNullable().defaultTo('weekend');
-    table.string('mon', 255).notNullable().defaultTo('weekday');
-    table.string('tue', 255).notNullable().defaultTo('weekday');
-    table.string('wed', 255).notNullable().defaultTo('weekday');
-    table.string('thu', 255).notNullable().defaultTo('weekday');
-    table.string('fri', 255).notNullable().defaultTo('weekday');
-    table.string('sat', 255).notNullable().defaultTo('weekend');
+    table.enum('sun', weekdays).notNullable().defaultTo('weekend');
+    table.enum('mon', weekdays).notNullable().defaultTo('weekday');
+    table.enum('tue', weekdays).notNullable().defaultTo('weekday');
+    table.enum('wed', weekdays).notNullable().defaultTo('weekday');
+    table.enum('thu', weekdays).notNullable().defaultTo('weekday');
+    table.enum('fri', weekdays).notNullable().defaultTo('weekday');
+    table.enum('sat', weekdays).notNullable().defaultTo('weekend');
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
