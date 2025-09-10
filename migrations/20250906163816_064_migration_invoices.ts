@@ -14,7 +14,7 @@ export async function up(knex: Knex): Promise<void> {
     table.date('due_date').notNullable();
     table.text('description').notNullable();
     table.json('data').nullable();
-    table.enum('status', statuses).notNullable().defaultTo('active');
+    table.enum('status', statuses).notNullable().defaultTo('draft');
     table.boolean('is_template').notNullable().defaultTo(false);
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
