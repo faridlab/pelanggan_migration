@@ -7,8 +7,8 @@ export async function up(knex: Knex): Promise<void> {
     table.string('name', 255).notNullable();
     table.date('date_start').notNullable();
     table.date('date_end').notNullable();
-    table.boolean('is_holiday').notNullable().defaultTo(true);
-    table.boolean('can_everyone_views').notNullable().defaultTo(true);
+    table.boolean('is_holiday').notNullable().defaultTo(false);
+    table.boolean('is_public').notNullable().defaultTo(true);
     table.text('note').nullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
