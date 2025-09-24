@@ -7,9 +7,9 @@ export async function up(knex: Knex): Promise<void> {
     table.text('description').notNullable();
     table.string('status', 255).notNullable().defaultTo('inactive');
     table.string('type', 255).notNullable().defaultTo('banner');
-    table.string('videourl', 512).nullable();
-    table.integer('order').notNullable();
+    table.string('video_url', 512).nullable();
     table.string('link', 1024).nullable();
+    table.integer('order').notNullable().defaultTo(0);
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false }).nullable();
@@ -17,7 +17,6 @@ export async function up(knex: Knex): Promise<void> {
     // Create indexes
     table.index('status');
     table.index('type');
-    table.index('order');
     table.index('created_at');
   });
 }
