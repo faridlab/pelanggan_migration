@@ -1,0 +1,728 @@
+{
+  "name": "Kecantikan",
+  "slug": "kecantikan",
+  "children": [
+    {
+      "name": "Aksesoris Rambut",
+      "slug": "kecantikan/aksesoris-rambut",
+      "children": [
+        {
+          "name": "Bando Bandana",
+          "slug": "kecantikan/aksesoris-rambut/bando-bandana",
+          "children": []
+        },
+        {
+          "name": "Hair Extension",
+          "slug": "kecantikan/aksesoris-rambut/hair-extension",
+          "children": []
+        },
+        {
+          "name": "Ikat Rambut",
+          "slug": "kecantikan/aksesoris-rambut/ikat-rambut",
+          "children": []
+        },
+        {
+          "name": "Jepitan Rambut",
+          "slug": "kecantikan/aksesoris-rambut/jepitan-rambut",
+          "children": []
+        },
+        {
+          "name": "Mahkota Headpiece",
+          "slug": "kecantikan/aksesoris-rambut/mahkota-headpiece",
+          "children": []
+        },
+        {
+          "name": "Rambut Palsu",
+          "slug": "kecantikan/aksesoris-rambut/rambut-palsu",
+          "children": []
+        },
+        {
+          "name": "Tusuk Konde",
+          "slug": "kecantikan/aksesoris-rambut/tusuk-konde",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Alat Kecantikan Wajah",
+      "slug": "kecantikan/alat-kecantikan-wajah",
+      "children": [
+        {
+          "name": "Alat Arus Mikro",
+          "slug": "kecantikan/alat-kecantikan-wajah/alat-arus-mikro",
+          "children": []
+        },
+        {
+          "name": "Alat Mikrodermabrasi",
+          "slug": "kecantikan/alat-kecantikan-wajah/alat-mikrodermabrasi",
+          "children": []
+        },
+        {
+          "name": "Penghilang Komedo Noda",
+          "slug": "kecantikan/alat-kecantikan-wajah/penghilang-komedo-noda",
+          "children": []
+        },
+        {
+          "name": "Peralatan Salon Spa",
+          "slug": "kecantikan/alat-kecantikan-wajah/peralatan-salon-spa",
+          "children": []
+        },
+        {
+          "name": "Perangkat Pembersih Wajah",
+          "slug": "kecantikan/alat-kecantikan-wajah/perangkat-pembersih-wajah",
+          "children": []
+        },
+        {
+          "name": "Sabuk Pengencang Wajah",
+          "slug": "kecantikan/alat-kecantikan-wajah/sabuk-pengencang-wajah",
+          "children": []
+        },
+        {
+          "name": "Steamer Wajah",
+          "slug": "kecantikan/alat-kecantikan-wajah/steamer-wajah",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Brush Applicator",
+      "slug": "kecantikan/brush-applicator",
+      "children": [
+        {
+          "name": "Beauty Sponge",
+          "slug": "kecantikan/brush-applicator/beauty-sponge",
+          "children": []
+        },
+        {
+          "name": "Make Up Brush",
+          "slug": "kecantikan/brush-applicator/make-up-brush",
+          "children": []
+        },
+        {
+          "name": "Make Up Brush Set",
+          "slug": "kecantikan/brush-applicator/make-up-brush-set",
+          "children": []
+        },
+        {
+          "name": "Pembersih Brush Make Up",
+          "slug": "kecantikan/brush-applicator/pembersih-brush-make-up",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Eyebrow Kit",
+      "slug": "kecantikan/eyebrow-kit",
+      "children": [
+        {
+          "name": "Cetakan Sisir Alis",
+          "slug": "kecantikan/eyebrow-kit/cetakan-sisir-alis",
+          "children": []
+        },
+        {
+          "name": "Cukuran Alis",
+          "slug": "kecantikan/eyebrow-kit/cukuran-alis",
+          "children": []
+        },
+        {
+          "name": "Eyebrow Mascara",
+          "slug": "kecantikan/eyebrow-kit/eyebrow-mascara",
+          "children": []
+        },
+        {
+          "name": "Eyebrow Pomade",
+          "slug": "kecantikan/eyebrow-kit/eyebrow-pomade",
+          "children": []
+        },
+        {
+          "name": "Eyebrow Powder",
+          "slug": "kecantikan/eyebrow-kit/eyebrow-powder",
+          "children": []
+        },
+        {
+          "name": "Pensil Alis",
+          "slug": "kecantikan/eyebrow-kit/pensil-alis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Face Body Paint Kit",
+      "slug": "kecantikan/face-body-paint-kit",
+      "children": []
+    },
+    {
+      "name": "Kesehatan Kulit",
+      "slug": "kecantikan/kesehatan-kulit",
+      "children": [
+        {
+          "name": "Perawatan Jerawat",
+          "slug": "kecantikan/kesehatan-kulit/perawatan-jerawat",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lip Color Lip Care",
+      "slug": "kecantikan/lip-color-lip-care",
+      "children": [
+        {
+          "name": "Lip Balm Oil",
+          "slug": "kecantikan/lip-color-lip-care/lip-balm-oil",
+          "children": []
+        },
+        {
+          "name": "Lip Cream",
+          "slug": "kecantikan/lip-color-lip-care/lip-cream",
+          "children": []
+        },
+        {
+          "name": "Lip Liner",
+          "slug": "kecantikan/lip-color-lip-care/lip-liner",
+          "children": []
+        },
+        {
+          "name": "Lip Palette",
+          "slug": "kecantikan/lip-color-lip-care/lip-palette",
+          "children": []
+        },
+        {
+          "name": "Lip Scrub",
+          "slug": "kecantikan/lip-color-lip-care/lip-scrub",
+          "children": []
+        },
+        {
+          "name": "Lip Tint Lip Stain",
+          "slug": "kecantikan/lip-color-lip-care/lip-tint-lip-stain",
+          "children": []
+        },
+        {
+          "name": "Lipgloss",
+          "slug": "kecantikan/lip-color-lip-care/lipgloss",
+          "children": []
+        },
+        {
+          "name": "Lipstik",
+          "slug": "kecantikan/lip-color-lip-care/lipstik",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Make Up Mata",
+      "slug": "kecantikan/make-up-mata",
+      "children": [
+        {
+          "name": "Bulu Mata Palsu",
+          "slug": "kecantikan/make-up-mata/bulu-mata-palsu",
+          "children": []
+        },
+        {
+          "name": "Eyeliner",
+          "slug": "kecantikan/make-up-mata/eyeliner",
+          "children": []
+        },
+        {
+          "name": "Eye Primer",
+          "slug": "kecantikan/make-up-mata/eye-primer",
+          "children": []
+        },
+        {
+          "name": "Eyelid Tape",
+          "slug": "kecantikan/make-up-mata/eyelid-tape",
+          "children": []
+        },
+        {
+          "name": "Eyeshadow",
+          "slug": "kecantikan/make-up-mata/eyeshadow",
+          "children": []
+        },
+        {
+          "name": "Lem Bulu Mata",
+          "slug": "kecantikan/make-up-mata/lem-bulu-mata",
+          "children": []
+        },
+        {
+          "name": "Mascara",
+          "slug": "kecantikan/make-up-mata/mascara",
+          "children": []
+        },
+        {
+          "name": "Penjepit Bulu Mata",
+          "slug": "kecantikan/make-up-mata/penjepit-bulu-mata",
+          "children": []
+        },
+        {
+          "name": "Penjepit Bulu Mata Elektrik",
+          "slug": "kecantikan/make-up-mata/penjepit-bulu-mata-elektrik",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Make Up Tools",
+      "slug": "kecantikan/make-up-tools",
+      "children": [
+        {
+          "name": "Cermin Make Up",
+          "slug": "kecantikan/make-up-tools/cermin-make-up",
+          "children": []
+        },
+        {
+          "name": "Kemasan Make Up",
+          "slug": "kecantikan/make-up-tools/kemasan-make-up",
+          "children": []
+        },
+        {
+          "name": "Laci Tempat Make Up",
+          "slug": "kecantikan/make-up-tools/laci-tempat-make-up",
+          "children": []
+        },
+        {
+          "name": "Pinset Alis",
+          "slug": "kecantikan/make-up-tools/pinset-alis",
+          "children": []
+        },
+        {
+          "name": "Pinset Bulu Mata",
+          "slug": "kecantikan/make-up-tools/pinset-bulu-mata",
+          "children": []
+        },
+        {
+          "name": "Pinset Komedo",
+          "slug": "kecantikan/make-up-tools/pinset-komedo",
+          "children": []
+        },
+        {
+          "name": "Tas Kosmetik",
+          "slug": "kecantikan/make-up-tools/tas-kosmetik",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Make Up Wajah",
+      "slug": "kecantikan/make-up-wajah",
+      "children": [
+        {
+          "name": "Bb Cream",
+          "slug": "kecantikan/make-up-wajah/bb-cream",
+          "children": []
+        },
+        {
+          "name": "Bedak Wajah",
+          "slug": "kecantikan/make-up-wajah/bedak-wajah",
+          "children": []
+        },
+        {
+          "name": "Blush On",
+          "slug": "kecantikan/make-up-wajah/blush-on",
+          "children": []
+        },
+        {
+          "name": "Cc Cream",
+          "slug": "kecantikan/make-up-wajah/cc-cream",
+          "children": []
+        },
+        {
+          "name": "Concealer Color Corrector",
+          "slug": "kecantikan/make-up-wajah/concealer-color-corrector",
+          "children": []
+        },
+        {
+          "name": "Contour Bronzer",
+          "slug": "kecantikan/make-up-wajah/contour-bronzer",
+          "children": []
+        },
+        {
+          "name": "Cushion",
+          "slug": "kecantikan/make-up-wajah/cushion",
+          "children": []
+        },
+        {
+          "name": "Face Primer",
+          "slug": "kecantikan/make-up-wajah/face-primer",
+          "children": []
+        },
+        {
+          "name": "Foundation",
+          "slug": "kecantikan/make-up-wajah/foundation",
+          "children": []
+        },
+        {
+          "name": "Highlighter",
+          "slug": "kecantikan/make-up-wajah/highlighter",
+          "children": []
+        },
+        {
+          "name": "Setting Spray",
+          "slug": "kecantikan/make-up-wajah/setting-spray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Makeup Tools",
+      "slug": "kecantikan/makeup-tools",
+      "children": [
+        {
+          "name": "Alat Alis Mata",
+          "slug": "kecantikan/makeup-tools/alat-alis-mata",
+          "children": []
+        },
+        {
+          "name": "Alat Extension Bulu Mata",
+          "slug": "kecantikan/makeup-tools/alat-extension-bulu-mata",
+          "children": []
+        },
+        {
+          "name": "Alat Makeup Elektronik",
+          "slug": "kecantikan/makeup-tools/alat-makeup-elektronik",
+          "children": []
+        },
+        {
+          "name": "Alat Pembersih Kuas Makeup",
+          "slug": "kecantikan/makeup-tools/alat-pembersih-kuas-makeup",
+          "children": []
+        },
+        {
+          "name": "Botol Travel Parfum",
+          "slug": "kecantikan/makeup-tools/botol-travel-parfum",
+          "children": []
+        },
+        {
+          "name": "Kotak Makeup",
+          "slug": "kecantikan/makeup-tools/kotak-makeup",
+          "children": []
+        },
+        {
+          "name": "Kulkas Kecantikan",
+          "slug": "kecantikan/makeup-tools/kulkas-kecantikan",
+          "children": []
+        },
+        {
+          "name": "Mesin Pembersih Kuas Makeup",
+          "slug": "kecantikan/makeup-tools/mesin-pembersih-kuas-makeup",
+          "children": []
+        },
+        {
+          "name": "Pengering Kuas Makeup",
+          "slug": "kecantikan/makeup-tools/pengering-kuas-makeup",
+          "children": []
+        },
+        {
+          "name": "Penyimpanan Makeup",
+          "slug": "kecantikan/makeup-tools/penyimpanan-makeup",
+          "children": []
+        },
+        {
+          "name": "Rautan",
+          "slug": "kecantikan/makeup-tools/rautan",
+          "children": []
+        },
+        {
+          "name": "Set Alat Makeup",
+          "slug": "kecantikan/makeup-tools/set-alat-makeup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Masker Kecantikan",
+      "slug": "kecantikan/masker-kecantikan",
+      "children": [
+        {
+          "name": "Masker Bibir",
+          "slug": "kecantikan/masker-kecantikan/masker-bibir",
+          "children": []
+        },
+        {
+          "name": "Masker Mata",
+          "slug": "kecantikan/masker-kecantikan/masker-mata",
+          "children": []
+        },
+        {
+          "name": "Masker Wajah",
+          "slug": "kecantikan/masker-kecantikan/masker-wajah",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mata Dan Telinga",
+      "slug": "kecantikan/mata-dan-telinga",
+      "children": [
+        {
+          "name": "Tetes Telinga",
+          "slug": "kecantikan/mata-dan-telinga/tetes-telinga",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mix Palette",
+      "slug": "kecantikan/mix-palette",
+      "children": []
+    },
+    {
+      "name": "Pembersih Make Up",
+      "slug": "kecantikan/pembersih-make-up",
+      "children": [
+        {
+          "name": "Kapas Wajah",
+          "slug": "kecantikan/pembersih-make-up/kapas-wajah",
+          "children": []
+        },
+        {
+          "name": "Make Up Remover Balm",
+          "slug": "kecantikan/pembersih-make-up/make-up-remover-balm",
+          "children": []
+        },
+        {
+          "name": "Make Up Remover Oil",
+          "slug": "kecantikan/pembersih-make-up/make-up-remover-oil",
+          "children": []
+        },
+        {
+          "name": "Make Up Remover Wipes",
+          "slug": "kecantikan/pembersih-make-up/make-up-remover-wipes",
+          "children": []
+        },
+        {
+          "name": "Micellar Water",
+          "slug": "kecantikan/pembersih-make-up/micellar-water",
+          "children": []
+        },
+        {
+          "name": "Pembersih Mata Bibir",
+          "slug": "kecantikan/pembersih-make-up/pembersih-mata-bibir",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Kuku Nail Art",
+      "slug": "kecantikan/perawatan-kuku-nail-art",
+      "children": [
+        {
+          "name": "Aksesori Kuku Palsu",
+          "slug": "kecantikan/perawatan-kuku-nail-art/aksesori-kuku-palsu",
+          "children": []
+        },
+        {
+          "name": "Aksesoris Nail Art",
+          "slug": "kecantikan/perawatan-kuku-nail-art/aksesoris-nail-art",
+          "children": []
+        },
+        {
+          "name": "Alat Nail Art",
+          "slug": "kecantikan/perawatan-kuku-nail-art/alat-nail-art",
+          "children": []
+        },
+        {
+          "name": "Fake Nail",
+          "slug": "kecantikan/perawatan-kuku-nail-art/fake-nail",
+          "children": []
+        },
+        {
+          "name": "Henna",
+          "slug": "kecantikan/perawatan-kuku-nail-art/henna",
+          "children": []
+        },
+        {
+          "name": "Kuas Nail Art",
+          "slug": "kecantikan/perawatan-kuku-nail-art/kuas-nail-art",
+          "children": []
+        },
+        {
+          "name": "Kuteks",
+          "slug": "kecantikan/perawatan-kuku-nail-art/kuteks",
+          "children": []
+        },
+        {
+          "name": "Kuteks Base Top Coat",
+          "slug": "kecantikan/perawatan-kuku-nail-art/kuteks-base-top-coat",
+          "children": []
+        },
+        {
+          "name": "Kuteks Gel",
+          "slug": "kecantikan/perawatan-kuku-nail-art/kuteks-gel",
+          "children": []
+        },
+        {
+          "name": "Larutan Penguat Kuku",
+          "slug": "kecantikan/perawatan-kuku-nail-art/larutan-penguat-kuku",
+          "children": []
+        },
+        {
+          "name": "Lem Kuku Palsu",
+          "slug": "kecantikan/perawatan-kuku-nail-art/lem-kuku-palsu",
+          "children": []
+        },
+        {
+          "name": "Nail Art Pen",
+          "slug": "kecantikan/perawatan-kuku-nail-art/nail-art-pen",
+          "children": []
+        },
+        {
+          "name": "Nail Art Stampers Scrapers",
+          "slug": "kecantikan/perawatan-kuku-nail-art/nail-art-stampers-scrapers",
+          "children": []
+        },
+        {
+          "name": "Portable Nail Dryer",
+          "slug": "kecantikan/perawatan-kuku-nail-art/portable-nail-dryer",
+          "children": []
+        },
+        {
+          "name": "Produk Manikur Dip",
+          "slug": "kecantikan/perawatan-kuku-nail-art/produk-manikur-dip",
+          "children": []
+        },
+        {
+          "name": "Stiker Kuku",
+          "slug": "kecantikan/perawatan-kuku-nail-art/stiker-kuku",
+          "children": []
+        },
+        {
+          "name": "Ujung Jari Latihan Nail Art",
+          "slug": "kecantikan/perawatan-kuku-nail-art/ujung-jari-latihan-nail-art",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Wajah",
+      "slug": "kecantikan/perawatan-wajah",
+      "children": [
+        {
+          "name": "Cleanser Wajah",
+          "slug": "kecantikan/perawatan-wajah/cleanser-wajah",
+          "children": []
+        },
+        {
+          "name": "Face Mist",
+          "slug": "kecantikan/perawatan-wajah/face-mist",
+          "children": []
+        },
+        {
+          "name": "Face Oil",
+          "slug": "kecantikan/perawatan-wajah/face-oil",
+          "children": []
+        },
+        {
+          "name": "Kertas Minyak",
+          "slug": "kecantikan/perawatan-wajah/kertas-minyak",
+          "children": []
+        },
+        {
+          "name": "Krim Mata",
+          "slug": "kecantikan/perawatan-wajah/krim-mata",
+          "children": []
+        },
+        {
+          "name": "Krim Wajah",
+          "slug": "kecantikan/perawatan-wajah/krim-wajah",
+          "children": []
+        },
+        {
+          "name": "Lainnya",
+          "slug": "kecantikan/perawatan-wajah/lainnya",
+          "children": []
+        },
+        {
+          "name": "Paket Perawatan Wajah",
+          "slug": "kecantikan/perawatan-wajah/paket-perawatan-wajah",
+          "children": []
+        },
+        {
+          "name": "Scrub Wajah",
+          "slug": "kecantikan/perawatan-wajah/scrub-wajah",
+          "children": []
+        },
+        {
+          "name": "Serum Bulu Mata Alis",
+          "slug": "kecantikan/perawatan-wajah/serum-bulu-mata-alis",
+          "children": []
+        },
+        {
+          "name": "Serum Mata",
+          "slug": "kecantikan/perawatan-wajah/serum-mata",
+          "children": []
+        },
+        {
+          "name": "Serum Wajah",
+          "slug": "kecantikan/perawatan-wajah/serum-wajah",
+          "children": []
+        },
+        {
+          "name": "Skincare Tools",
+          "slug": "kecantikan/perawatan-wajah/skincare-tools",
+          "children": []
+        },
+        {
+          "name": "Sunblock Wajah",
+          "slug": "kecantikan/perawatan-wajah/sunblock-wajah",
+          "children": []
+        },
+        {
+          "name": "Toner Wajah",
+          "slug": "kecantikan/perawatan-wajah/toner-wajah",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Styling Rambut Wanita",
+      "slug": "kecantikan/styling-rambut-wanita",
+      "children": [
+        {
+          "name": "Alat Potong Rambut",
+          "slug": "kecantikan/styling-rambut-wanita/alat-potong-rambut",
+          "children": []
+        },
+        {
+          "name": "Catokan Rambut",
+          "slug": "kecantikan/styling-rambut-wanita/catokan-rambut",
+          "children": []
+        },
+        {
+          "name": "Curling Iron",
+          "slug": "kecantikan/styling-rambut-wanita/curling-iron",
+          "children": []
+        },
+        {
+          "name": "Hair Dryer",
+          "slug": "kecantikan/styling-rambut-wanita/hair-dryer",
+          "children": []
+        },
+        {
+          "name": "Sisir Rambut",
+          "slug": "kecantikan/styling-rambut-wanita/sisir-rambut",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Suplemen Kecantikan Collagen",
+      "slug": "kecantikan/suplemen-kecantikan-collagen",
+      "children": [
+        {
+          "name": "Suplemen Kecantikan Bubuk",
+          "slug": "kecantikan/suplemen-kecantikan-collagen/suplemen-kecantikan-bubuk",
+          "children": []
+        },
+        {
+          "name": "Suplemen Kecantikan Kapsul",
+          "slug": "kecantikan/suplemen-kecantikan-collagen/suplemen-kecantikan-kapsul",
+          "children": []
+        },
+        {
+          "name": "Suplemen Kecantikan Lainnya",
+          "slug": "kecantikan/suplemen-kecantikan-collagen/suplemen-kecantikan-lainnya",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
