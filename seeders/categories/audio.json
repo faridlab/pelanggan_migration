@@ -1,0 +1,394 @@
+{
+  "name": "Audio, Kamera & Elektronik Lainnya",
+  "slug": "audio-kamera-elektronik-lainnya",
+  "children": [
+    {
+      "name": "Aksesoris Kamera",
+      "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera",
+      "children": [
+        {
+          "name": "Baterai & Charger Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/baterai-charger-kamera",
+          "children": []
+        },
+        {
+          "name": "Case Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/case-kamera",
+          "children": []
+        },
+        {
+          "name": "Cleaning Tools Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/cleaning-tools-kamera",
+          "children": []
+        },
+        {
+          "name": "Dry Box Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/dry-box-kamera",
+          "children": []
+        },
+        {
+          "name": "Kabel Konektor Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/kabel-konektor-kamera",
+          "children": []
+        },
+        {
+          "name": "Lainnya",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/lainnya",
+          "children": []
+        },
+        {
+          "name": "Microphone Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/microphone-kamera",
+          "children": []
+        },
+        {
+          "name": "Monopod Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/monopod-kamera",
+          "children": []
+        },
+        {
+          "name": "Remote Wireless Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/remote-wireless-kamera",
+          "children": []
+        },
+        {
+          "name": "Silica Gel Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/silica-gel-kamera",
+          "children": []
+        },
+        {
+          "name": "Stabilizer Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/stabilizer-kamera",
+          "children": []
+        },
+        {
+          "name": "Strap Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/strap-kamera",
+          "children": []
+        },
+        {
+          "name": "Tas Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/tas-kamera",
+          "children": []
+        },
+        {
+          "name": "Tripod Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/aksesoris-kamera/tripod-kamera",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Audio",
+      "slug": "audio-kamera-elektronik-lainnya/audio",
+      "children": [
+        {
+          "name": "Amplifier",
+          "slug": "audio-kamera-elektronik-lainnya/audio/amplifier",
+          "children": []
+        },
+        {
+          "name": "Earphone",
+          "slug": "audio-kamera-elektronik-lainnya/audio/earphone",
+          "children": []
+        },
+        {
+          "name": "Headphone",
+          "slug": "audio-kamera-elektronik-lainnya/audio/headphone",
+          "children": []
+        },
+        {
+          "name": "Kabel & Konektor Audio",
+          "slug": "audio-kamera-elektronik-lainnya/audio/kabel-konektor-audio",
+          "children": []
+        },
+        {
+          "name": "Sound System",
+          "slug": "audio-kamera-elektronik-lainnya/audio/sound-system",
+          "children": []
+        },
+        {
+          "name": "Speaker",
+          "slug": "audio-kamera-elektronik-lainnya/audio/speaker",
+          "children": []
+        },
+        {
+          "name": "TWS",
+          "slug": "audio-kamera-elektronik-lainnya/audio/tws",
+          "children": []
+        },
+        {
+          "name": "Voice Recorder",
+          "slug": "audio-kamera-elektronik-lainnya/audio/voice-recorder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Frame, Album & Roll Film",
+      "slug": "audio-kamera-elektronik-lainnya/frame-album-roll-film",
+      "children": [
+        {
+          "name": "Album Foto",
+          "slug": "audio-kamera-elektronik-lainnya/frame-album-roll-film/album-foto",
+          "children": []
+        },
+        {
+          "name": "DVs",
+          "slug": "audio-kamera-elektronik-lainnya/frame-album-roll-film/dvs",
+          "children": []
+        },
+        {
+          "name": "Frame Digital",
+          "slug": "audio-kamera-elektronik-lainnya/frame-album-roll-film/frame-digital",
+          "children": []
+        },
+        {
+          "name": "Frame Foto",
+          "slug": "audio-kamera-elektronik-lainnya/frame-album-roll-film/frame-foto",
+          "children": []
+        },
+        {
+          "name": "Roll Film",
+          "slug": "audio-kamera-elektronik-lainnya/frame-album-roll-film/roll-film",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kamera Analog",
+      "slug": "audio-kamera-elektronik-lainnya/kamera-analog",
+      "children": [
+        {
+          "name": "Disposable Camera",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-analog/disposable-camera",
+          "children": []
+        },
+        {
+          "name": "Kamera Film",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-analog/kamera-film",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kamera Digital",
+      "slug": "audio-kamera-elektronik-lainnya/kamera-digital",
+      "children": [
+        {
+          "name": "Action Camera",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-digital/action-camera",
+          "children": []
+        },
+        {
+          "name": "Kamera 360",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-digital/kamera-360",
+          "children": []
+        },
+        {
+          "name": "Kamera DSLR",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-digital/kamera-dslr",
+          "children": []
+        },
+        {
+          "name": "Kamera Mirrorless",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-digital/kamera-mirrorless",
+          "children": []
+        },
+        {
+          "name": "Kamera Pocket",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-digital/kamera-pocket",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kamera Instan",
+      "slug": "audio-kamera-elektronik-lainnya/kamera-instan",
+      "children": [
+        {
+          "name": "Perangkat Kamera Instan",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-instan/perangkat-kamera-instan",
+          "children": []
+        },
+        {
+          "name": "Printer Foto Instan",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-instan/printer-foto-instan",
+          "children": []
+        },
+        {
+          "name": "Refilll Kamera Instan",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-instan/refilll-kamera-instan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kamera Pengintai",
+      "slug": "audio-kamera-elektronik-lainnya/kamera-pengintai",
+      "children": [
+        {
+          "name": "DVR",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-pengintai/dvr",
+          "children": []
+        },
+        {
+          "name": "Fake Camera",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-pengintai/fake-camera",
+          "children": []
+        },
+        {
+          "name": "IP Camera",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-pengintai/ip-camera",
+          "children": []
+        },
+        {
+          "name": "Kabel CCTV",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-pengintai/kabel-cctv",
+          "children": []
+        },
+        {
+          "name": "Kamera CCTV",
+          "slug": "audio-kamera-elektronik-lainnya/kamera-pengintai/kamera-cctv",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lensa & Aksesoris",
+      "slug": "audio-kamera-elektronik-lainnya/lensa-aksesoris",
+      "children": [
+        {
+          "name": "Aksesoris Lensa",
+          "slug": "audio-kamera-elektronik-lainnya/lensa-aksesoris/aksesoris-lensa",
+          "children": []
+        },
+        {
+          "name": "Lensa Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/lensa-aksesoris/lensa-kamera",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lighting & Studio",
+      "slug": "audio-kamera-elektronik-lainnya/lighting-studio",
+      "children": [
+        {
+          "name": "Backdrop",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/backdrop",
+          "children": []
+        },
+        {
+          "name": "Flash Diffuser",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/flash-diffuser",
+          "children": []
+        },
+        {
+          "name": "Flash Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/flash-kamera",
+          "children": []
+        },
+        {
+          "name": "Flash Trigger",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/flash-trigger",
+          "children": []
+        },
+        {
+          "name": "Hot Shoe Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/hot-shoe-kamera",
+          "children": []
+        },
+        {
+          "name": "Reflektor",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/reflektor",
+          "children": []
+        },
+        {
+          "name": "Ring Light",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/ring-light",
+          "children": []
+        },
+        {
+          "name": "Softbox",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/softbox",
+          "children": []
+        },
+        {
+          "name": "Studio Lighting",
+          "slug": "audio-kamera-elektronik-lainnya/lighting-studio/studio-lighting",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Media Player",
+      "slug": "audio-kamera-elektronik-lainnya/media-player",
+      "children": [
+        {
+          "name": "Blu Ray Player",
+          "slug": "audio-kamera-elektronik-lainnya/media-player/blu-ray-player",
+          "children": []
+        },
+        {
+          "name": "DVD Player",
+          "slug": "audio-kamera-elektronik-lainnya/media-player/dvd-player",
+          "children": []
+        },
+        {
+          "name": "MP3 & MP4 Player",
+          "slug": "audio-kamera-elektronik-lainnya/media-player/mp3-mp4-player",
+          "children": []
+        },
+        {
+          "name": "Radio & Tape Player",
+          "slug": "audio-kamera-elektronik-lainnya/media-player/radio-tape-player",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perangkat Elektronik Lainnya",
+      "slug": "audio-kamera-elektronik-lainnya/perangkat-elektronik-lainnya",
+      "children": [
+        {
+          "name": "Lainnya",
+          "slug": "audio-kamera-elektronik-lainnya/perangkat-elektronik-lainnya/lainnya",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Remote Control Drone",
+      "slug": "audio-kamera-elektronik-lainnya/remote-control-drone",
+      "children": [
+        {
+          "name": "Aksesoris Drone",
+          "slug": "audio-kamera-elektronik-lainnya/remote-control-drone/aksesoris-drone",
+          "children": []
+        },
+        {
+          "name": "Drone Kamera",
+          "slug": "audio-kamera-elektronik-lainnya/remote-control-drone/drone-kamera",
+          "children": []
+        },
+        {
+          "name": "Drone Remote Control",
+          "slug": "audio-kamera-elektronik-lainnya/remote-control-drone/drone-remote-control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "slug": "audio-kamera-elektronik-lainnya/video",
+      "children": [
+        {
+          "name": "Camcorder",
+          "slug": "audio-kamera-elektronik-lainnya/video/camcorder",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
