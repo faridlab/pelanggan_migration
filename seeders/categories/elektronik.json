@@ -1,0 +1,327 @@
+{
+  "name": "Elektronik",
+  "slug": "elektronik",
+  "children": [
+    {
+      "name": "Alat Pendingin Ruangan",
+      "slug": "elektronik/alat-pendingin-ruangan",
+      "children": [
+        {
+          "name": "Ac Portable",
+          "slug": "elektronik/alat-pendingin-ruangan/ac-portable",
+          "children": []
+        },
+        {
+          "name": "Ac Reflektor",
+          "slug": "elektronik/alat-pendingin-ruangan/ac-reflektor",
+          "children": []
+        },
+        {
+          "name": "Ac Standing",
+          "slug": "elektronik/alat-pendingin-ruangan/ac-standing",
+          "children": []
+        },
+        {
+          "name": "Air Conditioner",
+          "slug": "elektronik/alat-pendingin-ruangan/air-conditioner",
+          "children": []
+        },
+        {
+          "name": "Air Cooler",
+          "slug": "elektronik/alat-pendingin-ruangan/air-cooler",
+          "children": []
+        },
+        {
+          "name": "Air Purifier",
+          "slug": "elektronik/alat-pendingin-ruangan/air-purifier",
+          "children": []
+        },
+        {
+          "name": "Diffuser Humidifier Listrik",
+          "slug": "elektronik/alat-pendingin-ruangan/diffuser-humidifier-listrik",
+          "children": []
+        },
+        {
+          "name": "Kipas Angin Listrik",
+          "slug": "elektronik/alat-pendingin-ruangan/kipas-angin-listrik",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Elektronik Dapur",
+      "slug": "elektronik/elektronik-dapur",
+      "children": [
+        {
+          "name": "Blender Chopper Listrik",
+          "slug": "elektronik/elektronik-dapur/blender-chopper-listrik",
+          "children": []
+        },
+        {
+          "name": "Air Fryer",
+          "slug": "elektronik/elektronik-dapur/air-fryer",
+          "children": []
+        },
+        {
+          "name": "Cooker Hood",
+          "slug": "elektronik/elektronik-dapur/cooker-hood",
+          "children": []
+        },
+        {
+          "name": "Dish Dryer Listrik",
+          "slug": "elektronik/elektronik-dapur/dish-dryer-listrik",
+          "children": []
+        },
+        {
+          "name": "Dishwasher",
+          "slug": "elektronik/elektronik-dapur/dishwasher",
+          "children": []
+        },
+        {
+          "name": "Dispenser Elektrik",
+          "slug": "elektronik/elektronik-dapur/dispenser-elektrik",
+          "children": []
+        },
+        {
+          "name": "Freezer",
+          "slug": "elektronik/elektronik-dapur/freezer",
+          "children": []
+        },
+        {
+          "name": "Juicer",
+          "slug": "elektronik/elektronik-dapur/juicer",
+          "children": []
+        },
+        {
+          "name": "Kompor Listrik",
+          "slug": "elektronik/elektronik-dapur/kompor-listrik",
+          "children": []
+        },
+        {
+          "name": "Kulkas",
+          "slug": "elektronik/elektronik-dapur/kulkas",
+          "children": []
+        },
+        {
+          "name": "Microwave",
+          "slug": "elektronik/elektronik-dapur/microwave",
+          "children": []
+        },
+        {
+          "name": "Mixer",
+          "slug": "elektronik/elektronik-dapur/mixer",
+          "children": []
+        },
+        {
+          "name": "Multicooker",
+          "slug": "elektronik/elektronik-dapur/multicooker",
+          "children": []
+        },
+        {
+          "name": "Oven Listrik",
+          "slug": "elektronik/elektronik-dapur/oven-listrik",
+          "children": []
+        },
+        {
+          "name": "Rice Cooker",
+          "slug": "elektronik/elektronik-dapur/rice-cooker",
+          "children": []
+        },
+        {
+          "name": "Showcase Chiller",
+          "slug": "elektronik/elektronik-dapur/showcase-chiller",
+          "children": []
+        },
+        {
+          "name": "Slow Cooker",
+          "slug": "elektronik/elektronik-dapur/slow-cooker",
+          "children": []
+        },
+        {
+          "name": "Steamer Listrik",
+          "slug": "elektronik/elektronik-dapur/steamer-listrik",
+          "children": []
+        },
+        {
+          "name": "Teko Listrik",
+          "slug": "elektronik/elektronik-dapur/teko-listrik",
+          "children": []
+        },
+        {
+          "name": "Toaster Sandwich Maker List",
+          "slug": "elektronik/elektronik-dapur/toaster-sandwich-maker-list",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Elektronik Kantor",
+      "slug": "elektronik/elektronik-kantor",
+      "children": [
+        {
+          "name": "Kartu Rfid",
+          "slug": "elektronik/elektronik-kantor/kartu-rfid",
+          "children": []
+        },
+        {
+          "name": "Mesin Absensi",
+          "slug": "elektronik/elektronik-kantor/mesin-absensi",
+          "children": []
+        },
+        {
+          "name": "Mesin Fax",
+          "slug": "elektronik/elektronik-kantor/mesin-fax",
+          "children": []
+        },
+        {
+          "name": "Mesin Fotocopy",
+          "slug": "elektronik/elektronik-kantor/mesin-fotocopy",
+          "children": []
+        },
+        {
+          "name": "Mesin Hitung Uang",
+          "slug": "elektronik/elektronik-kantor/mesin-hitung-uang",
+          "children": []
+        },
+        {
+          "name": "Mesin Jilid",
+          "slug": "elektronik/elektronik-kantor/mesin-jilid",
+          "children": []
+        },
+        {
+          "name": "Mesin Kasir",
+          "slug": "elektronik/elektronik-kantor/mesin-kasir",
+          "children": []
+        },
+        {
+          "name": "Mesin Laminating",
+          "slug": "elektronik/elektronik-kantor/mesin-laminating",
+          "children": []
+        },
+        {
+          "name": "Mesin Penghancur Kertas",
+          "slug": "elektronik/elektronik-kantor/mesin-penghancur-kertas",
+          "children": []
+        },
+        {
+          "name": "Reader Rfid",
+          "slug": "elektronik/elektronik-kantor/reader-rfid",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Elektronik Rumah Tangga",
+      "slug": "elektronik/elektronik-rumah-tangga",
+      "children": [
+        {
+          "name": "Alat Pengering Baju",
+          "slug": "elektronik/elektronik-rumah-tangga/alat-pengering-baju",
+          "children": []
+        },
+        {
+          "name": "Hand Blower",
+          "slug": "elektronik/elektronik-rumah-tangga/hand-blower",
+          "children": []
+        },
+        {
+          "name": "Mesin Cuci",
+          "slug": "elektronik/elektronik-rumah-tangga/mesin-cuci",
+          "children": []
+        },
+        {
+          "name": "Setrika",
+          "slug": "elektronik/elektronik-rumah-tangga/setrika",
+          "children": []
+        },
+        {
+          "name": "Setrika Uap",
+          "slug": "elektronik/elektronik-rumah-tangga/setrika-uap",
+          "children": []
+        },
+        {
+          "name": "Vacuum Cleaners",
+          "slug": "elektronik/elektronik-rumah-tangga/vacuum-cleaners",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tv Aksesoris",
+      "slug": "elektronik/tv-aksesoris",
+      "children": [
+        {
+          "name": "Antena Tv Parabola",
+          "slug": "elektronik/tv-aksesoris/antena-tv-parabola",
+          "children": []
+        },
+        {
+          "name": "Bracket Tv",
+          "slug": "elektronik/tv-aksesoris/bracket-tv",
+          "children": []
+        },
+        {
+          "name": "Kabel Konektor",
+          "slug": "elektronik/tv-aksesoris/kabel-konektor",
+          "children": []
+        },
+        {
+          "name": "Penguat Sinyal Tv",
+          "slug": "elektronik/tv-aksesoris/penguat-sinyal-tv",
+          "children": []
+        },
+        {
+          "name": "Receiver Tv",
+          "slug": "elektronik/tv-aksesoris/receiver-tv",
+          "children": []
+        },
+        {
+          "name": "Remote Tv",
+          "slug": "elektronik/tv-aksesoris/remote-tv",
+          "children": []
+        },
+        {
+          "name": "Tv Box",
+          "slug": "elektronik/tv-aksesoris/tv-box",
+          "children": []
+        },
+        {
+          "name": "Televisi",
+          "slug": "elektronik/tv-aksesoris/televisi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Telepon",
+      "slug": "elektronik/telepon",
+      "children": [
+        {
+          "name": "Kabel Konektor Telepon",
+          "slug": "elektronik/telepon/kabel-konektor-telepon",
+          "children": []
+        },
+        {
+          "name": "Telepon Kabel",
+          "slug": "elektronik/telepon/telepon-kabel",
+          "children": []
+        },
+        {
+          "name": "Telepon Satelit",
+          "slug": "elektronik/telepon/telepon-satelit",
+          "children": []
+        },
+        {
+          "name": "Telepon Wireless",
+          "slug": "elektronik/telepon/telepon-wireless",
+          "children": []
+        },
+        {
+          "name": "Walkie Talkie",
+          "slug": "elektronik/telepon/walkie-talkie",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
