@@ -1,0 +1,740 @@
+{
+  "name": "Fashion Anak Bayi",
+  "slug": "fashion-anak-bayi",
+  "children": [
+    {
+      "name": "Aksesoris Anak",
+      "slug": "fashion-anak-bayi/aksesoris-anak",
+      "children": [
+        {
+          "name": "Bando Bandana Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/bando-bandana-anak",
+          "children": []
+        },
+        {
+          "name": "Beanie Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/beanie-anak",
+          "children": []
+        },
+        {
+          "name": "Dasi Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/dasi-anak",
+          "children": []
+        },
+        {
+          "name": "Ikat Pinggang Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/ikat-pinggang-anak",
+          "children": []
+        },
+        {
+          "name": "Ikat Rambut Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/ikat-rambut-anak",
+          "children": []
+        },
+        {
+          "name": "Jas Hujan Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/jas-hujan-anak",
+          "children": []
+        },
+        {
+          "name": "Jepitan Rambut Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/jepitan-rambut-anak",
+          "children": []
+        },
+        {
+          "name": "Kacamata Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/kacamata-anak",
+          "children": []
+        },
+        {
+          "name": "Kacamata Hitam Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/kacamata-hitam-anak",
+          "children": []
+        },
+        {
+          "name": "Mahkota Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/mahkota-anak",
+          "children": []
+        },
+        {
+          "name": "Payung Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/payung-anak",
+          "children": []
+        },
+        {
+          "name": "Pita Rambut Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/pita-rambut-anak",
+          "children": []
+        },
+        {
+          "name": "Sarung Tangan Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/sarung-tangan-anak",
+          "children": []
+        },
+        {
+          "name": "Suspender Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/suspender-anak",
+          "children": []
+        },
+        {
+          "name": "Syal Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/syal-anak",
+          "children": []
+        },
+        {
+          "name": "Topi Anak",
+          "slug": "fashion-anak-bayi/aksesoris-anak/topi-anak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aksesoris Bayi",
+      "slug": "fashion-anak-bayi/aksesoris-bayi",
+      "children": [
+        {
+          "name": "Headband Bando Bayi",
+          "slug": "fashion-anak-bayi/aksesoris-bayi/headband-bando-bayi",
+          "children": []
+        },
+        {
+          "name": "Kacamata Jemur Bayi",
+          "slug": "fashion-anak-bayi/aksesoris-bayi/kacamata-jemur-bayi",
+          "children": []
+        },
+        {
+          "name": "Perhiasan Bayi",
+          "slug": "fashion-anak-bayi/aksesoris-bayi/perhiasan-bayi",
+          "children": []
+        },
+        {
+          "name": "Topi Bayi",
+          "slug": "fashion-anak-bayi/aksesoris-bayi/topi-bayi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Baju Sepatu Bayi",
+      "slug": "fashion-anak-bayi/baju-sepatu-bayi",
+      "children": [
+        {
+          "name": "Baju Renang Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/baju-renang-bayi",
+          "children": []
+        },
+        {
+          "name": "Gurita Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/gurita-bayi",
+          "children": []
+        },
+        {
+          "name": "Jaket Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/jaket-bayi",
+          "children": []
+        },
+        {
+          "name": "Jumper Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/jumper-bayi",
+          "children": []
+        },
+        {
+          "name": "Pakaian Bayi Laki Laki",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/pakaian-bayi-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Pakaian Bayi Perempuan",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/pakaian-bayi-perempuan",
+          "children": []
+        },
+        {
+          "name": "Pakaian Bayi Unisex",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/pakaian-bayi-unisex",
+          "children": []
+        },
+        {
+          "name": "Piyama Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/piyama-bayi",
+          "children": []
+        },
+        {
+          "name": "Sarung Tangan Kaos Kaki Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/sarung-tangan-kaos-kaki-bayi",
+          "children": []
+        },
+        {
+          "name": "Sepatu Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/sepatu-bayi",
+          "children": []
+        },
+        {
+          "name": "Setelan Bayi",
+          "slug": "fashion-anak-bayi/baju-sepatu-bayi/setelan-bayi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Jam Tangan Anak",
+      "slug": "fashion-anak-bayi/jam-tangan-anak",
+      "children": [
+        {
+          "name": "Jam Tangan Analog Anak",
+          "slug": "fashion-anak-bayi/jam-tangan-anak/jam-tangan-analog-anak",
+          "children": []
+        },
+        {
+          "name": "Jam Tangan Digital Anak",
+          "slug": "fashion-anak-bayi/jam-tangan-anak/jam-tangan-digital-anak",
+          "children": []
+        },
+        {
+          "name": "Smart Watch Anak",
+          "slug": "fashion-anak-bayi/jam-tangan-anak/smart-watch-anak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kostum Anak",
+      "slug": "fashion-anak-bayi/kostum-anak",
+      "children": [
+        {
+          "name": "Kostum Duyung Anak",
+          "slug": "fashion-anak-bayi/kostum-anak/kostum-duyung-anak",
+          "children": []
+        },
+        {
+          "name": "Kostum Karakter Anak",
+          "slug": "fashion-anak-bayi/kostum-anak/kostum-karakter-anak",
+          "children": []
+        },
+        {
+          "name": "Kostum Princess Anak",
+          "slug": "fashion-anak-bayi/kostum-anak/kostum-princess-anak",
+          "children": []
+        },
+        {
+          "name": "Kostum Profesi Anak",
+          "slug": "fashion-anak-bayi/kostum-anak/kostum-profesi-anak",
+          "children": []
+        },
+        {
+          "name": "Kostum Superhero Anak",
+          "slug": "fashion-anak-bayi/kostum-anak/kostum-superhero-anak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Adat Anak",
+      "slug": "fashion-anak-bayi/pakaian-adat-anak",
+      "children": [
+        {
+          "name": "Cheong Sam Anak",
+          "slug": "fashion-anak-bayi/pakaian-adat-anak/cheong-sam-anak",
+          "children": []
+        },
+        {
+          "name": "Hanbok Anak",
+          "slug": "fashion-anak-bayi/pakaian-adat-anak/hanbok-anak",
+          "children": []
+        },
+        {
+          "name": "Kebaya Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-adat-anak/kebaya-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Pakaian Adat Internasional Anak",
+          "slug": "fashion-anak-bayi/pakaian-adat-anak/pakaian-adat-internasional-anak",
+          "children": []
+        },
+        {
+          "name": "Pakaian Adat Nasional Anak",
+          "slug": "fashion-anak-bayi/pakaian-adat-anak/pakaian-adat-nasional-anak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Anak Laki Laki",
+      "slug": "fashion-anak-bayi/pakaian-anak-laki-laki",
+      "children": [
+        {
+          "name": "Baju Tidur Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/baju-tidur-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Celana Jeans Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/celana-jeans-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Celana Jogger Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/celana-jogger-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Celana Kasual Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/celana-kasual-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Celana Panjang Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/celana-panjang-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Celana Pendek Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/celana-pendek-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Coat Kasual Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/coat-kasual-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Coat Musim Dingin Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/coat-musim-dingin-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Down Coat Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/down-coat-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Hoodie Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/hoodie-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Jaket Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/jaket-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Jaket Bulu Asli Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/jaket-bulu-asli-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Jaket Bulu Sintetis Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/jaket-bulu-sintetis-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Jas Tuxedo Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/jas-tuxedo-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Jumpsuit Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/jumpsuit-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Kaos Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/kaos-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Kaos Polo Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/kaos-polo-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Kemeja Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/kemeja-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Knitwear Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/knitwear-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Overall Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/overall-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Rompi Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/rompi-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Rompi Kasual Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/rompi-kasual-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Setelan Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/setelan-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Setelan Jas Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/setelan-jas-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Trench Coat Anak Laki Laki",
+          "slug": "fashion-anak-bayi/pakaian-anak-laki-laki/trench-coat-anak-laki-laki",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Anak Perempuan",
+      "slug": "fashion-anak-bayi/pakaian-anak-perempuan",
+      "children": [
+        {
+          "name": "Baby Dolls Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/baby-dolls-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Baju Balet Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/baju-balet-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Baju Tidur Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/baju-tidur-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Blouse Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/blouse-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Bolero Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/bolero-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Cardigan Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/cardigan-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Celana Jeans Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/celana-jeans-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Celana Panjang Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/celana-panjang-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Celana Pendek Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/celana-pendek-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Dress Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/dress-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Hoodie Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/hoodie-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Jaket Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/jaket-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Jumpsuit Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/jumpsuit-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Kaos Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/kaos-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Kaos Polo Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/kaos-polo-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Kemeja Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/kemeja-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Knitwear Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/knitwear-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Kulot Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/kulot-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Legging Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/legging-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Overall Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/overall-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Rok Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/rok-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Rompi Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/rompi-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Setelan Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/setelan-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Tank Top Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-anak-perempuan/tank-top-anak-perempuan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Dalam Anak",
+      "slug": "fashion-anak-bayi/pakaian-dalam-anak",
+      "children": [
+        {
+          "name": "Bra Olahraga Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-dalam-anak/bra-olahraga-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Celana Dalam Anak",
+          "slug": "fashion-anak-bayi/pakaian-dalam-anak/celana-dalam-anak",
+          "children": []
+        },
+        {
+          "name": "Kaos Dalam Anak",
+          "slug": "fashion-anak-bayi/pakaian-dalam-anak/kaos-dalam-anak",
+          "children": []
+        },
+        {
+          "name": "Long John Anak",
+          "slug": "fashion-anak-bayi/pakaian-dalam-anak/long-john-anak",
+          "children": []
+        },
+        {
+          "name": "Miniset",
+          "slug": "fashion-anak-bayi/pakaian-dalam-anak/miniset",
+          "children": []
+        },
+        {
+          "name": "Pakaian Dalam Thermal Anak Perempuan",
+          "slug": "fashion-anak-bayi/pakaian-dalam-anak/pakaian-dalam-thermal-anak-perempuan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perhiasan Anak",
+      "slug": "fashion-anak-bayi/perhiasan-anak",
+      "children": [
+        {
+          "name": "Anting Anak",
+          "slug": "fashion-anak-bayi/perhiasan-anak/anting-anak",
+          "children": []
+        },
+        {
+          "name": "Cincin Anak",
+          "slug": "fashion-anak-bayi/perhiasan-anak/cincin-anak",
+          "children": []
+        },
+        {
+          "name": "Gelang Anak",
+          "slug": "fashion-anak-bayi/perhiasan-anak/gelang-anak",
+          "children": []
+        },
+        {
+          "name": "Kalung Anak",
+          "slug": "fashion-anak-bayi/perhiasan-anak/kalung-anak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sepatu Anak Laki Laki",
+      "slug": "fashion-anak-bayi/sepatu-anak-laki-laki",
+      "children": [
+        {
+          "name": "Boots Anak Laki Laki",
+          "slug": "fashion-anak-bayi/sepatu-anak-laki-laki/boots-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Kaos Kaki Anak Laki Laki",
+          "slug": "fashion-anak-bayi/sepatu-anak-laki-laki/kaos-kaki-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Pantofel Anak Laki Laki",
+          "slug": "fashion-anak-bayi/sepatu-anak-laki-laki/pantofel-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Sandal Anak Laki Laki",
+          "slug": "fashion-anak-bayi/sepatu-anak-laki-laki/sandal-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Sepatu Sandal Anak Laki Laki",
+          "slug": "fashion-anak-bayi/sepatu-anak-laki-laki/sepatu-sandal-anak-laki-laki",
+          "children": []
+        },
+        {
+          "name": "Sneakers Anak Laki Laki",
+          "slug": "fashion-anak-bayi/sepatu-anak-laki-laki/sneakers-anak-laki-laki",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sepatu Anak Perempuan",
+      "slug": "fashion-anak-bayi/sepatu-anak-perempuan",
+      "children": [
+        {
+          "name": "Boots Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/boots-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Flat Shoes Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/flat-shoes-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Kaos Kaki Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/kaos-kaki-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Sandal Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/sandal-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Sepatu Balet Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/sepatu-balet-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Sepatu Jelly Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/sepatu-jelly-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Sepatu Pesta Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/sepatu-pesta-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Sepatu Sandal Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/sepatu-sandal-anak-perempuan",
+          "children": []
+        },
+        {
+          "name": "Sneakers Anak Perempuan",
+          "slug": "fashion-anak-bayi/sepatu-anak-perempuan/sneakers-anak-perempuan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Seragam Sekolah",
+      "slug": "fashion-anak-bayi/seragam-sekolah",
+      "children": [
+        {
+          "name": "Atasan Seragam",
+          "slug": "fashion-anak-bayi/seragam-sekolah/atasan-seragam",
+          "children": []
+        },
+        {
+          "name": "Bawahan Seragam",
+          "slug": "fashion-anak-bayi/seragam-sekolah/bawahan-seragam",
+          "children": []
+        },
+        {
+          "name": "Belt Seragam Sekolah",
+          "slug": "fashion-anak-bayi/seragam-sekolah/belt-seragam-sekolah",
+          "children": []
+        },
+        {
+          "name": "Dasi Seragam Sekolah",
+          "slug": "fashion-anak-bayi/seragam-sekolah/dasi-seragam-sekolah",
+          "children": []
+        },
+        {
+          "name": "Kaos Kaki Sekolah",
+          "slug": "fashion-anak-bayi/seragam-sekolah/kaos-kaki-sekolah",
+          "children": []
+        },
+        {
+          "name": "Kerudung Sekolah",
+          "slug": "fashion-anak-bayi/seragam-sekolah/kerudung-sekolah",
+          "children": []
+        },
+        {
+          "name": "Topi Seragam Sekolah",
+          "slug": "fashion-anak-bayi/seragam-sekolah/topi-seragam-sekolah",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tas Anak",
+      "slug": "fashion-anak-bayi/tas-anak",
+      "children": [
+        {
+          "name": "Dompet Anak",
+          "slug": "fashion-anak-bayi/tas-anak/dompet-anak",
+          "children": []
+        },
+        {
+          "name": "Tas Koper Anak",
+          "slug": "fashion-anak-bayi/tas-anak/tas-koper-anak",
+          "children": []
+        },
+        {
+          "name": "Tas Ransel Anak",
+          "slug": "fashion-anak-bayi/tas-anak/tas-ransel-anak",
+          "children": []
+        },
+        {
+          "name": "Tas Selempang Anak",
+          "slug": "fashion-anak-bayi/tas-anak/tas-selempang-anak",
+          "children": []
+        },
+        {
+          "name": "Tas Tangan Anak",
+          "slug": "fashion-anak-bayi/tas-anak/tas-tangan-anak",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
