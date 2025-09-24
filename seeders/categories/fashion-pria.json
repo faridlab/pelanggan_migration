@@ -1,0 +1,534 @@
+{
+  "name": "Fashion Pria",
+  "slug": "fashion-pria",
+  "children": [
+    {
+      "name": "Aksesoris Pria",
+      "slug": "fashion-pria/aksesoris-pria",
+      "children": [
+        {
+          "name": "Aksesoris Kacamata Pria",
+          "slug": "fashion-pria/aksesoris-pria/aksesoris-kacamata-pria",
+          "children": []
+        },
+        {
+          "name": "Ikat Pinggang Pria",
+          "slug": "fashion-pria/aksesoris-pria/ikat-pinggang-pria",
+          "children": []
+        },
+        {
+          "name": "Kacamata Hitam Pria",
+          "slug": "fashion-pria/aksesoris-pria/kacamata-hitam-pria",
+          "children": []
+        },
+        {
+          "name": "Kacamata Pria",
+          "slug": "fashion-pria/aksesoris-pria/kacamata-pria",
+          "children": []
+        },
+        {
+          "name": "Sapu Tangan Pria",
+          "slug": "fashion-pria/aksesoris-pria/sapu-tangan-pria",
+          "children": []
+        },
+        {
+          "name": "Sarung Tangan Pria",
+          "slug": "fashion-pria/aksesoris-pria/sarung-tangan-pria",
+          "children": []
+        },
+        {
+          "name": "Scarf Pria",
+          "slug": "fashion-pria/aksesoris-pria/scarf-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aksesoris Sepatu Pria",
+      "slug": "fashion-pria/aksesoris-sepatu-pria",
+      "children": [
+        {
+          "name": "Insole Sepatu Pria",
+          "slug": "fashion-pria/aksesoris-sepatu-pria/insole-sepatu-pria",
+          "children": []
+        },
+        {
+          "name": "Kaos Kaki Pria",
+          "slug": "fashion-pria/aksesoris-sepatu-pria/kaos-kaki-pria",
+          "children": []
+        },
+        {
+          "name": "Perawatan Sepatu",
+          "slug": "fashion-pria/aksesoris-sepatu-pria/perawatan-sepatu",
+          "children": []
+        },
+        {
+          "name": "Sendok Sepatu",
+          "slug": "fashion-pria/aksesoris-sepatu-pria/sendok-sepatu",
+          "children": []
+        },
+        {
+          "name": "Tali Sepatu Pria",
+          "slug": "fashion-pria/aksesoris-sepatu-pria/tali-sepatu-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Atasan Pria",
+      "slug": "fashion-pria/atasan-pria",
+      "children": [
+        {
+          "name": "Polo Shirt Pria",
+          "slug": "fashion-pria/atasan-pria/polo-shirt-pria",
+          "children": []
+        },
+        {
+          "name": "Kaos Pria",
+          "slug": "fashion-pria/atasan-pria/kaos-pria",
+          "children": []
+        },
+        {
+          "name": "Kemeja Pria",
+          "slug": "fashion-pria/atasan-pria/kemeja-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Baju Tidur Pria",
+      "slug": "fashion-pria/baju-tidur-pria",
+      "children": [
+        {
+          "name": "Celana Tidur Pria",
+          "slug": "fashion-pria/baju-tidur-pria/celana-tidur-pria",
+          "children": []
+        },
+        {
+          "name": "Set Piyama Pria",
+          "slug": "fashion-pria/baju-tidur-pria/set-piyama-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Batik Pria",
+      "slug": "fashion-pria/batik-pria",
+      "children": [
+        {
+          "name": "Celana Batik Pria",
+          "slug": "fashion-pria/batik-pria/celana-batik-pria",
+          "children": []
+        },
+        {
+          "name": "Kemeja Batik Pria",
+          "slug": "fashion-pria/batik-pria/kemeja-batik-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Blazer Jas Pria",
+      "slug": "fashion-pria/blazer-jas-pria",
+      "children": [
+        {
+          "name": "Blazer Pria",
+          "slug": "fashion-pria/blazer-jas-pria/blazer-pria",
+          "children": []
+        },
+        {
+          "name": "Cufflink Jas",
+          "slug": "fashion-pria/blazer-jas-pria/cufflink-jas",
+          "children": []
+        },
+        {
+          "name": "Dasi Pria",
+          "slug": "fashion-pria/blazer-jas-pria/dasi-pria",
+          "children": []
+        },
+        {
+          "name": "Jas Tuxedo Pria",
+          "slug": "fashion-pria/blazer-jas-pria/jas-tuxedo-pria",
+          "children": []
+        },
+        {
+          "name": "Pin Jas",
+          "slug": "fashion-pria/blazer-jas-pria/pin-jas",
+          "children": []
+        },
+        {
+          "name": "Pocket Square",
+          "slug": "fashion-pria/blazer-jas-pria/pocket-square",
+          "children": []
+        },
+        {
+          "name": "Suspender Pria",
+          "slug": "fashion-pria/blazer-jas-pria/suspender-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Celana Pria",
+      "slug": "fashion-pria/celana-pria",
+      "children": [
+        {
+          "name": "Celana Bahan Pria",
+          "slug": "fashion-pria/celana-pria/celana-bahan-pria",
+          "children": []
+        },
+        {
+          "name": "Celana Cargo Pria",
+          "slug": "fashion-pria/celana-pria/celana-cargo-pria",
+          "children": []
+        },
+        {
+          "name": "Celana Chino Pria",
+          "slug": "fashion-pria/celana-pria/celana-chino-pria",
+          "children": []
+        },
+        {
+          "name": "Celana Jogger Pria",
+          "slug": "fashion-pria/celana-pria/celana-jogger-pria",
+          "children": []
+        },
+        {
+          "name": "Celana Pendek Pria",
+          "slug": "fashion-pria/celana-pria/celana-pendek-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Jam Tangan Pria",
+      "slug": "fashion-pria/jam-tangan-pria",
+      "children": [
+        {
+          "name": "Aksesoris Jam Tangan Pria",
+          "slug": "fashion-pria/jam-tangan-pria/aksesoris-jam-tangan-pria",
+          "children": []
+        },
+        {
+          "name": "Jam Tangan Analog Pria",
+          "slug": "fashion-pria/jam-tangan-pria/jam-tangan-analog-pria",
+          "children": []
+        },
+        {
+          "name": "Jam Tangan Digital Pria",
+          "slug": "fashion-pria/jam-tangan-pria/jam-tangan-digital-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Jeans Denim Pria",
+      "slug": "fashion-pria/jeans-denim-pria",
+      "children": [
+        {
+          "name": "Celana Jeans Pria",
+          "slug": "fashion-pria/jeans-denim-pria/celana-jeans-pria",
+          "children": []
+        },
+        {
+          "name": "Jaket Jeans Pria",
+          "slug": "fashion-pria/jeans-denim-pria/jaket-jeans-pria",
+          "children": []
+        },
+        {
+          "name": "Kemeja Denim Pria",
+          "slug": "fashion-pria/jeans-denim-pria/kemeja-denim-pria",
+          "children": []
+        },
+        {
+          "name": "Overall Jeans Pria",
+          "slug": "fashion-pria/jeans-denim-pria/overall-jeans-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Masker Pria",
+      "slug": "fashion-pria/masker-pria",
+      "children": [
+        {
+          "name": "Masker Kain",
+          "slug": "fashion-pria/masker-pria/masker-kain",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Outerwear Pria",
+      "slug": "fashion-pria/outerwear-pria",
+      "children": [
+        {
+          "name": "Cardigan Pria",
+          "slug": "fashion-pria/outerwear-pria/cardigan-pria",
+          "children": []
+        },
+        {
+          "name": "Coat Pria",
+          "slug": "fashion-pria/outerwear-pria/coat-pria",
+          "children": []
+        },
+        {
+          "name": "Hoodie Pria",
+          "slug": "fashion-pria/outerwear-pria/hoodie-pria",
+          "children": []
+        },
+        {
+          "name": "Jaket Pria",
+          "slug": "fashion-pria/outerwear-pria/jaket-pria",
+          "children": []
+        },
+        {
+          "name": "Sweater Pria",
+          "slug": "fashion-pria/outerwear-pria/sweater-pria",
+          "children": []
+        },
+        {
+          "name": "Vest Pria",
+          "slug": "fashion-pria/outerwear-pria/vest-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Adat Pria",
+      "slug": "fashion-pria/pakaian-adat-pria",
+      "children": [
+        {
+          "name": "Cheong Sam Pria",
+          "slug": "fashion-pria/pakaian-adat-pria/cheong-sam-pria",
+          "children": []
+        },
+        {
+          "name": "Hanbok Pria",
+          "slug": "fashion-pria/pakaian-adat-pria/hanbok-pria",
+          "children": []
+        },
+        {
+          "name": "Pakaian Adat Internasional Pria",
+          "slug": "fashion-pria/pakaian-adat-pria/pakaian-adat-internasional-pria",
+          "children": []
+        },
+        {
+          "name": "Pakaian Adat Nasional Pria",
+          "slug": "fashion-pria/pakaian-adat-pria/pakaian-adat-nasional-pria",
+          "children": []
+        },
+        {
+          "name": "Yukata Pria",
+          "slug": "fashion-pria/pakaian-adat-pria/yukata-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Dalam Pria",
+      "slug": "fashion-pria/pakaian-dalam-pria",
+      "children": [
+        {
+          "name": "Boxer",
+          "slug": "fashion-pria/pakaian-dalam-pria/boxer",
+          "children": []
+        },
+        {
+          "name": "Celana Dalam Pria",
+          "slug": "fashion-pria/pakaian-dalam-pria/celana-dalam-pria",
+          "children": []
+        },
+        {
+          "name": "Kaos Dalam Pria",
+          "slug": "fashion-pria/pakaian-dalam-pria/kaos-dalam-pria",
+          "children": []
+        },
+        {
+          "name": "Long John Pria",
+          "slug": "fashion-pria/pakaian-dalam-pria/long-john-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perhiasan Pria",
+      "slug": "fashion-pria/perhiasan-pria",
+      "children": [
+        {
+          "name": "Anting Pria",
+          "slug": "fashion-pria/perhiasan-pria/anting-pria",
+          "children": []
+        },
+        {
+          "name": "Batu Mulia Batu Alam",
+          "slug": "fashion-pria/perhiasan-pria/batu-mulia-batu-alam",
+          "children": []
+        },
+        {
+          "name": "Cincin Pria",
+          "slug": "fashion-pria/perhiasan-pria/cincin-pria",
+          "children": []
+        },
+        {
+          "name": "Gelang Pria",
+          "slug": "fashion-pria/perhiasan-pria/gelang-pria",
+          "children": []
+        },
+        {
+          "name": "Kalung Pria",
+          "slug": "fashion-pria/perhiasan-pria/kalung-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sepatu Pria",
+      "slug": "fashion-pria/sepatu-pria",
+      "children": [
+        {
+          "name": "Boots Pria",
+          "slug": "fashion-pria/sepatu-pria/boots-pria",
+          "children": []
+        },
+        {
+          "name": "Loafers Pria",
+          "slug": "fashion-pria/sepatu-pria/loafers-pria",
+          "children": []
+        },
+        {
+          "name": "Pantofel Pria",
+          "slug": "fashion-pria/sepatu-pria/pantofel-pria",
+          "children": []
+        },
+        {
+          "name": "Sandal Pria",
+          "slug": "fashion-pria/sepatu-pria/sandal-pria",
+          "children": []
+        },
+        {
+          "name": "Sepatu Sandal Pria",
+          "slug": "fashion-pria/sepatu-pria/sepatu-sandal-pria",
+          "children": []
+        },
+        {
+          "name": "Slip On Pria",
+          "slug": "fashion-pria/sepatu-pria/slip-on-pria",
+          "children": []
+        },
+        {
+          "name": "Sneakers Pria",
+          "slug": "fashion-pria/sepatu-pria/sneakers-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Seragam Pria",
+      "slug": "fashion-pria/seragam-pria",
+      "children": [
+        {
+          "name": "Seragam Driver Pria",
+          "slug": "fashion-pria/seragam-pria/seragam-driver-pria",
+          "children": []
+        },
+        {
+          "name": "Seragam Koki Pria",
+          "slug": "fashion-pria/seragam-pria/seragam-koki-pria",
+          "children": []
+        },
+        {
+          "name": "Seragam Pns Pria",
+          "slug": "fashion-pria/seragam-pria/seragam-pns-pria",
+          "children": []
+        },
+        {
+          "name": "Seragam Perawat Pria",
+          "slug": "fashion-pria/seragam-pria/seragam-perawat-pria",
+          "children": []
+        },
+        {
+          "name": "Seragam Security Pria",
+          "slug": "fashion-pria/seragam-pria/seragam-security-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tas Pria",
+      "slug": "fashion-pria/tas-pria",
+      "children": [
+        {
+          "name": "Aksesoris Tas Pria",
+          "slug": "fashion-pria/tas-pria/aksesoris-tas-pria",
+          "children": []
+        },
+        {
+          "name": "Briefcase",
+          "slug": "fashion-pria/tas-pria/briefcase",
+          "children": []
+        },
+        {
+          "name": "Clutch Pria",
+          "slug": "fashion-pria/tas-pria/clutch-pria",
+          "children": []
+        },
+        {
+          "name": "Dompet Pria",
+          "slug": "fashion-pria/tas-pria/dompet-pria",
+          "children": []
+        },
+        {
+          "name": "Tas Ransel Pria",
+          "slug": "fashion-pria/tas-pria/tas-ransel-pria",
+          "children": []
+        },
+        {
+          "name": "Tas Selempang Pria",
+          "slug": "fashion-pria/tas-pria/tas-selempang-pria",
+          "children": []
+        },
+        {
+          "name": "Waist Bag Pria",
+          "slug": "fashion-pria/tas-pria/waist-bag-pria",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Topi Pria",
+      "slug": "fashion-pria/topi-pria",
+      "children": [
+        {
+          "name": "Bucket Hat",
+          "slug": "fashion-pria/topi-pria/bucket-hat",
+          "children": []
+        },
+        {
+          "name": "Topi Baseball",
+          "slug": "fashion-pria/topi-pria/topi-baseball",
+          "children": []
+        },
+        {
+          "name": "Topi Fedora",
+          "slug": "fashion-pria/topi-pria/topi-fedora",
+          "children": []
+        },
+        {
+          "name": "Topi Kupluk",
+          "slug": "fashion-pria/topi-pria/topi-kupluk",
+          "children": []
+        },
+        {
+          "name": "Topi Newsboy",
+          "slug": "fashion-pria/topi-pria/topi-newsboy",
+          "children": []
+        },
+        {
+          "name": "Topi Snapback",
+          "slug": "fashion-pria/topi-pria/topi-snapback",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
