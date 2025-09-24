@@ -1,0 +1,774 @@
+{
+  "name": "Fashion Wanita",
+  "slug": "fashion-wanita",
+  "children": [
+    {
+      "name": "Aksesoris Sepatu Wanita",
+      "slug": "fashion-wanita/aksesoris-sepatu-wanita",
+      "children": [
+        {
+          "name": "Insole Sepatu Wanita",
+          "slug": "fashion-wanita/aksesoris-sepatu-wanita/insole-sepatu-wanita",
+          "children": []
+        },
+        {
+          "name": "Kaos Kaki Wanita",
+          "slug": "fashion-wanita/aksesoris-sepatu-wanita/kaos-kaki-wanita",
+          "children": []
+        },
+        {
+          "name": "Silicon Gel Sepatu",
+          "slug": "fashion-wanita/aksesoris-sepatu-wanita/silicon-gel-sepatu",
+          "children": []
+        },
+        {
+          "name": "Tali Sepatu Wanita",
+          "slug": "fashion-wanita/aksesoris-sepatu-wanita/tali-sepatu-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aksesoris Wanita",
+      "slug": "fashion-wanita/aksesoris-wanita",
+      "children": [
+        {
+          "name": "Aksesoris Kacamata Wanita",
+          "slug": "fashion-wanita/aksesoris-wanita/aksesoris-kacamata-wanita",
+          "children": []
+        },
+        {
+          "name": "Ikat Pinggang Wanita",
+          "slug": "fashion-wanita/aksesoris-wanita/ikat-pinggang-wanita",
+          "children": []
+        },
+        {
+          "name": "Kacamata Hitam Wanita",
+          "slug": "fashion-wanita/aksesoris-wanita/kacamata-hitam-wanita",
+          "children": []
+        },
+        {
+          "name": "Kacamata Wanita",
+          "slug": "fashion-wanita/aksesoris-wanita/kacamata-wanita",
+          "children": []
+        },
+        {
+          "name": "Sarung Tangan Wanita",
+          "slug": "fashion-wanita/aksesoris-wanita/sarung-tangan-wanita",
+          "children": []
+        },
+        {
+          "name": "Scarf Shawl Wanita",
+          "slug": "fashion-wanita/aksesoris-wanita/scarf-shawl-wanita",
+          "children": []
+        },
+        {
+          "name": "Topi Wanita",
+          "slug": "fashion-wanita/aksesoris-wanita/topi-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Atasan Wanita",
+      "slug": "fashion-wanita/atasan-wanita",
+      "children": [
+        {
+          "name": "Blouse Wanita",
+          "slug": "fashion-wanita/atasan-wanita/blouse-wanita",
+          "children": []
+        },
+        {
+          "name": "Crop Top Wanita",
+          "slug": "fashion-wanita/atasan-wanita/crop-top-wanita",
+          "children": []
+        },
+        {
+          "name": "Kaos Polo Wanita",
+          "slug": "fashion-wanita/atasan-wanita/kaos-polo-wanita",
+          "children": []
+        },
+        {
+          "name": "Kaos Wanita",
+          "slug": "fashion-wanita/atasan-wanita/kaos-wanita",
+          "children": []
+        },
+        {
+          "name": "Kemeja Wanita",
+          "slug": "fashion-wanita/atasan-wanita/kemeja-wanita",
+          "children": []
+        },
+        {
+          "name": "Tank Top Wanita",
+          "slug": "fashion-wanita/atasan-wanita/tank-top-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Baju Tidur Wanita",
+      "slug": "fashion-wanita/baju-tidur-wanita",
+      "children": [
+        {
+          "name": "Celana Tidur Wanita",
+          "slug": "fashion-wanita/baju-tidur-wanita/celana-tidur-wanita",
+          "children": []
+        },
+        {
+          "name": "Daster Wanita",
+          "slug": "fashion-wanita/baju-tidur-wanita/daster-wanita",
+          "children": []
+        },
+        {
+          "name": "Piyama Wanita",
+          "slug": "fashion-wanita/baju-tidur-wanita/piyama-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Batik Wanita",
+      "slug": "fashion-wanita/batik-wanita",
+      "children": [
+        {
+          "name": "Batik Couple",
+          "slug": "fashion-wanita/batik-wanita/batik-couple",
+          "children": []
+        },
+        {
+          "name": "Blouse Batik",
+          "slug": "fashion-wanita/batik-wanita/blouse-batik",
+          "children": []
+        },
+        {
+          "name": "Celana Batik Wanita",
+          "slug": "fashion-wanita/batik-wanita/celana-batik-wanita",
+          "children": []
+        },
+        {
+          "name": "Dress Batik Wanita",
+          "slug": "fashion-wanita/batik-wanita/dress-batik-wanita",
+          "children": []
+        },
+        {
+          "name": "Jaket Batik Wanita",
+          "slug": "fashion-wanita/batik-wanita/jaket-batik-wanita",
+          "children": []
+        },
+        {
+          "name": "Kain Batik",
+          "slug": "fashion-wanita/batik-wanita/kain-batik",
+          "children": []
+        },
+        {
+          "name": "Kain Tenun",
+          "slug": "fashion-wanita/batik-wanita/kain-tenun",
+          "children": []
+        },
+        {
+          "name": "Outer Batik Wanita",
+          "slug": "fashion-wanita/batik-wanita/outer-batik-wanita",
+          "children": []
+        },
+        {
+          "name": "Rok Batik Wanita",
+          "slug": "fashion-wanita/batik-wanita/rok-batik-wanita",
+          "children": []
+        },
+        {
+          "name": "Syal Batik Wanita",
+          "slug": "fashion-wanita/batik-wanita/syal-batik-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Bawahan Wanita",
+      "slug": "fashion-wanita/bawahan-wanita",
+      "children": [
+        {
+          "name": "Celana Kulot Wanita",
+          "slug": "fashion-wanita/bawahan-wanita/celana-kulot-wanita",
+          "children": []
+        },
+        {
+          "name": "Celana Panjang Wanita",
+          "slug": "fashion-wanita/bawahan-wanita/celana-panjang-wanita",
+          "children": []
+        },
+        {
+          "name": "Celana Pendek Wanita",
+          "slug": "fashion-wanita/bawahan-wanita/celana-pendek-wanita",
+          "children": []
+        },
+        {
+          "name": "Legging Wanita",
+          "slug": "fashion-wanita/bawahan-wanita/legging-wanita",
+          "children": []
+        },
+        {
+          "name": "Rok Wanita",
+          "slug": "fashion-wanita/bawahan-wanita/rok-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Beachwear Wanita",
+      "slug": "fashion-wanita/beachwear-wanita",
+      "children": [
+        {
+          "name": "Bikini",
+          "slug": "fashion-wanita/beachwear-wanita/bikini",
+          "children": []
+        },
+        {
+          "name": "Bikini Outer",
+          "slug": "fashion-wanita/beachwear-wanita/bikini-outer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Bridal",
+      "slug": "fashion-wanita/bridal",
+      "children": [
+        {
+          "name": "Aksesoris Pengantin",
+          "slug": "fashion-wanita/bridal/aksesoris-pengantin",
+          "children": []
+        },
+        {
+          "name": "Bridesmaid Dress",
+          "slug": "fashion-wanita/bridal/bridesmaid-dress",
+          "children": []
+        },
+        {
+          "name": "Cincin Couple",
+          "slug": "fashion-wanita/bridal/cincin-couple",
+          "children": []
+        },
+        {
+          "name": "Gaun Pengantin",
+          "slug": "fashion-wanita/bridal/gaun-pengantin",
+          "children": []
+        },
+        {
+          "name": "Wedding Glove",
+          "slug": "fashion-wanita/bridal/wedding-glove",
+          "children": []
+        },
+        {
+          "name": "Wedding Veil",
+          "slug": "fashion-wanita/bridal/wedding-veil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dress",
+      "slug": "fashion-wanita/dress",
+      "children": [
+        {
+          "name": "Jumpsuit Playsuit",
+          "slug": "fashion-wanita/dress/jumpsuit-playsuit",
+          "children": []
+        },
+        {
+          "name": "Maxi Dress",
+          "slug": "fashion-wanita/dress/maxi-dress",
+          "children": []
+        },
+        {
+          "name": "Midi Dress",
+          "slug": "fashion-wanita/dress/midi-dress",
+          "children": []
+        },
+        {
+          "name": "Mini Dress",
+          "slug": "fashion-wanita/dress/mini-dress",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Fashion Couple",
+      "slug": "fashion-wanita/fashion-couple",
+      "children": [
+        {
+          "name": "Aksesoris Couple",
+          "slug": "fashion-wanita/fashion-couple/aksesoris-couple",
+          "children": []
+        },
+        {
+          "name": "Baju Couple",
+          "slug": "fashion-wanita/fashion-couple/baju-couple",
+          "children": []
+        },
+        {
+          "name": "Jam Tangan Couple",
+          "slug": "fashion-wanita/fashion-couple/jam-tangan-couple",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Jam Tangan Wanita",
+      "slug": "fashion-wanita/jam-tangan-wanita",
+      "children": [
+        {
+          "name": "Jam Tangan Analog Wanita",
+          "slug": "fashion-wanita/jam-tangan-wanita/jam-tangan-analog-wanita",
+          "children": []
+        },
+        {
+          "name": "Jam Tangan Digital Wanita",
+          "slug": "fashion-wanita/jam-tangan-wanita/jam-tangan-digital-wanita",
+          "children": []
+        },
+        {
+          "name": "Strap Jam Wanita",
+          "slug": "fashion-wanita/jam-tangan-wanita/strap-jam-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Jeans Denim Wanita",
+      "slug": "fashion-wanita/jeans-denim-wanita",
+      "children": [
+        {
+          "name": "Celana Jeans Wanita",
+          "slug": "fashion-wanita/jeans-denim-wanita/celana-jeans-wanita",
+          "children": []
+        },
+        {
+          "name": "Dress Denim Wanita",
+          "slug": "fashion-wanita/jeans-denim-wanita/dress-denim-wanita",
+          "children": []
+        },
+        {
+          "name": "Jaket Jeans Wanita",
+          "slug": "fashion-wanita/jeans-denim-wanita/jaket-jeans-wanita",
+          "children": []
+        },
+        {
+          "name": "Jegging Wanita",
+          "slug": "fashion-wanita/jeans-denim-wanita/jegging-wanita",
+          "children": []
+        },
+        {
+          "name": "Kemeja Denim Wanita",
+          "slug": "fashion-wanita/jeans-denim-wanita/kemeja-denim-wanita",
+          "children": []
+        },
+        {
+          "name": "Overall Denim Wanita",
+          "slug": "fashion-wanita/jeans-denim-wanita/overall-denim-wanita",
+          "children": []
+        },
+        {
+          "name": "Rok Denim Wanita",
+          "slug": "fashion-wanita/jeans-denim-wanita/rok-denim-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kebaya",
+      "slug": "fashion-wanita/kebaya",
+      "children": [
+        {
+          "name": "Bustier Wanita",
+          "slug": "fashion-wanita/kebaya/bustier-wanita",
+          "children": []
+        },
+        {
+          "name": "Kebaya Brukat",
+          "slug": "fashion-wanita/kebaya/kebaya-brukat",
+          "children": []
+        },
+        {
+          "name": "Kebaya Encim",
+          "slug": "fashion-wanita/kebaya/kebaya-encim",
+          "children": []
+        },
+        {
+          "name": "Kebaya Kutu Baru",
+          "slug": "fashion-wanita/kebaya/kebaya-kutu-baru",
+          "children": []
+        },
+        {
+          "name": "Setelan Kebaya",
+          "slug": "fashion-wanita/kebaya/setelan-kebaya",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Masker Wanita",
+      "slug": "fashion-wanita/masker-wanita",
+      "children": [
+        {
+          "name": "Masker Kain",
+          "slug": "fashion-wanita/masker-wanita/masker-kain",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Outerwear Wanita",
+      "slug": "fashion-wanita/outerwear-wanita",
+      "children": [
+        {
+          "name": "Blazer Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/blazer-wanita",
+          "children": []
+        },
+        {
+          "name": "Cardigan Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/cardigan-wanita",
+          "children": []
+        },
+        {
+          "name": "Coat Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/coat-wanita",
+          "children": []
+        },
+        {
+          "name": "Hoodie Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/hoodie-wanita",
+          "children": []
+        },
+        {
+          "name": "Jaket Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/jaket-wanita",
+          "children": []
+        },
+        {
+          "name": "Jaket Parka Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/jaket-parka-wanita",
+          "children": []
+        },
+        {
+          "name": "Kimono Outer Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/kimono-outer-wanita",
+          "children": []
+        },
+        {
+          "name": "Sweater Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/sweater-wanita",
+          "children": []
+        },
+        {
+          "name": "Vest Wanita",
+          "slug": "fashion-wanita/outerwear-wanita/vest-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Adat Wanita",
+      "slug": "fashion-wanita/pakaian-adat-wanita",
+      "children": [
+        {
+          "name": "Cheong Sam Wanita",
+          "slug": "fashion-wanita/pakaian-adat-wanita/cheong-sam-wanita",
+          "children": []
+        },
+        {
+          "name": "Hanbok Wanita",
+          "slug": "fashion-wanita/pakaian-adat-wanita/hanbok-wanita",
+          "children": []
+        },
+        {
+          "name": "Pakaian Adat Internasional Wanita",
+          "slug": "fashion-wanita/pakaian-adat-wanita/pakaian-adat-internasional-wanita",
+          "children": []
+        },
+        {
+          "name": "Pakaian Adat Nasional Wanita",
+          "slug": "fashion-wanita/pakaian-adat-wanita/pakaian-adat-nasional-wanita",
+          "children": []
+        },
+        {
+          "name": "Yukata Wanita",
+          "slug": "fashion-wanita/pakaian-adat-wanita/yukata-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Dalam Wanita",
+      "slug": "fashion-wanita/pakaian-dalam-wanita",
+      "children": [
+        {
+          "name": "Bra",
+          "slug": "fashion-wanita/pakaian-dalam-wanita/bra",
+          "children": []
+        },
+        {
+          "name": "Celana Dalam Wanita",
+          "slug": "fashion-wanita/pakaian-dalam-wanita/celana-dalam-wanita",
+          "children": []
+        },
+        {
+          "name": "Korset",
+          "slug": "fashion-wanita/pakaian-dalam-wanita/korset",
+          "children": []
+        },
+        {
+          "name": "Lingerie",
+          "slug": "fashion-wanita/pakaian-dalam-wanita/lingerie",
+          "children": []
+        },
+        {
+          "name": "Long John Wanita",
+          "slug": "fashion-wanita/pakaian-dalam-wanita/long-john-wanita",
+          "children": []
+        },
+        {
+          "name": "Stocking",
+          "slug": "fashion-wanita/pakaian-dalam-wanita/stocking",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Ibu Hamil",
+      "slug": "fashion-wanita/pakaian-ibu-hamil",
+      "children": [
+        {
+          "name": "Atasan Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/atasan-hamil",
+          "children": []
+        },
+        {
+          "name": "Baju Renang Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/baju-renang-hamil",
+          "children": []
+        },
+        {
+          "name": "Celana Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/celana-hamil",
+          "children": []
+        },
+        {
+          "name": "Dress Terusan Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/dress-terusan-hamil",
+          "children": []
+        },
+        {
+          "name": "Gurita",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/gurita",
+          "children": []
+        },
+        {
+          "name": "Korset Gurita Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/korset-gurita-hamil",
+          "children": []
+        },
+        {
+          "name": "Legging Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/legging-hamil",
+          "children": []
+        },
+        {
+          "name": "Pakaian Dalam Ibu Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/pakaian-dalam-ibu-hamil",
+          "children": []
+        },
+        {
+          "name": "Rok Hamil",
+          "slug": "fashion-wanita/pakaian-ibu-hamil/rok-hamil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perhiasan Wanita",
+      "slug": "fashion-wanita/perhiasan-wanita",
+      "children": [
+        {
+          "name": "Anting Wanita",
+          "slug": "fashion-wanita/perhiasan-wanita/anting-wanita",
+          "children": []
+        },
+        {
+          "name": "Bros Wanita",
+          "slug": "fashion-wanita/perhiasan-wanita/bros-wanita",
+          "children": []
+        },
+        {
+          "name": "Cincin Wanita",
+          "slug": "fashion-wanita/perhiasan-wanita/cincin-wanita",
+          "children": []
+        },
+        {
+          "name": "Gelang Wanita",
+          "slug": "fashion-wanita/perhiasan-wanita/gelang-wanita",
+          "children": []
+        },
+        {
+          "name": "Kalung Wanita",
+          "slug": "fashion-wanita/perhiasan-wanita/kalung-wanita",
+          "children": []
+        },
+        {
+          "name": "Liontin Wanita",
+          "slug": "fashion-wanita/perhiasan-wanita/liontin-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sepatu Wanita",
+      "slug": "fashion-wanita/sepatu-wanita",
+      "children": [
+        {
+          "name": "Boots Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/boots-wanita",
+          "children": []
+        },
+        {
+          "name": "Espadrilles Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/espadrilles-wanita",
+          "children": []
+        },
+        {
+          "name": "Flat Shoes Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/flat-shoes-wanita",
+          "children": []
+        },
+        {
+          "name": "Loafers Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/loafers-wanita",
+          "children": []
+        },
+        {
+          "name": "Pantofel Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/pantofel-wanita",
+          "children": []
+        },
+        {
+          "name": "Sandal Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/sandal-wanita",
+          "children": []
+        },
+        {
+          "name": "Sepatu Heels Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/sepatu-heels-wanita",
+          "children": []
+        },
+        {
+          "name": "Sepatu Sandal Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/sepatu-sandal-wanita",
+          "children": []
+        },
+        {
+          "name": "Slip On Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/slip-on-wanita",
+          "children": []
+        },
+        {
+          "name": "Sneakers Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/sneakers-wanita",
+          "children": []
+        },
+        {
+          "name": "Wedges Wanita",
+          "slug": "fashion-wanita/sepatu-wanita/wedges-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Seragam Wanita",
+      "slug": "fashion-wanita/seragam-wanita",
+      "children": [
+        {
+          "name": "Seragam Baby Sitter",
+          "slug": "fashion-wanita/seragam-wanita/seragam-baby-sitter",
+          "children": []
+        },
+        {
+          "name": "Seragam Pns Wanita",
+          "slug": "fashion-wanita/seragam-wanita/seragam-pns-wanita",
+          "children": []
+        },
+        {
+          "name": "Seragam Perawat Wanita",
+          "slug": "fashion-wanita/seragam-wanita/seragam-perawat-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Setelan Wanita",
+      "slug": "fashion-wanita/setelan-wanita",
+      "children": [
+        {
+          "name": "Setelan Celana Wanita",
+          "slug": "fashion-wanita/setelan-wanita/setelan-celana-wanita",
+          "children": []
+        },
+        {
+          "name": "Setelan Rok Wanita",
+          "slug": "fashion-wanita/setelan-wanita/setelan-rok-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tas Wanita",
+      "slug": "fashion-wanita/tas-wanita",
+      "children": [
+        {
+          "name": "Aksesoris Tas Wanita",
+          "slug": "fashion-wanita/tas-wanita/aksesoris-tas-wanita",
+          "children": []
+        },
+        {
+          "name": "Clutch Wanita",
+          "slug": "fashion-wanita/tas-wanita/clutch-wanita",
+          "children": []
+        },
+        {
+          "name": "Dompet Wanita",
+          "slug": "fashion-wanita/tas-wanita/dompet-wanita",
+          "children": []
+        },
+        {
+          "name": "Hand Bag Wanita",
+          "slug": "fashion-wanita/tas-wanita/hand-bag-wanita",
+          "children": []
+        },
+        {
+          "name": "Shoulder Bag Wanita",
+          "slug": "fashion-wanita/tas-wanita/shoulder-bag-wanita",
+          "children": []
+        },
+        {
+          "name": "Tas Ransel Wanita",
+          "slug": "fashion-wanita/tas-wanita/tas-ransel-wanita",
+          "children": []
+        },
+        {
+          "name": "Tas Selempang Wanita",
+          "slug": "fashion-wanita/tas-wanita/tas-selempang-wanita",
+          "children": []
+        },
+        {
+          "name": "Tote Bag",
+          "slug": "fashion-wanita/tas-wanita/tote-bag",
+          "children": []
+        },
+        {
+          "name": "Waist Bag Wanita",
+          "slug": "fashion-wanita/tas-wanita/waist-bag-wanita",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
