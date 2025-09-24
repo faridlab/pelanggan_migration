@@ -1,0 +1,390 @@
+{
+  "name": "Handphone Tablet",
+  "slug": "handphone-tablet",
+  "children": [
+    {
+      "name": "Aksesoris Handphone",
+      "slug": "handphone-tablet/aksesoris-handphone",
+      "children": [
+        {
+          "name": "Charger Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/charger-handphone",
+          "children": []
+        },
+        {
+          "name": "Charger Mobil",
+          "slug": "handphone-tablet/aksesoris-handphone/charger-mobil",
+          "children": []
+        },
+        {
+          "name": "Docking Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/docking-handphone",
+          "children": []
+        },
+        {
+          "name": "Flip Cover Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/flip-cover-handphone",
+          "children": []
+        },
+        {
+          "name": "Gantungan Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/gantungan-handphone",
+          "children": []
+        },
+        {
+          "name": "Hard Case Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/hard-case-handphone",
+          "children": []
+        },
+        {
+          "name": "Holder Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/holder-handphone",
+          "children": []
+        },
+        {
+          "name": "I Ring",
+          "slug": "handphone-tablet/aksesoris-handphone/i-ring",
+          "children": []
+        },
+        {
+          "name": "Kabel Data",
+          "slug": "handphone-tablet/aksesoris-handphone/kabel-data",
+          "children": []
+        },
+        {
+          "name": "Kabel Otg",
+          "slug": "handphone-tablet/aksesoris-handphone/kabel-otg",
+          "children": []
+        },
+        {
+          "name": "Lensa Kamera Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/lensa-kamera-handphone",
+          "children": []
+        },
+        {
+          "name": "Mount Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/mount-handphone",
+          "children": []
+        },
+        {
+          "name": "Pelindung Kabel",
+          "slug": "handphone-tablet/aksesoris-handphone/pelindung-kabel",
+          "children": []
+        },
+        {
+          "name": "Pembesar Layar Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/pembesar-layar-handphone",
+          "children": []
+        },
+        {
+          "name": "Pop Socket",
+          "slug": "handphone-tablet/aksesoris-handphone/pop-socket",
+          "children": []
+        },
+        {
+          "name": "Rubber Gel Pad",
+          "slug": "handphone-tablet/aksesoris-handphone/rubber-gel-pad",
+          "children": []
+        },
+        {
+          "name": "Screen Protector Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/screen-protector-handphone",
+          "children": []
+        },
+        {
+          "name": "Selfie Ring Light",
+          "slug": "handphone-tablet/aksesoris-handphone/selfie-ring-light",
+          "children": []
+        },
+        {
+          "name": "Skin Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/skin-handphone",
+          "children": []
+        },
+        {
+          "name": "Soft Case Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/soft-case-handphone",
+          "children": []
+        },
+        {
+          "name": "Stand Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/stand-handphone",
+          "children": []
+        },
+        {
+          "name": "Tongsis",
+          "slug": "handphone-tablet/aksesoris-handphone/tongsis",
+          "children": []
+        },
+        {
+          "name": "Tripod Handphone",
+          "slug": "handphone-tablet/aksesoris-handphone/tripod-handphone",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aksesoris Tablet",
+      "slug": "handphone-tablet/aksesoris-tablet",
+      "children": [
+        {
+          "name": "Casing Cover Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/casing-cover-tablet",
+          "children": []
+        },
+        {
+          "name": "Charger Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/charger-tablet",
+          "children": []
+        },
+        {
+          "name": "Connection Kit",
+          "slug": "handphone-tablet/aksesoris-tablet/connection-kit",
+          "children": []
+        },
+        {
+          "name": "Docking Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/docking-tablet",
+          "children": []
+        },
+        {
+          "name": "Holder Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/holder-tablet",
+          "children": []
+        },
+        {
+          "name": "Keyboard Bluetooth",
+          "slug": "handphone-tablet/aksesoris-tablet/keyboard-bluetooth",
+          "children": []
+        },
+        {
+          "name": "Mount Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/mount-tablet",
+          "children": []
+        },
+        {
+          "name": "Screen Guard Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/screen-guard-tablet",
+          "children": []
+        },
+        {
+          "name": "Stylus Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/stylus-tablet",
+          "children": []
+        },
+        {
+          "name": "Tablet Sleeve",
+          "slug": "handphone-tablet/aksesoris-tablet/tablet-sleeve",
+          "children": []
+        },
+        {
+          "name": "Tripod Tablet",
+          "slug": "handphone-tablet/aksesoris-tablet/tripod-tablet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Handphone",
+      "slug": "handphone-tablet/handphone",
+      "children": [
+        {
+          "name": "Android Os",
+          "slug": "handphone-tablet/handphone/android-os",
+          "children": []
+        },
+        {
+          "name": "Blackberry Os",
+          "slug": "handphone-tablet/handphone/blackberry-os",
+          "children": []
+        },
+        {
+          "name": "Feature Phone",
+          "slug": "handphone-tablet/handphone/feature-phone",
+          "children": []
+        },
+        {
+          "name": "Harmonyos",
+          "slug": "handphone-tablet/handphone/harmonyos",
+          "children": []
+        },
+        {
+          "name": "Windows Mobile",
+          "slug": "handphone-tablet/handphone/windows-mobile",
+          "children": []
+        },
+        {
+          "name": "Ios",
+          "slug": "handphone-tablet/handphone/ios",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Komponen Handphone",
+      "slug": "handphone-tablet/komponen-handphone",
+      "children": [
+        {
+          "name": "Baterai Handphone",
+          "slug": "handphone-tablet/komponen-handphone/baterai-handphone",
+          "children": []
+        },
+        {
+          "name": "Ic Handphone",
+          "slug": "handphone-tablet/komponen-handphone/ic-handphone",
+          "children": []
+        },
+        {
+          "name": "Keypad Handphone",
+          "slug": "handphone-tablet/komponen-handphone/keypad-handphone",
+          "children": []
+        },
+        {
+          "name": "Lcd Handphone",
+          "slug": "handphone-tablet/komponen-handphone/lcd-handphone",
+          "children": []
+        },
+        {
+          "name": "Sim Tray Handphone",
+          "slug": "handphone-tablet/komponen-handphone/sim-tray-handphone",
+          "children": []
+        },
+        {
+          "name": "Spare Part Handphone",
+          "slug": "handphone-tablet/komponen-handphone/spare-part-handphone",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Komponen Tablet",
+      "slug": "handphone-tablet/komponen-tablet",
+      "children": [
+        {
+          "name": "Baterai Tablet",
+          "slug": "handphone-tablet/komponen-tablet/baterai-tablet",
+          "children": []
+        },
+        {
+          "name": "Lcd Tablet",
+          "slug": "handphone-tablet/komponen-tablet/lcd-tablet",
+          "children": []
+        },
+        {
+          "name": "Spare Part Tablet",
+          "slug": "handphone-tablet/komponen-tablet/spare-part-tablet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Nomor Perdana Voucher",
+      "slug": "handphone-tablet/nomor-perdana-voucher",
+      "children": [
+        {
+          "name": "App Gift Card Fisik",
+          "slug": "handphone-tablet/nomor-perdana-voucher/app-gift-card-fisik",
+          "children": []
+        },
+        {
+          "name": "Nomor Perdana",
+          "slug": "handphone-tablet/nomor-perdana-voucher/nomor-perdana",
+          "children": []
+        },
+        {
+          "name": "Voucher Data Fisik",
+          "slug": "handphone-tablet/nomor-perdana-voucher/voucher-data-fisik",
+          "children": []
+        },
+        {
+          "name": "Voucher Pulsa Fisik",
+          "slug": "handphone-tablet/nomor-perdana-voucher/voucher-pulsa-fisik",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Power Bank",
+      "slug": "handphone-tablet/power-bank",
+      "children": [
+        {
+          "name": "Portable Power Bank",
+          "slug": "handphone-tablet/power-bank/portable-power-bank",
+          "children": []
+        },
+        {
+          "name": "Power Case",
+          "slug": "handphone-tablet/power-bank/power-case",
+          "children": []
+        },
+        {
+          "name": "Solar Power Bank",
+          "slug": "handphone-tablet/power-bank/solar-power-bank",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tablet",
+      "slug": "handphone-tablet/tablet",
+      "children": [
+        {
+          "name": "Android Os",
+          "slug": "handphone-tablet/tablet/android-os",
+          "children": []
+        },
+        {
+          "name": "Harmonyos",
+          "slug": "handphone-tablet/tablet/harmonyos",
+          "children": []
+        },
+        {
+          "name": "Kindle E Book",
+          "slug": "handphone-tablet/tablet/kindle-e-book",
+          "children": []
+        },
+        {
+          "name": "Windows Mobile",
+          "slug": "handphone-tablet/tablet/windows-mobile",
+          "children": []
+        },
+        {
+          "name": "Ios",
+          "slug": "handphone-tablet/tablet/ios",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wearable Devices",
+      "slug": "handphone-tablet/wearable-devices",
+      "children": [
+        {
+          "name": "Aksesoris Wearable Devices",
+          "slug": "handphone-tablet/wearable-devices/aksesoris-wearable-devices",
+          "children": []
+        },
+        {
+          "name": "Gps Sport Tracker",
+          "slug": "handphone-tablet/wearable-devices/gps-sport-tracker",
+          "children": []
+        },
+        {
+          "name": "Smart Band",
+          "slug": "handphone-tablet/wearable-devices/smart-band",
+          "children": []
+        },
+        {
+          "name": "Smart Watch",
+          "slug": "handphone-tablet/wearable-devices/smart-watch",
+          "children": []
+        },
+        {
+          "name": "Wearable Cameras",
+          "slug": "handphone-tablet/wearable-devices/wearable-cameras",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
