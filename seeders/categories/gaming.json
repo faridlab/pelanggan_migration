@@ -1,0 +1,131 @@
+{
+  "name": "Gaming",
+  "slug": "gaming",
+  "children": [
+    {
+      "name": "Aksesoris Game Console",
+      "slug": "gaming/aksesoris-game-console",
+      "children": [
+        {
+          "name": "Adapter Game Console",
+          "slug": "gaming/aksesoris-game-console/adapter-game-console",
+          "children": []
+        },
+        {
+          "name": "Baterai Game Console",
+          "slug": "gaming/aksesoris-game-console/baterai-game-console",
+          "children": []
+        },
+        {
+          "name": "Casing Silikon Game Console",
+          "slug": "gaming/aksesoris-game-console/casing-silikon-game-console",
+          "children": []
+        },
+        {
+          "name": "Joystick Game Console",
+          "slug": "gaming/aksesoris-game-console/joystick-game-console",
+          "children": []
+        },
+        {
+          "name": "Travel Case Tas Gaming",
+          "slug": "gaming/aksesoris-game-console/travel-case-tas-gaming",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aksesoris Mobile Gaming",
+      "slug": "gaming/aksesoris-mobile-gaming",
+      "children": [
+        {
+          "name": "Gamepad",
+          "slug": "gaming/aksesoris-mobile-gaming/gamepad",
+          "children": []
+        },
+        {
+          "name": "Smartphone Signal Booster",
+          "slug": "gaming/aksesoris-mobile-gaming/smartphone-signal-booster",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Cd Game",
+      "slug": "gaming/cd-game",
+      "children": [
+        {
+          "name": "Cd Nintendo",
+          "slug": "gaming/cd-game/cd-nintendo",
+          "children": []
+        },
+        {
+          "name": "Cd Pc Dan Laptop Gaming",
+          "slug": "gaming/cd-game/cd-pc-dan-laptop-gaming",
+          "children": []
+        },
+        {
+          "name": "Cd Playstation",
+          "slug": "gaming/cd-game/cd-playstation",
+          "children": []
+        },
+        {
+          "name": "Cd Xbox",
+          "slug": "gaming/cd-game/cd-xbox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Game Console",
+      "slug": "gaming/game-console",
+      "children": [
+        {
+          "name": "Game Boy",
+          "slug": "gaming/game-console/game-boy",
+          "children": []
+        },
+        {
+          "name": "Game Retro",
+          "slug": "gaming/game-console/game-retro",
+          "children": []
+        },
+        {
+          "name": "Handheld",
+          "slug": "gaming/game-console/handheld",
+          "children": []
+        },
+        {
+          "name": "Nintendo",
+          "slug": "gaming/game-console/nintendo",
+          "children": []
+        },
+        {
+          "name": "Playstation",
+          "slug": "gaming/game-console/playstation",
+          "children": []
+        },
+        {
+          "name": "Xbox",
+          "slug": "gaming/game-console/xbox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Virtual Reality",
+      "slug": "gaming/virtual-reality",
+      "children": [
+        {
+          "name": "Aksesoris Vr",
+          "slug": "gaming/virtual-reality/aksesoris-vr",
+          "children": []
+        },
+        {
+          "name": "Vr Device",
+          "slug": "gaming/virtual-reality/vr-device",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
