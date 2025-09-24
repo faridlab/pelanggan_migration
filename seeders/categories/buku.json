@@ -1,0 +1,1189 @@
+{
+  "name": "Buku",
+  "slug": "buku",
+  "children": [
+    {
+      "name": "Buku Arsitektur Desain",
+      "slug": "buku/buku-arsitektur-desain",
+      "children": [
+        {
+          "name": "Buku Bangunan",
+          "slug": "buku/buku-arsitektur-desain/buku-bangunan",
+          "children": []
+        },
+        {
+          "name": "Buku Codes Standars",
+          "slug": "buku/buku-arsitektur-desain/buku-codes-standars",
+          "children": []
+        },
+        {
+          "name": "Buku Dekorasi Ornamen",
+          "slug": "buku/buku-arsitektur-desain/buku-dekorasi-ornamen",
+          "children": []
+        },
+        {
+          "name": "Buku Desain Dapur",
+          "slug": "buku/buku-arsitektur-desain/buku-desain-dapur",
+          "children": []
+        },
+        {
+          "name": "Buku Desain Kamar",
+          "slug": "buku/buku-arsitektur-desain/buku-desain-kamar",
+          "children": []
+        },
+        {
+          "name": "Buku Desain Ruang Keluarga",
+          "slug": "buku/buku-arsitektur-desain/buku-desain-ruang-keluarga",
+          "children": []
+        },
+        {
+          "name": "Buku Desain Ruang Tamu",
+          "slug": "buku/buku-arsitektur-desain/buku-desain-ruang-tamu",
+          "children": []
+        },
+        {
+          "name": "Buku Desain Rumah",
+          "slug": "buku/buku-arsitektur-desain/buku-desain-rumah",
+          "children": []
+        },
+        {
+          "name": "Buku Interior Eksterior",
+          "slug": "buku/buku-arsitektur-desain/buku-interior-eksterior",
+          "children": []
+        },
+        {
+          "name": "Buku Metode Material Bangunan",
+          "slug": "buku/buku-arsitektur-desain/buku-metode-material-bangunan",
+          "children": []
+        },
+        {
+          "name": "Buku Taman",
+          "slug": "buku/buku-arsitektur-desain/buku-taman",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Ekonomi Bisnis",
+      "slug": "buku/buku-ekonomi-bisnis",
+      "children": [
+        {
+          "name": "Buku Akuntansi",
+          "slug": "buku/buku-ekonomi-bisnis/buku-akuntansi",
+          "children": []
+        },
+        {
+          "name": "Buku Bisnis",
+          "slug": "buku/buku-ekonomi-bisnis/buku-bisnis",
+          "children": []
+        },
+        {
+          "name": "Buku Ekonomi",
+          "slug": "buku/buku-ekonomi-bisnis/buku-ekonomi",
+          "children": []
+        },
+        {
+          "name": "Buku Kesekretariatan",
+          "slug": "buku/buku-ekonomi-bisnis/buku-kesekretariatan",
+          "children": []
+        },
+        {
+          "name": "Buku Manajemen",
+          "slug": "buku/buku-ekonomi-bisnis/buku-manajemen",
+          "children": []
+        },
+        {
+          "name": "Buku Pariwisata",
+          "slug": "buku/buku-ekonomi-bisnis/buku-pariwisata",
+          "children": []
+        },
+        {
+          "name": "Buku Perbankan",
+          "slug": "buku/buku-ekonomi-bisnis/buku-perbankan",
+          "children": []
+        },
+        {
+          "name": "Buku Perhotelan",
+          "slug": "buku/buku-ekonomi-bisnis/buku-perhotelan",
+          "children": []
+        },
+        {
+          "name": "Buku Perpajakan",
+          "slug": "buku/buku-ekonomi-bisnis/buku-perpajakan",
+          "children": []
+        },
+        {
+          "name": "Buku Statistik",
+          "slug": "buku/buku-ekonomi-bisnis/buku-statistik",
+          "children": []
+        },
+        {
+          "name": "Buku Usaha Kecil Kewirausahaan",
+          "slug": "buku/buku-ekonomi-bisnis/buku-usaha-kecil-kewirausahaan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Hobi",
+      "slug": "buku/buku-hobi",
+      "children": [
+        {
+          "name": "Buku Alam",
+          "slug": "buku/buku-hobi/buku-alam",
+          "children": []
+        },
+        {
+          "name": "Buku Fotografi",
+          "slug": "buku/buku-hobi/buku-fotografi",
+          "children": []
+        },
+        {
+          "name": "Buku Hewan Peliharaan",
+          "slug": "buku/buku-hobi/buku-hewan-peliharaan",
+          "children": []
+        },
+        {
+          "name": "Buku Hiburan",
+          "slug": "buku/buku-hobi/buku-hiburan",
+          "children": []
+        },
+        {
+          "name": "Buku Humor",
+          "slug": "buku/buku-hobi/buku-humor",
+          "children": []
+        },
+        {
+          "name": "Buku Keterampilan",
+          "slug": "buku/buku-hobi/buku-keterampilan",
+          "children": []
+        },
+        {
+          "name": "Buku Kuliner",
+          "slug": "buku/buku-hobi/buku-kuliner",
+          "children": []
+        },
+        {
+          "name": "Buku Musik Lagu",
+          "slug": "buku/buku-hobi/buku-musik-lagu",
+          "children": []
+        },
+        {
+          "name": "Buku Olahraga",
+          "slug": "buku/buku-hobi/buku-olahraga",
+          "children": []
+        },
+        {
+          "name": "Buku Otomotif",
+          "slug": "buku/buku-hobi/buku-otomotif",
+          "children": []
+        },
+        {
+          "name": "Buku Permainan",
+          "slug": "buku/buku-hobi/buku-permainan",
+          "children": []
+        },
+        {
+          "name": "Buku Seni",
+          "slug": "buku/buku-hobi/buku-seni",
+          "children": []
+        },
+        {
+          "name": "Buku Tanaman",
+          "slug": "buku/buku-hobi/buku-tanaman",
+          "children": []
+        },
+        {
+          "name": "Buku Travel",
+          "slug": "buku/buku-hobi/buku-travel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Hukum",
+      "slug": "buku/buku-hukum",
+      "children": [
+        {
+          "name": "Buku Gender Hukum",
+          "slug": "buku/buku-hukum/buku-gender-hukum",
+          "children": []
+        },
+        {
+          "name": "Buku Hukum Dagang",
+          "slug": "buku/buku-hukum/buku-hukum-dagang",
+          "children": []
+        },
+        {
+          "name": "Buku Hukum Internasional",
+          "slug": "buku/buku-hukum/buku-hukum-internasional",
+          "children": []
+        },
+        {
+          "name": "Buku Hukum Perdata",
+          "slug": "buku/buku-hukum/buku-hukum-perdata",
+          "children": []
+        },
+        {
+          "name": "Buku Hukum Pidana",
+          "slug": "buku/buku-hukum/buku-hukum-pidana",
+          "children": []
+        },
+        {
+          "name": "Buku Kemanusiaan",
+          "slug": "buku/buku-hukum/buku-kemanusiaan",
+          "children": []
+        },
+        {
+          "name": "Buku Politik Hukum",
+          "slug": "buku/buku-hukum/buku-politik-hukum",
+          "children": []
+        },
+        {
+          "name": "Kumpulan Peraturan Perundang Undangan",
+          "slug": "buku/buku-hukum/kumpulan-peraturan-perundang-undangan",
+          "children": []
+        },
+        {
+          "name": "Uud 1945",
+          "slug": "buku/buku-hukum/uud-1945",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Import",
+      "slug": "buku/buku-import",
+      "children": [
+        {
+          "name": "Agriculture Book Import",
+          "slug": "buku/buku-import/agriculture-book-import",
+          "children": []
+        },
+        {
+          "name": "Art Novel Import",
+          "slug": "buku/buku-import/art-novel-import",
+          "children": []
+        },
+        {
+          "name": "Child Teenager Book Import",
+          "slug": "buku/buku-import/child-teenager-book-import",
+          "children": []
+        },
+        {
+          "name": "Computer Book Import",
+          "slug": "buku/buku-import/computer-book-import",
+          "children": []
+        },
+        {
+          "name": "Economy Book Import",
+          "slug": "buku/buku-import/economy-book-import",
+          "children": []
+        },
+        {
+          "name": "Feminity Book Import",
+          "slug": "buku/buku-import/feminity-book-import",
+          "children": []
+        },
+        {
+          "name": "Health Book Import",
+          "slug": "buku/buku-import/health-book-import",
+          "children": []
+        },
+        {
+          "name": "Hobby Interest Book Import",
+          "slug": "buku/buku-import/hobby-interest-book-import",
+          "children": []
+        },
+        {
+          "name": "Language Book Import",
+          "slug": "buku/buku-import/language-book-import",
+          "children": []
+        },
+        {
+          "name": "Law Book Import",
+          "slug": "buku/buku-import/law-book-import",
+          "children": []
+        },
+        {
+          "name": "Management Business Book Import",
+          "slug": "buku/buku-import/management-business-book-import",
+          "children": []
+        },
+        {
+          "name": "Medical Book Import",
+          "slug": "buku/buku-import/medical-book-import",
+          "children": []
+        },
+        {
+          "name": "Political Social Book Import",
+          "slug": "buku/buku-import/political-social-book-import",
+          "children": []
+        },
+        {
+          "name": "Psychology Education Book Import",
+          "slug": "buku/buku-import/psychology-education-book-import",
+          "children": []
+        },
+        {
+          "name": "Reference Dictionary Book Import",
+          "slug": "buku/buku-import/reference-dictionary-book-import",
+          "children": []
+        },
+        {
+          "name": "Religion Philosophy Book Import",
+          "slug": "buku/buku-import/religion-philosophy-book-import",
+          "children": []
+        },
+        {
+          "name": "School Book Import",
+          "slug": "buku/buku-import/school-book-import",
+          "children": []
+        },
+        {
+          "name": "Secretarial Book Import",
+          "slug": "buku/buku-import/secretarial-book-import",
+          "children": []
+        },
+        {
+          "name": "Self Development Book Import",
+          "slug": "buku/buku-import/self-development-book-import",
+          "children": []
+        },
+        {
+          "name": "Technique Book Import",
+          "slug": "buku/buku-import/technique-book-import",
+          "children": []
+        },
+        {
+          "name": "Tourism Map Book Import",
+          "slug": "buku/buku-import/tourism-map-book-import",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Kedokteran",
+      "slug": "buku/buku-kedokteran",
+      "children": [
+        {
+          "name": "Buku Farmasi",
+          "slug": "buku/buku-kedokteran/buku-farmasi",
+          "children": []
+        },
+        {
+          "name": "Buku Kedokteran Spesialis",
+          "slug": "buku/buku-kedokteran/buku-kedokteran-spesialis",
+          "children": []
+        },
+        {
+          "name": "Buku Kedokteran Umum",
+          "slug": "buku/buku-kedokteran/buku-kedokteran-umum",
+          "children": []
+        },
+        {
+          "name": "Buku Psikiatri",
+          "slug": "buku/buku-kedokteran/buku-psikiatri",
+          "children": []
+        },
+        {
+          "name": "Kamus Istilah Kedokteran",
+          "slug": "buku/buku-kedokteran/kamus-istilah-kedokteran",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Keluarga",
+      "slug": "buku/buku-keluarga",
+      "children": [
+        {
+          "name": "Buku Bimbingan Orang Tua",
+          "slug": "buku/buku-keluarga/buku-bimbingan-orang-tua",
+          "children": []
+        },
+        {
+          "name": "Buku Nama Nama Bayi",
+          "slug": "buku/buku-keluarga/buku-nama-nama-bayi",
+          "children": []
+        },
+        {
+          "name": "Buku Pendidikan Keluarga",
+          "slug": "buku/buku-keluarga/buku-pendidikan-keluarga",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Kesehatan Gaya Hidup",
+      "slug": "buku/buku-kesehatan-gaya-hidup",
+      "children": [
+        {
+          "name": "Buku Diet",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-diet",
+          "children": []
+        },
+        {
+          "name": "Buku Gizi Nutrisi",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-gizi-nutrisi",
+          "children": []
+        },
+        {
+          "name": "Buku Kesehatan Anak",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-kesehatan-anak",
+          "children": []
+        },
+        {
+          "name": "Buku Kesehatan Masyarakat",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-kesehatan-masyarakat",
+          "children": []
+        },
+        {
+          "name": "Buku Kesehatan Pria",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-kesehatan-pria",
+          "children": []
+        },
+        {
+          "name": "Buku Latihan Kebugaran",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-latihan-kebugaran",
+          "children": []
+        },
+        {
+          "name": "Buku Pengobatan Alternatif",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-pengobatan-alternatif",
+          "children": []
+        },
+        {
+          "name": "Buku Sports Adventure",
+          "slug": "buku/buku-kesehatan-gaya-hidup/buku-sports-adventure",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Kewanitaan",
+      "slug": "buku/buku-kewanitaan",
+      "children": [
+        {
+          "name": "Buku Busana",
+          "slug": "buku/buku-kewanitaan/buku-busana",
+          "children": []
+        },
+        {
+          "name": "Buku Kecantikan",
+          "slug": "buku/buku-kewanitaan/buku-kecantikan",
+          "children": []
+        },
+        {
+          "name": "Buku Kehamilan Menyusui",
+          "slug": "buku/buku-kewanitaan/buku-kehamilan-menyusui",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Komputer Internet",
+      "slug": "buku/buku-komputer-internet",
+      "children": [
+        {
+          "name": "Buku Database",
+          "slug": "buku/buku-komputer-internet/buku-database",
+          "children": []
+        },
+        {
+          "name": "Buku Design Graphics",
+          "slug": "buku/buku-komputer-internet/buku-design-graphics",
+          "children": []
+        },
+        {
+          "name": "Buku Hardware",
+          "slug": "buku/buku-komputer-internet/buku-hardware",
+          "children": []
+        },
+        {
+          "name": "Buku Internet Web",
+          "slug": "buku/buku-komputer-internet/buku-internet-web",
+          "children": []
+        },
+        {
+          "name": "Buku Media Sosial",
+          "slug": "buku/buku-komputer-internet/buku-media-sosial",
+          "children": []
+        },
+        {
+          "name": "Buku Microsoft Office",
+          "slug": "buku/buku-komputer-internet/buku-microsoft-office",
+          "children": []
+        },
+        {
+          "name": "Buku Mobile Gadget",
+          "slug": "buku/buku-komputer-internet/buku-mobile-gadget",
+          "children": []
+        },
+        {
+          "name": "Buku Programming",
+          "slug": "buku/buku-komputer-internet/buku-programming",
+          "children": []
+        },
+        {
+          "name": "Buku Sistem Operasi",
+          "slug": "buku/buku-komputer-internet/buku-sistem-operasi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Masakan",
+      "slug": "buku/buku-masakan",
+      "children": [
+        {
+          "name": "Buku Resep Kue",
+          "slug": "buku/buku-masakan/buku-resep-kue",
+          "children": []
+        },
+        {
+          "name": "Buku Resep Makanan Bayi Balita",
+          "slug": "buku/buku-masakan/buku-resep-makanan-bayi-balita",
+          "children": []
+        },
+        {
+          "name": "Buku Resep Makanan Diet",
+          "slug": "buku/buku-masakan/buku-resep-makanan-diet",
+          "children": []
+        },
+        {
+          "name": "Buku Resep Masakan",
+          "slug": "buku/buku-masakan/buku-resep-masakan",
+          "children": []
+        },
+        {
+          "name": "Buku Resep Minuman Dessert",
+          "slug": "buku/buku-masakan/buku-resep-minuman-dessert",
+          "children": []
+        },
+        {
+          "name": "Buku Resep Pastry",
+          "slug": "buku/buku-masakan/buku-resep-pastry",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Pendidikan",
+      "slug": "buku/buku-pendidikan",
+      "children": [
+        {
+          "name": "Buku Atlas",
+          "slug": "buku/buku-pendidikan/buku-atlas",
+          "children": []
+        },
+        {
+          "name": "Buku Bimbingan Belajar",
+          "slug": "buku/buku-pendidikan/buku-bimbingan-belajar",
+          "children": []
+        },
+        {
+          "name": "Buku Sd Kelas 1",
+          "slug": "buku/buku-pendidikan/buku-sd-kelas-1",
+          "children": []
+        },
+        {
+          "name": "Buku Sd Kelas 2",
+          "slug": "buku/buku-pendidikan/buku-sd-kelas-2",
+          "children": []
+        },
+        {
+          "name": "Buku Sd Kelas 3",
+          "slug": "buku/buku-pendidikan/buku-sd-kelas-3",
+          "children": []
+        },
+        {
+          "name": "Buku Sd Kelas 4",
+          "slug": "buku/buku-pendidikan/buku-sd-kelas-4",
+          "children": []
+        },
+        {
+          "name": "Buku Sd Kelas 5",
+          "slug": "buku/buku-pendidikan/buku-sd-kelas-5",
+          "children": []
+        },
+        {
+          "name": "Buku Sd Kelas 6",
+          "slug": "buku/buku-pendidikan/buku-sd-kelas-6",
+          "children": []
+        },
+        {
+          "name": "Buku Sma Kelas 1",
+          "slug": "buku/buku-pendidikan/buku-sma-kelas-1",
+          "children": []
+        },
+        {
+          "name": "Buku Sma Kelas 2",
+          "slug": "buku/buku-pendidikan/buku-sma-kelas-2",
+          "children": []
+        },
+        {
+          "name": "Buku Sma Kelas 3",
+          "slug": "buku/buku-pendidikan/buku-sma-kelas-3",
+          "children": []
+        },
+        {
+          "name": "Buku Smp Kelas 1",
+          "slug": "buku/buku-pendidikan/buku-smp-kelas-1",
+          "children": []
+        },
+        {
+          "name": "Buku Smp Kelas 2",
+          "slug": "buku/buku-pendidikan/buku-smp-kelas-2",
+          "children": []
+        },
+        {
+          "name": "Buku Smp Kelas 3",
+          "slug": "buku/buku-pendidikan/buku-smp-kelas-3",
+          "children": []
+        },
+        {
+          "name": "Buku Saku Pramuka",
+          "slug": "buku/buku-pendidikan/buku-saku-pramuka",
+          "children": []
+        },
+        {
+          "name": "Ensiklopedia",
+          "slug": "buku/buku-pendidikan/ensiklopedia",
+          "children": []
+        },
+        {
+          "name": "Kumpulan Soal Sd",
+          "slug": "buku/buku-pendidikan/kumpulan-soal-sd",
+          "children": []
+        },
+        {
+          "name": "Kumpulan Soal Sma",
+          "slug": "buku/buku-pendidikan/kumpulan-soal-sma",
+          "children": []
+        },
+        {
+          "name": "Kumpulan Soal Smp",
+          "slug": "buku/buku-pendidikan/kumpulan-soal-smp",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Pengembangan Diri Karir",
+      "slug": "buku/buku-pengembangan-diri-karir",
+      "children": [
+        {
+          "name": "Buku Kesuksesan",
+          "slug": "buku/buku-pengembangan-diri-karir/buku-kesuksesan",
+          "children": []
+        },
+        {
+          "name": "Buku Leadership Kepemimpinan",
+          "slug": "buku/buku-pengembangan-diri-karir/buku-leadership-kepemimpinan",
+          "children": []
+        },
+        {
+          "name": "Buku Self Improvement Development",
+          "slug": "buku/buku-pengembangan-diri-karir/buku-self-improvement-development",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Persiapan Ujian",
+      "slug": "buku/buku-persiapan-ujian",
+      "children": [
+        {
+          "name": "Buku Persiapan Tpa Psikotest",
+          "slug": "buku/buku-persiapan-ujian/buku-persiapan-tpa-psikotest",
+          "children": []
+        },
+        {
+          "name": "Buku Persiapan Tes Cpns",
+          "slug": "buku/buku-persiapan-ujian/buku-persiapan-tes-cpns",
+          "children": []
+        },
+        {
+          "name": "Buku Persiapan Tes Toefl Ielts",
+          "slug": "buku/buku-persiapan-ujian/buku-persiapan-tes-toefl-ielts",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Pertanian",
+      "slug": "buku/buku-pertanian",
+      "children": [
+        {
+          "name": "Buku Agribisnis",
+          "slug": "buku/buku-pertanian/buku-agribisnis",
+          "children": []
+        },
+        {
+          "name": "Buku Bioteknologi Pertanian",
+          "slug": "buku/buku-pertanian/buku-bioteknologi-pertanian",
+          "children": []
+        },
+        {
+          "name": "Buku Pengembangan Pertanian",
+          "slug": "buku/buku-pertanian/buku-pengembangan-pertanian",
+          "children": []
+        },
+        {
+          "name": "Buku Peternakan",
+          "slug": "buku/buku-pertanian/buku-peternakan",
+          "children": []
+        },
+        {
+          "name": "Buku Tanaman Kebun",
+          "slug": "buku/buku-pertanian/buku-tanaman-kebun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Religi Spiritual",
+      "slug": "buku/buku-religi-spiritual",
+      "children": [
+        {
+          "name": "Al Quran",
+          "slug": "buku/buku-religi-spiritual/al-quran",
+          "children": []
+        },
+        {
+          "name": "Alkitab",
+          "slug": "buku/buku-religi-spiritual/alkitab",
+          "children": []
+        },
+        {
+          "name": "Buku Agama Buddha",
+          "slug": "buku/buku-religi-spiritual/buku-agama-buddha",
+          "children": []
+        },
+        {
+          "name": "Buku Agama Hindu",
+          "slug": "buku/buku-religi-spiritual/buku-agama-hindu",
+          "children": []
+        },
+        {
+          "name": "Buku Agama Islam",
+          "slug": "buku/buku-religi-spiritual/buku-agama-islam",
+          "children": []
+        },
+        {
+          "name": "Buku Agama Katolik",
+          "slug": "buku/buku-religi-spiritual/buku-agama-katolik",
+          "children": []
+        },
+        {
+          "name": "Buku Agama Khong Hu Chu",
+          "slug": "buku/buku-religi-spiritual/buku-agama-khong-hu-chu",
+          "children": []
+        },
+        {
+          "name": "Buku Agama Kristen",
+          "slug": "buku/buku-religi-spiritual/buku-agama-kristen",
+          "children": []
+        },
+        {
+          "name": "Buku Filosofi",
+          "slug": "buku/buku-religi-spiritual/buku-filosofi",
+          "children": []
+        },
+        {
+          "name": "Buku Filsafat",
+          "slug": "buku/buku-religi-spiritual/buku-filsafat",
+          "children": []
+        },
+        {
+          "name": "Buku Kepercayaan",
+          "slug": "buku/buku-religi-spiritual/buku-kepercayaan",
+          "children": []
+        },
+        {
+          "name": "Buku Spiritual",
+          "slug": "buku/buku-religi-spiritual/buku-spiritual",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Remaja Dan Anak",
+      "slug": "buku/buku-remaja-dan-anak",
+      "children": [
+        {
+          "name": "Buku Aktivitas",
+          "slug": "buku/buku-remaja-dan-anak/buku-aktivitas",
+          "children": []
+        },
+        {
+          "name": "Buku Cerita Anak",
+          "slug": "buku/buku-remaja-dan-anak/buku-cerita-anak",
+          "children": []
+        },
+        {
+          "name": "Buku Dongeng",
+          "slug": "buku/buku-remaja-dan-anak/buku-dongeng",
+          "children": []
+        },
+        {
+          "name": "Buku Dunia Pengetahuan",
+          "slug": "buku/buku-remaja-dan-anak/buku-dunia-pengetahuan",
+          "children": []
+        },
+        {
+          "name": "Buku Fabel",
+          "slug": "buku/buku-remaja-dan-anak/buku-fabel",
+          "children": []
+        },
+        {
+          "name": "Buku Islami Anak",
+          "slug": "buku/buku-remaja-dan-anak/buku-islami-anak",
+          "children": []
+        },
+        {
+          "name": "Buku Keterampilan Anak",
+          "slug": "buku/buku-remaja-dan-anak/buku-keterampilan-anak",
+          "children": []
+        },
+        {
+          "name": "Buku Mewarnai",
+          "slug": "buku/buku-remaja-dan-anak/buku-mewarnai",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Sosial Politik",
+      "slug": "buku/buku-sosial-politik",
+      "children": [
+        {
+          "name": "Buku Autobiografi",
+          "slug": "buku/buku-sosial-politik/buku-autobiografi",
+          "children": []
+        },
+        {
+          "name": "Buku Biografi",
+          "slug": "buku/buku-sosial-politik/buku-biografi",
+          "children": []
+        },
+        {
+          "name": "Buku Ilmu Media Komunikasi",
+          "slug": "buku/buku-sosial-politik/buku-ilmu-media-komunikasi",
+          "children": []
+        },
+        {
+          "name": "Buku Jurnalisme",
+          "slug": "buku/buku-sosial-politik/buku-jurnalisme",
+          "children": []
+        },
+        {
+          "name": "Buku Komunikasi",
+          "slug": "buku/buku-sosial-politik/buku-komunikasi",
+          "children": []
+        },
+        {
+          "name": "Buku Lingkungan Hidup",
+          "slug": "buku/buku-sosial-politik/buku-lingkungan-hidup",
+          "children": []
+        },
+        {
+          "name": "Buku Politik",
+          "slug": "buku/buku-sosial-politik/buku-politik",
+          "children": []
+        },
+        {
+          "name": "Buku Sejarah",
+          "slug": "buku/buku-sosial-politik/buku-sejarah",
+          "children": []
+        },
+        {
+          "name": "Buku Sosial Budaya",
+          "slug": "buku/buku-sosial-politik/buku-sosial-budaya",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buku Teknik Sains",
+      "slug": "buku/buku-teknik-sains",
+      "children": [
+        {
+          "name": "Buku Astronomi Luar Angkasa",
+          "slug": "buku/buku-teknik-sains/buku-astronomi-luar-angkasa",
+          "children": []
+        },
+        {
+          "name": "Buku Biologi",
+          "slug": "buku/buku-teknik-sains/buku-biologi",
+          "children": []
+        },
+        {
+          "name": "Buku Elektro",
+          "slug": "buku/buku-teknik-sains/buku-elektro",
+          "children": []
+        },
+        {
+          "name": "Buku Engineering",
+          "slug": "buku/buku-teknik-sains/buku-engineering",
+          "children": []
+        },
+        {
+          "name": "Buku Fisika",
+          "slug": "buku/buku-teknik-sains/buku-fisika",
+          "children": []
+        },
+        {
+          "name": "Buku Geografi",
+          "slug": "buku/buku-teknik-sains/buku-geografi",
+          "children": []
+        },
+        {
+          "name": "Buku Geologi",
+          "slug": "buku/buku-teknik-sains/buku-geologi",
+          "children": []
+        },
+        {
+          "name": "Buku Ilmiah",
+          "slug": "buku/buku-teknik-sains/buku-ilmiah",
+          "children": []
+        },
+        {
+          "name": "Buku Kimia",
+          "slug": "buku/buku-teknik-sains/buku-kimia",
+          "children": []
+        },
+        {
+          "name": "Buku Robotika",
+          "slug": "buku/buku-teknik-sains/buku-robotika",
+          "children": []
+        },
+        {
+          "name": "Buku Sipil",
+          "slug": "buku/buku-teknik-sains/buku-sipil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kamus Bahasa Asing",
+      "slug": "buku/kamus-bahasa-asing",
+      "children": [
+        {
+          "name": "Bahasa Arab",
+          "slug": "buku/kamus-bahasa-asing/bahasa-arab",
+          "children": []
+        },
+        {
+          "name": "Bahasa Indonesia",
+          "slug": "buku/kamus-bahasa-asing/bahasa-indonesia",
+          "children": []
+        },
+        {
+          "name": "Bahasa Inggris",
+          "slug": "buku/kamus-bahasa-asing/bahasa-inggris",
+          "children": []
+        },
+        {
+          "name": "Bahasa Jawa",
+          "slug": "buku/kamus-bahasa-asing/bahasa-jawa",
+          "children": []
+        },
+        {
+          "name": "Bahasa Jepang",
+          "slug": "buku/kamus-bahasa-asing/bahasa-jepang",
+          "children": []
+        },
+        {
+          "name": "Bahasa Jerman",
+          "slug": "buku/kamus-bahasa-asing/bahasa-jerman",
+          "children": []
+        },
+        {
+          "name": "Bahasa Korea",
+          "slug": "buku/kamus-bahasa-asing/bahasa-korea",
+          "children": []
+        },
+        {
+          "name": "Bahasa Mandarin",
+          "slug": "buku/kamus-bahasa-asing/bahasa-mandarin",
+          "children": []
+        },
+        {
+          "name": "Bahasa Perancis",
+          "slug": "buku/kamus-bahasa-asing/bahasa-perancis",
+          "children": []
+        },
+        {
+          "name": "Basa Sunda",
+          "slug": "buku/kamus-bahasa-asing/basa-sunda",
+          "children": []
+        },
+        {
+          "name": "Kamus Bahasa Lainnya",
+          "slug": "buku/kamus-bahasa-asing/kamus-bahasa-lainnya",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Komik",
+      "slug": "buku/komik",
+      "children": [
+        {
+          "name": "Komik Anak",
+          "slug": "buku/komik/komik-anak",
+          "children": []
+        },
+        {
+          "name": "Komik Asing",
+          "slug": "buku/komik/komik-asing",
+          "children": []
+        },
+        {
+          "name": "Komik Dewasa",
+          "slug": "buku/komik/komik-dewasa",
+          "children": []
+        },
+        {
+          "name": "Komik Islami",
+          "slug": "buku/komik/komik-islami",
+          "children": []
+        },
+        {
+          "name": "Komik Langka",
+          "slug": "buku/komik/komik-langka",
+          "children": []
+        },
+        {
+          "name": "Komik Manga",
+          "slug": "buku/komik/komik-manga",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Majalah",
+      "slug": "buku/majalah",
+      "children": [
+        {
+          "name": "Buku Katalog",
+          "slug": "buku/majalah/buku-katalog",
+          "children": []
+        },
+        {
+          "name": "Koran",
+          "slug": "buku/majalah/koran",
+          "children": []
+        },
+        {
+          "name": "Majalah Anak",
+          "slug": "buku/majalah/majalah-anak",
+          "children": []
+        },
+        {
+          "name": "Majalah Desain",
+          "slug": "buku/majalah/majalah-desain",
+          "children": []
+        },
+        {
+          "name": "Majalah Design Interior",
+          "slug": "buku/majalah/majalah-design-interior",
+          "children": []
+        },
+        {
+          "name": "Majalah Fashion",
+          "slug": "buku/majalah/majalah-fashion",
+          "children": []
+        },
+        {
+          "name": "Majalah Musik",
+          "slug": "buku/majalah/majalah-musik",
+          "children": []
+        },
+        {
+          "name": "Majalah Olahraga",
+          "slug": "buku/majalah/majalah-olahraga",
+          "children": []
+        },
+        {
+          "name": "Majalah Otomotif",
+          "slug": "buku/majalah/majalah-otomotif",
+          "children": []
+        },
+        {
+          "name": "Majalah Politik Ekonomi Dan Bisnis",
+          "slug": "buku/majalah/majalah-politik-ekonomi-dan-bisnis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Novel Sastra",
+      "slug": "buku/novel-sastra",
+      "children": [
+        {
+          "name": "Buku Fantasi",
+          "slug": "buku/novel-sastra/buku-fantasi",
+          "children": []
+        },
+        {
+          "name": "Buku Kisah Nyata",
+          "slug": "buku/novel-sastra/buku-kisah-nyata",
+          "children": []
+        },
+        {
+          "name": "Buku Misteri",
+          "slug": "buku/novel-sastra/buku-misteri",
+          "children": []
+        },
+        {
+          "name": "Buku Roman",
+          "slug": "buku/novel-sastra/buku-roman",
+          "children": []
+        },
+        {
+          "name": "Fiksi Puisi",
+          "slug": "buku/novel-sastra/fiksi-puisi",
+          "children": []
+        },
+        {
+          "name": "Kritik Sastra",
+          "slug": "buku/novel-sastra/kritik-sastra",
+          "children": []
+        },
+        {
+          "name": "Literatur Fiksi",
+          "slug": "buku/novel-sastra/literatur-fiksi",
+          "children": []
+        },
+        {
+          "name": "Naskah",
+          "slug": "buku/novel-sastra/naskah",
+          "children": []
+        },
+        {
+          "name": "Novel Indonesia",
+          "slug": "buku/novel-sastra/novel-indonesia",
+          "children": []
+        },
+        {
+          "name": "Novel Remaja",
+          "slug": "buku/novel-sastra/novel-remaja",
+          "children": []
+        },
+        {
+          "name": "Novel Terjemahan",
+          "slug": "buku/novel-sastra/novel-terjemahan",
+          "children": []
+        },
+        {
+          "name": "Puisi",
+          "slug": "buku/novel-sastra/puisi",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
