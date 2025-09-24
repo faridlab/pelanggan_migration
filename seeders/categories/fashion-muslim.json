@@ -1,0 +1,336 @@
+{
+  "name": "Fashion Muslim",
+  "slug": "fashion-muslim",
+  "children": [
+    {
+      "name": "Aksesoris Muslim",
+      "slug": "fashion-muslim/aksesoris-muslim",
+      "children": [
+        {
+          "name": "Bros Jilbab",
+          "slug": "fashion-muslim/aksesoris-muslim/bros-jilbab",
+          "children": []
+        },
+        {
+          "name": "Headpiece Jilbab",
+          "slug": "fashion-muslim/aksesoris-muslim/headpiece-jilbab",
+          "children": []
+        },
+        {
+          "name": "Kaos Kaki Wudhu",
+          "slug": "fashion-muslim/aksesoris-muslim/kaos-kaki-wudhu",
+          "children": []
+        },
+        {
+          "name": "Klip Turki",
+          "slug": "fashion-muslim/aksesoris-muslim/klip-turki",
+          "children": []
+        },
+        {
+          "name": "Peniti Jilbab",
+          "slug": "fashion-muslim/aksesoris-muslim/peniti-jilbab",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Atasan Muslim Wanita",
+      "slug": "fashion-muslim/atasan-muslim-wanita",
+      "children": [
+        {
+          "name": "Blouse Muslim",
+          "slug": "fashion-muslim/atasan-muslim-wanita/blouse-muslim",
+          "children": []
+        },
+        {
+          "name": "Manset Muslim",
+          "slug": "fashion-muslim/atasan-muslim-wanita/manset-muslim",
+          "children": []
+        },
+        {
+          "name": "Setelan Syari Wanita",
+          "slug": "fashion-muslim/atasan-muslim-wanita/setelan-syari-wanita",
+          "children": []
+        },
+        {
+          "name": "Tunik Muslim",
+          "slug": "fashion-muslim/atasan-muslim-wanita/tunik-muslim",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Baju Renang Muslim",
+      "slug": "fashion-muslim/baju-renang-muslim",
+      "children": []
+    },
+    {
+      "name": "Bawahan Muslim Wanita",
+      "slug": "fashion-muslim/bawahan-muslim-wanita",
+      "children": [
+        {
+          "name": "Celana Muslim",
+          "slug": "fashion-muslim/bawahan-muslim-wanita/celana-muslim",
+          "children": []
+        },
+        {
+          "name": "Legging Wudhu",
+          "slug": "fashion-muslim/bawahan-muslim-wanita/legging-wudhu",
+          "children": []
+        },
+        {
+          "name": "Palazzo",
+          "slug": "fashion-muslim/bawahan-muslim-wanita/palazzo",
+          "children": []
+        },
+        {
+          "name": "Rok Muslim",
+          "slug": "fashion-muslim/bawahan-muslim-wanita/rok-muslim",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dress Muslim Wanita",
+      "slug": "fashion-muslim/dress-muslim-wanita",
+      "children": [
+        {
+          "name": "Abaya",
+          "slug": "fashion-muslim/dress-muslim-wanita/abaya",
+          "children": []
+        },
+        {
+          "name": "Gamis Wanita",
+          "slug": "fashion-muslim/dress-muslim-wanita/gamis-wanita",
+          "children": []
+        },
+        {
+          "name": "Jumpsuit Muslim",
+          "slug": "fashion-muslim/dress-muslim-wanita/jumpsuit-muslim",
+          "children": []
+        },
+        {
+          "name": "Kaftan",
+          "slug": "fashion-muslim/dress-muslim-wanita/kaftan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Jilbab",
+      "slug": "fashion-muslim/jilbab",
+      "children": [
+        {
+          "name": "Cadar",
+          "slug": "fashion-muslim/jilbab/cadar",
+          "children": []
+        },
+        {
+          "name": "Ciput",
+          "slug": "fashion-muslim/jilbab/ciput",
+          "children": []
+        },
+        {
+          "name": "Hijab Instan",
+          "slug": "fashion-muslim/jilbab/hijab-instan",
+          "children": []
+        },
+        {
+          "name": "Hijab Segi Empat",
+          "slug": "fashion-muslim/jilbab/hijab-segi-empat",
+          "children": []
+        },
+        {
+          "name": "Jilbab Olahraga",
+          "slug": "fashion-muslim/jilbab/jilbab-olahraga",
+          "children": []
+        },
+        {
+          "name": "Khimar",
+          "slug": "fashion-muslim/jilbab/khimar",
+          "children": []
+        },
+        {
+          "name": "Pashmina",
+          "slug": "fashion-muslim/jilbab/pashmina",
+          "children": []
+        },
+        {
+          "name": "Turban",
+          "slug": "fashion-muslim/jilbab/turban",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Masker Hijab",
+      "slug": "fashion-muslim/masker-hijab",
+      "children": [
+        {
+          "name": "Masker Kain",
+          "slug": "fashion-muslim/masker-hijab/masker-kain",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Outerwear Muslim Wanita",
+      "slug": "fashion-muslim/outerwear-muslim-wanita",
+      "children": [
+        {
+          "name": "Cape Muslim",
+          "slug": "fashion-muslim/outerwear-muslim-wanita/cape-muslim",
+          "children": []
+        },
+        {
+          "name": "Cardigan Muslim",
+          "slug": "fashion-muslim/outerwear-muslim-wanita/cardigan-muslim",
+          "children": []
+        },
+        {
+          "name": "Coat Muslim",
+          "slug": "fashion-muslim/outerwear-muslim-wanita/coat-muslim",
+          "children": []
+        },
+        {
+          "name": "Vest Muslim",
+          "slug": "fashion-muslim/outerwear-muslim-wanita/vest-muslim",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Muslim Anak",
+      "slug": "fashion-muslim/pakaian-muslim-anak",
+      "children": [
+        {
+          "name": "Baju Koko Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/baju-koko-anak",
+          "children": []
+        },
+        {
+          "name": "Busana Muslim Family Set",
+          "slug": "fashion-muslim/pakaian-muslim-anak/busana-muslim-family-set",
+          "children": []
+        },
+        {
+          "name": "Busana Muslim Set Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/busana-muslim-set-anak",
+          "children": []
+        },
+        {
+          "name": "Gamis Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/gamis-anak",
+          "children": []
+        },
+        {
+          "name": "Jilbab Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/jilbab-anak",
+          "children": []
+        },
+        {
+          "name": "Manset Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/manset-anak",
+          "children": []
+        },
+        {
+          "name": "Mukena Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/mukena-anak",
+          "children": []
+        },
+        {
+          "name": "Peci Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/peci-anak",
+          "children": []
+        },
+        {
+          "name": "Rok Muslim Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/rok-muslim-anak",
+          "children": []
+        },
+        {
+          "name": "Sarung Anak",
+          "slug": "fashion-muslim/pakaian-muslim-anak/sarung-anak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pakaian Muslim Pria",
+      "slug": "fashion-muslim/pakaian-muslim-pria",
+      "children": [
+        {
+          "name": "Baju Koko Pria",
+          "slug": "fashion-muslim/pakaian-muslim-pria/baju-koko-pria",
+          "children": []
+        },
+        {
+          "name": "Baju Koko Set Pria",
+          "slug": "fashion-muslim/pakaian-muslim-pria/baju-koko-set-pria",
+          "children": []
+        },
+        {
+          "name": "Celana Sarung",
+          "slug": "fashion-muslim/pakaian-muslim-pria/celana-sarung",
+          "children": []
+        },
+        {
+          "name": "Celana Sirwal",
+          "slug": "fashion-muslim/pakaian-muslim-pria/celana-sirwal",
+          "children": []
+        },
+        {
+          "name": "Gamis Pria",
+          "slug": "fashion-muslim/pakaian-muslim-pria/gamis-pria",
+          "children": []
+        },
+        {
+          "name": "Peci Kopiah",
+          "slug": "fashion-muslim/pakaian-muslim-pria/peci-kopiah",
+          "children": []
+        },
+        {
+          "name": "Sorban",
+          "slug": "fashion-muslim/pakaian-muslim-pria/sorban",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Ibadah",
+      "slug": "fashion-muslim/perlengkapan-ibadah",
+      "children": [
+        {
+          "name": "Baju Ihram",
+          "slug": "fashion-muslim/perlengkapan-ibadah/baju-ihram",
+          "children": []
+        },
+        {
+          "name": "Mukena",
+          "slug": "fashion-muslim/perlengkapan-ibadah/mukena",
+          "children": []
+        },
+        {
+          "name": "Rompi Sholat",
+          "slug": "fashion-muslim/perlengkapan-ibadah/rompi-sholat",
+          "children": []
+        },
+        {
+          "name": "Sajadah",
+          "slug": "fashion-muslim/perlengkapan-ibadah/sajadah",
+          "children": []
+        },
+        {
+          "name": "Sarung",
+          "slug": "fashion-muslim/perlengkapan-ibadah/sarung",
+          "children": []
+        },
+        {
+          "name": "Tasbih",
+          "slug": "fashion-muslim/perlengkapan-ibadah/tasbih",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
