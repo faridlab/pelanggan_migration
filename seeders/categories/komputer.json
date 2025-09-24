@@ -1,0 +1,766 @@
+{
+  "name": "Komputer Laptop",
+  "slug": "komputer-laptop",
+  "children": [
+    {
+      "name": "Aksesoris Komputer Laptop",
+      "slug": "komputer-laptop/aksesoris-komputer-laptop",
+      "children": [
+        {
+          "name": "Adaptor Laptop",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/adaptor-laptop",
+          "children": []
+        },
+        {
+          "name": "Alas Laptop",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/alas-laptop",
+          "children": []
+        },
+        {
+          "name": "Card Readers",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/card-readers",
+          "children": []
+        },
+        {
+          "name": "Cooling Pad",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/cooling-pad",
+          "children": []
+        },
+        {
+          "name": "Drawing Tablet",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/drawing-tablet",
+          "children": []
+        },
+        {
+          "name": "Kabel Konektor",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/kabel-konektor",
+          "children": []
+        },
+        {
+          "name": "Keyboard",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/keyboard",
+          "children": []
+        },
+        {
+          "name": "Keypad",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/keypad",
+          "children": []
+        },
+        {
+          "name": "Lainnya",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/lainnya",
+          "children": []
+        },
+        {
+          "name": "Laptop Case",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/laptop-case",
+          "children": []
+        },
+        {
+          "name": "Laptop Sleeve",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/laptop-sleeve",
+          "children": []
+        },
+        {
+          "name": "Laser Pointer",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/laser-pointer",
+          "children": []
+        },
+        {
+          "name": "Meja Laptop",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/meja-laptop",
+          "children": []
+        },
+        {
+          "name": "Mouse",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/mouse",
+          "children": []
+        },
+        {
+          "name": "Mouse Keyboard Bundle",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/mouse-keyboard-bundle",
+          "children": []
+        },
+        {
+          "name": "Mousepad",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/mousepad",
+          "children": []
+        },
+        {
+          "name": "Protector Laptop",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/protector-laptop",
+          "children": []
+        },
+        {
+          "name": "Skin Laptop",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/skin-laptop",
+          "children": []
+        },
+        {
+          "name": "Stylus Pen Digital Laptop Pc",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/stylus-pen-digital-laptop-pc",
+          "children": []
+        },
+        {
+          "name": "Tv Card Tuner",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/tv-card-tuner",
+          "children": []
+        },
+        {
+          "name": "Tas Laptop",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/tas-laptop",
+          "children": []
+        },
+        {
+          "name": "Webcam",
+          "slug": "komputer-laptop/aksesoris-komputer-laptop/webcam",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aksesoris Pc Gaming",
+      "slug": "komputer-laptop/aksesoris-pc-gaming",
+      "children": [
+        {
+          "name": "Game Capture Card Stream Deck",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/game-capture-card-stream-deck",
+          "children": []
+        },
+        {
+          "name": "Gaming Mouse Keyboard Bundle",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/gaming-mouse-keyboard-bundle",
+          "children": []
+        },
+        {
+          "name": "Gamingpad Joystick Pc",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/gamingpad-joystick-pc",
+          "children": []
+        },
+        {
+          "name": "Headset Gaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/headset-gaming",
+          "children": []
+        },
+        {
+          "name": "Joystick Wheel",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/joystick-wheel",
+          "children": []
+        },
+        {
+          "name": "Keyboard Gaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/keyboard-gaming",
+          "children": []
+        },
+        {
+          "name": "Keyboard Keycaps Switch",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/keyboard-keycaps-switch",
+          "children": []
+        },
+        {
+          "name": "Kursi Gaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/kursi-gaming",
+          "children": []
+        },
+        {
+          "name": "Meja Gaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/meja-gaming",
+          "children": []
+        },
+        {
+          "name": "Memory Card Gaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/memory-card-gaming",
+          "children": []
+        },
+        {
+          "name": "Microphone Gaming Streaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/microphone-gaming-streaming",
+          "children": []
+        },
+        {
+          "name": "Mouse Gaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/mouse-gaming",
+          "children": []
+        },
+        {
+          "name": "Mouse Pad Gaming",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/mouse-pad-gaming",
+          "children": []
+        },
+        {
+          "name": "Steering Wheel",
+          "slug": "komputer-laptop/aksesoris-pc-gaming/steering-wheel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Desktop Mini Pc",
+      "slug": "komputer-laptop/desktop-mini-pc",
+      "children": [
+        {
+          "name": "Desktop All In One",
+          "slug": "komputer-laptop/desktop-mini-pc/desktop-all-in-one",
+          "children": []
+        },
+        {
+          "name": "Desktop Tower",
+          "slug": "komputer-laptop/desktop-mini-pc/desktop-tower",
+          "children": []
+        },
+        {
+          "name": "Komputer Rakitan",
+          "slug": "komputer-laptop/desktop-mini-pc/komputer-rakitan",
+          "children": []
+        },
+        {
+          "name": "Mini Pc",
+          "slug": "komputer-laptop/desktop-mini-pc/mini-pc",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kabel Adaptor",
+      "slug": "komputer-laptop/kabel-adaptor",
+      "children": [
+        {
+          "name": "Kabel Dvi",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-dvi",
+          "children": []
+        },
+        {
+          "name": "Kabel Ethernet",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-ethernet",
+          "children": []
+        },
+        {
+          "name": "Kabel Firewire",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-firewire",
+          "children": []
+        },
+        {
+          "name": "Kabel Front Panel",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-front-panel",
+          "children": []
+        },
+        {
+          "name": "Kabel Hdmi",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-hdmi",
+          "children": []
+        },
+        {
+          "name": "Kabel Ide",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-ide",
+          "children": []
+        },
+        {
+          "name": "Kabel Lan",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-lan",
+          "children": []
+        },
+        {
+          "name": "Kabel Power Cpu",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-power-cpu",
+          "children": []
+        },
+        {
+          "name": "Kabel Sata Esata",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-sata-esata",
+          "children": []
+        },
+        {
+          "name": "Kabel Usb",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-usb",
+          "children": []
+        },
+        {
+          "name": "Kabel Utp",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-utp",
+          "children": []
+        },
+        {
+          "name": "Kabel Vga",
+          "slug": "komputer-laptop/kabel-adaptor/kabel-vga",
+          "children": []
+        },
+        {
+          "name": "Usb Hub Extension",
+          "slug": "komputer-laptop/kabel-adaptor/usb-hub-extension",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Komponen Komputer",
+      "slug": "komputer-laptop/komponen-komputer",
+      "children": [
+        {
+          "name": "Cpu Processor",
+          "slug": "komputer-laptop/komponen-komputer/cpu-processor",
+          "children": []
+        },
+        {
+          "name": "Casing Komputer",
+          "slug": "komputer-laptop/komponen-komputer/casing-komputer",
+          "children": []
+        },
+        {
+          "name": "Internal Fan Cooler",
+          "slug": "komputer-laptop/komponen-komputer/internal-fan-cooler",
+          "children": []
+        },
+        {
+          "name": "Internal Power Supply",
+          "slug": "komputer-laptop/komponen-komputer/internal-power-supply",
+          "children": []
+        },
+        {
+          "name": "Motherboard Amd",
+          "slug": "komputer-laptop/komponen-komputer/motherboard-amd",
+          "children": []
+        },
+        {
+          "name": "Optical Drive",
+          "slug": "komputer-laptop/komponen-komputer/optical-drive",
+          "children": []
+        },
+        {
+          "name": "Port Usb Audio",
+          "slug": "komputer-laptop/komponen-komputer/port-usb-audio",
+          "children": []
+        },
+        {
+          "name": "Ram Komputer",
+          "slug": "komputer-laptop/komponen-komputer/ram-komputer",
+          "children": []
+        },
+        {
+          "name": "Sound Card",
+          "slug": "komputer-laptop/komponen-komputer/sound-card",
+          "children": []
+        },
+        {
+          "name": "Stabilizer Komputer",
+          "slug": "komputer-laptop/komponen-komputer/stabilizer-komputer",
+          "children": []
+        },
+        {
+          "name": "Thermal Paste",
+          "slug": "komputer-laptop/komponen-komputer/thermal-paste",
+          "children": []
+        },
+        {
+          "name": "Ups",
+          "slug": "komputer-laptop/komponen-komputer/ups",
+          "children": []
+        },
+        {
+          "name": "Vga Card",
+          "slug": "komputer-laptop/komponen-komputer/vga-card",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Komponen Laptop",
+      "slug": "komputer-laptop/komponen-laptop",
+      "children": [
+        {
+          "name": "Baterai Laptop",
+          "slug": "komputer-laptop/komponen-laptop/baterai-laptop",
+          "children": []
+        },
+        {
+          "name": "Cooling Fan Laptop",
+          "slug": "komputer-laptop/komponen-laptop/cooling-fan-laptop",
+          "children": []
+        },
+        {
+          "name": "Keyboard Laptop",
+          "slug": "komputer-laptop/komponen-laptop/keyboard-laptop",
+          "children": []
+        },
+        {
+          "name": "Lcd Laptop",
+          "slug": "komputer-laptop/komponen-laptop/lcd-laptop",
+          "children": []
+        },
+        {
+          "name": "Mainboard Laptop",
+          "slug": "komputer-laptop/komponen-laptop/mainboard-laptop",
+          "children": []
+        },
+        {
+          "name": "Processor Laptop",
+          "slug": "komputer-laptop/komponen-laptop/processor-laptop",
+          "children": []
+        },
+        {
+          "name": "Ram Laptop",
+          "slug": "komputer-laptop/komponen-laptop/ram-laptop",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Laptop",
+      "slug": "komputer-laptop/laptop",
+      "children": [
+        {
+          "name": "Laptop 2 In 1",
+          "slug": "komputer-laptop/laptop/laptop-2-in-1",
+          "children": []
+        },
+        {
+          "name": "Laptop Consumer",
+          "slug": "komputer-laptop/laptop/laptop-consumer",
+          "children": []
+        },
+        {
+          "name": "Macbook",
+          "slug": "komputer-laptop/laptop/macbook",
+          "children": []
+        },
+        {
+          "name": "Notebook",
+          "slug": "komputer-laptop/laptop/notebook",
+          "children": []
+        },
+        {
+          "name": "Ultrabook",
+          "slug": "komputer-laptop/laptop/ultrabook",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Media Penyimpanan Data",
+      "slug": "komputer-laptop/media-penyimpanan-data",
+      "children": [
+        {
+          "name": "Cd Dvd Kosong",
+          "slug": "komputer-laptop/media-penyimpanan-data/cd-dvd-kosong",
+          "children": []
+        },
+        {
+          "name": "Disket",
+          "slug": "komputer-laptop/media-penyimpanan-data/disket",
+          "children": []
+        },
+        {
+          "name": "Harddisk External",
+          "slug": "komputer-laptop/media-penyimpanan-data/harddisk-external",
+          "children": []
+        },
+        {
+          "name": "Harddisk Internal",
+          "slug": "komputer-laptop/media-penyimpanan-data/harddisk-internal",
+          "children": []
+        },
+        {
+          "name": "Lainnya",
+          "slug": "komputer-laptop/media-penyimpanan-data/lainnya",
+          "children": []
+        },
+        {
+          "name": "Network Attach Storage Nas",
+          "slug": "komputer-laptop/media-penyimpanan-data/network-attach-storage-nas",
+          "children": []
+        },
+        {
+          "name": "Ssd",
+          "slug": "komputer-laptop/media-penyimpanan-data/ssd",
+          "children": []
+        },
+        {
+          "name": "Storage Cases Docking",
+          "slug": "komputer-laptop/media-penyimpanan-data/storage-cases-docking",
+          "children": []
+        },
+        {
+          "name": "Usb Flash Disk",
+          "slug": "komputer-laptop/media-penyimpanan-data/usb-flash-disk",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Memory Card",
+      "slug": "komputer-laptop/memory-card",
+      "children": [
+        {
+          "name": "Case Memory Card",
+          "slug": "komputer-laptop/memory-card/case-memory-card",
+          "children": []
+        },
+        {
+          "name": "Compact Flash",
+          "slug": "komputer-laptop/memory-card/compact-flash",
+          "children": []
+        },
+        {
+          "name": "Mmc",
+          "slug": "komputer-laptop/memory-card/mmc",
+          "children": []
+        },
+        {
+          "name": "Memory Card Adapter",
+          "slug": "komputer-laptop/memory-card/memory-card-adapter",
+          "children": []
+        },
+        {
+          "name": "Memory Stick Micro M2",
+          "slug": "komputer-laptop/memory-card/memory-stick-micro-m2",
+          "children": []
+        },
+        {
+          "name": "Memory Stick Pro Duo",
+          "slug": "komputer-laptop/memory-card/memory-stick-pro-duo",
+          "children": []
+        },
+        {
+          "name": "Memory Stick Pro Hg Duo",
+          "slug": "komputer-laptop/memory-card/memory-stick-pro-hg-duo",
+          "children": []
+        },
+        {
+          "name": "Sd Card",
+          "slug": "komputer-laptop/memory-card/sd-card",
+          "children": []
+        },
+        {
+          "name": "Microsd Card",
+          "slug": "komputer-laptop/memory-card/microsd-card",
+          "children": []
+        },
+        {
+          "name": "Minisd Card",
+          "slug": "komputer-laptop/memory-card/minisd-card",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Monitor",
+      "slug": "komputer-laptop/monitor",
+      "children": [
+        {
+          "name": "Monitor Lcd",
+          "slug": "komputer-laptop/monitor/monitor-lcd",
+          "children": []
+        },
+        {
+          "name": "Monitor Led",
+          "slug": "komputer-laptop/monitor/monitor-led",
+          "children": []
+        },
+        {
+          "name": "Monitor Tabung",
+          "slug": "komputer-laptop/monitor/monitor-tabung",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Networking",
+      "slug": "komputer-laptop/networking",
+      "children": [
+        {
+          "name": "Adapter",
+          "slug": "komputer-laptop/networking/adapter",
+          "children": []
+        },
+        {
+          "name": "Kvm Switch",
+          "slug": "komputer-laptop/networking/kvm-switch",
+          "children": []
+        },
+        {
+          "name": "Modem Pool",
+          "slug": "komputer-laptop/networking/modem-pool",
+          "children": []
+        },
+        {
+          "name": "Modem Usb",
+          "slug": "komputer-laptop/networking/modem-usb",
+          "children": []
+        },
+        {
+          "name": "Modem Wifi",
+          "slug": "komputer-laptop/networking/modem-wifi",
+          "children": []
+        },
+        {
+          "name": "Network Card",
+          "slug": "komputer-laptop/networking/network-card",
+          "children": []
+        },
+        {
+          "name": "Network Transceiver",
+          "slug": "komputer-laptop/networking/network-transceiver",
+          "children": []
+        },
+        {
+          "name": "Optical Power Meter",
+          "slug": "komputer-laptop/networking/optical-power-meter",
+          "children": []
+        },
+        {
+          "name": "Penguat Sinyal",
+          "slug": "komputer-laptop/networking/penguat-sinyal",
+          "children": []
+        },
+        {
+          "name": "Power Over Ethernet",
+          "slug": "komputer-laptop/networking/power-over-ethernet",
+          "children": []
+        },
+        {
+          "name": "Powerline",
+          "slug": "komputer-laptop/networking/powerline",
+          "children": []
+        },
+        {
+          "name": "Print Server",
+          "slug": "komputer-laptop/networking/print-server",
+          "children": []
+        },
+        {
+          "name": "Router",
+          "slug": "komputer-laptop/networking/router",
+          "children": []
+        },
+        {
+          "name": "Switch Internet",
+          "slug": "komputer-laptop/networking/switch-internet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pc Laptop Gaming",
+      "slug": "komputer-laptop/pc-laptop-gaming",
+      "children": [
+        {
+          "name": "Laptop Gaming",
+          "slug": "komputer-laptop/pc-laptop-gaming/laptop-gaming",
+          "children": []
+        },
+        {
+          "name": "Pc Gaming",
+          "slug": "komputer-laptop/pc-laptop-gaming/pc-gaming",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Printer",
+      "slug": "komputer-laptop/printer",
+      "children": [
+        {
+          "name": "Printer All In One",
+          "slug": "komputer-laptop/printer/printer-all-in-one",
+          "children": []
+        },
+        {
+          "name": "Printer Barcode",
+          "slug": "komputer-laptop/printer/printer-barcode",
+          "children": []
+        },
+        {
+          "name": "Printer Dot Matrix",
+          "slug": "komputer-laptop/printer/printer-dot-matrix",
+          "children": []
+        },
+        {
+          "name": "Printer Ink Jet",
+          "slug": "komputer-laptop/printer/printer-ink-jet",
+          "children": []
+        },
+        {
+          "name": "Printer Laser Color",
+          "slug": "komputer-laptop/printer/printer-laser-color",
+          "children": []
+        },
+        {
+          "name": "Printer Laser Mono",
+          "slug": "komputer-laptop/printer/printer-laser-mono",
+          "children": []
+        },
+        {
+          "name": "Printer Thermal",
+          "slug": "komputer-laptop/printer/printer-thermal",
+          "children": []
+        },
+        {
+          "name": "Scanner",
+          "slug": "komputer-laptop/printer/scanner",
+          "children": []
+        },
+        {
+          "name": "Spare Part Printer",
+          "slug": "komputer-laptop/printer/spare-part-printer",
+          "children": []
+        },
+        {
+          "name": "Tinta Printer",
+          "slug": "komputer-laptop/printer/tinta-printer",
+          "children": []
+        },
+        {
+          "name": "Toner Printer",
+          "slug": "komputer-laptop/printer/toner-printer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Proyektor Aksesoris",
+      "slug": "komputer-laptop/proyektor-aksesoris",
+      "children": [
+        {
+          "name": "Led Proyektor",
+          "slug": "komputer-laptop/proyektor-aksesoris/led-proyektor",
+          "children": []
+        },
+        {
+          "name": "Layar Proyektor",
+          "slug": "komputer-laptop/proyektor-aksesoris/layar-proyektor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Software",
+      "slug": "komputer-laptop/software",
+      "children": [
+        {
+          "name": "Anti Virus",
+          "slug": "komputer-laptop/software/anti-virus",
+          "children": []
+        },
+        {
+          "name": "Edukasi",
+          "slug": "komputer-laptop/software/edukasi",
+          "children": []
+        },
+        {
+          "name": "Multimedia",
+          "slug": "komputer-laptop/software/multimedia",
+          "children": []
+        },
+        {
+          "name": "Sistem Operasi",
+          "slug": "komputer-laptop/software/sistem-operasi",
+          "children": []
+        },
+        {
+          "name": "Work Services",
+          "slug": "komputer-laptop/software/work-services",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
