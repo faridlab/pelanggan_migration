@@ -9,8 +9,8 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('city_id').notNullable();
     table.uuid('district_id').notNullable();
     table.uuid('subdistrict_id').nullable();
-    table.string('address', 512).notNullable();
-    table.string('address2', 512).nullable();
+    table.string('address').notNullable();
+    table.string('address2').nullable();
     table.string('rtrw', 255).nullable();
     table.string('postalcode', 5).nullable();
     table.float('latitude').nullable();
@@ -34,6 +34,30 @@ export async function up(knex: Knex): Promise<void> {
       .inTable('warehouses')
       .onDelete('NO ACTION')
       .onUpdate('NO ACTION');
+
+      table.foreign('district_id', 'warehouse_addresses_district_id_foreign')
+        .references('id')
+        .inTable('districts')
+        .onDelete('NO ACTION')
+        .onUpdate('NO ACTION');
+
+      table.foreign('country_id', 'warehouse_addresses_country_id_foreign')
+        .references('id')
+        .inTable('countries')
+        .onDelete('NO ACTION')
+        .onUpdate('NO ACTION');
+
+      table.foreign('province_id', 'warehouse_addresses_province_id_foreign')
+        .references('id')
+        .inTable('provinces')
+        .onDelete('NO ACTION')
+        .onUpdate('NO ACTION');
+
+      table.foreign('city_id', 'warehouse_addresses_city_id_foreign')
+        .references('id')
+        .inTable('cities')
+        .onDelete('NO ACTION')
+        .onUpdate('NO ACTION');
   });
 }
 
