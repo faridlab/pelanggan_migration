@@ -1,0 +1,439 @@
+{
+  "name": "Ibu Bayi",
+  "slug": "ibu-bayi",
+  "children": [
+    {
+      "name": "Aksesori Popok",
+      "slug": "ibu-bayi/aksesori-popok",
+      "children": [
+        {
+          "name": "Alat Semprot",
+          "slug": "ibu-bayi/aksesori-popok/alat-semprot",
+          "children": []
+        },
+        {
+          "name": "Kantong Anti Air",
+          "slug": "ibu-bayi/aksesori-popok/kantong-anti-air",
+          "children": []
+        },
+        {
+          "name": "Liner Popok",
+          "slug": "ibu-bayi/aksesori-popok/liner-popok",
+          "children": []
+        },
+        {
+          "name": "Peniti Pengait Popok",
+          "slug": "ibu-bayi/aksesori-popok/peniti-pengait-popok",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aktivitas Bayi",
+      "slug": "ibu-bayi/aktivitas-bayi",
+      "children": [
+        {
+          "name": "Baby Walker",
+          "slug": "ibu-bayi/aktivitas-bayi/baby-walker",
+          "children": []
+        },
+        {
+          "name": "Pagar Pengaman Bayi",
+          "slug": "ibu-bayi/aktivitas-bayi/pagar-pengaman-bayi",
+          "children": []
+        },
+        {
+          "name": "Playmat Bayi",
+          "slug": "ibu-bayi/aktivitas-bayi/playmat-bayi",
+          "children": []
+        },
+        {
+          "name": "Swinger Rocker Bouncer Bayi",
+          "slug": "ibu-bayi/aktivitas-bayi/swinger-rocker-bouncer-bayi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Makanan Susu Ibu Hamil",
+      "slug": "ibu-bayi/makanan-susu-ibu-hamil",
+      "children": [
+        {
+          "name": "Asi Booster",
+          "slug": "ibu-bayi/makanan-susu-ibu-hamil/asi-booster",
+          "children": []
+        },
+        {
+          "name": "Susu Ibu Hamil",
+          "slug": "ibu-bayi/makanan-susu-ibu-hamil/susu-ibu-hamil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Makanan Bayi",
+      "slug": "ibu-bayi/makanan-bayi",
+      "children": []
+    },
+    {
+      "name": "Peralatan Perlengkapan Menyusui",
+      "slug": "ibu-bayi/peralatan-perlengkapan-menyusui",
+      "children": [
+        {
+          "name": "Apron Menyusui",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/apron-menyusui",
+          "children": []
+        },
+        {
+          "name": "Bra Menyusui",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/bra-menyusui",
+          "children": []
+        },
+        {
+          "name": "Breast Pad",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/breast-pad",
+          "children": []
+        },
+        {
+          "name": "Breast Pump Aksesoris",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/breast-pump-aksesoris",
+          "children": []
+        },
+        {
+          "name": "Cooler Bag",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/cooler-bag",
+          "children": []
+        },
+        {
+          "name": "Ice Gel",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/ice-gel",
+          "children": []
+        },
+        {
+          "name": "Kantong Botol Asi",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/kantong-botol-asi",
+          "children": []
+        },
+        {
+          "name": "Nipple Cream",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/nipple-cream",
+          "children": []
+        },
+        {
+          "name": "Pakaian Menyusui",
+          "slug": "ibu-bayi/peralatan-perlengkapan-menyusui/pakaian-menyusui",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Bayi",
+      "slug": "ibu-bayi/perawatan-bayi",
+      "children": [
+        {
+          "name": "Baby Oil",
+          "slug": "ibu-bayi/perawatan-bayi/baby-oil",
+          "children": []
+        },
+        {
+          "name": "Bedak Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/bedak-bayi",
+          "children": []
+        },
+        {
+          "name": "Cream Lotion Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/cream-lotion-bayi",
+          "children": []
+        },
+        {
+          "name": "Detergen Laundry Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/detergen-laundry-bayi",
+          "children": []
+        },
+        {
+          "name": "Diaper Bag",
+          "slug": "ibu-bayi/perawatan-bayi/diaper-bag",
+          "children": []
+        },
+        {
+          "name": "Gunting Kuku Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/gunting-kuku-bayi",
+          "children": []
+        },
+        {
+          "name": "Kapas Tissue Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/kapas-tissue-bayi",
+          "children": []
+        },
+        {
+          "name": "Minyak Telon",
+          "slug": "ibu-bayi/perawatan-bayi/minyak-telon",
+          "children": []
+        },
+        {
+          "name": "Rak Organizer Popok",
+          "slug": "ibu-bayi/perawatan-bayi/rak-organizer-popok",
+          "children": []
+        },
+        {
+          "name": "Shampoo Sabun Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/shampoo-sabun-bayi",
+          "children": []
+        },
+        {
+          "name": "Sikat Gigi Pasta Gigi Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/sikat-gigi-pasta-gigi-bayi",
+          "children": []
+        },
+        {
+          "name": "Sisir Bayi",
+          "slug": "ibu-bayi/perawatan-bayi/sisir-bayi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Perawatan Ibu",
+      "slug": "ibu-bayi/perlengkapan-perawatan-ibu",
+      "children": [
+        {
+          "name": "Bantal Ibu Hamil",
+          "slug": "ibu-bayi/perlengkapan-perawatan-ibu/bantal-ibu-hamil",
+          "children": []
+        },
+        {
+          "name": "Bantal Menyusui",
+          "slug": "ibu-bayi/perlengkapan-perawatan-ibu/bantal-menyusui",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Makan Bayi",
+      "slug": "ibu-bayi/perlengkapan-makan-bayi",
+      "children": [
+        {
+          "name": "Alat Makan Bayi",
+          "slug": "ibu-bayi/perlengkapan-makan-bayi/alat-makan-bayi",
+          "children": []
+        },
+        {
+          "name": "Baby Food Maker",
+          "slug": "ibu-bayi/perlengkapan-makan-bayi/baby-food-maker",
+          "children": []
+        },
+        {
+          "name": "Botol Susu Dot",
+          "slug": "ibu-bayi/perlengkapan-makan-bayi/botol-susu-dot",
+          "children": []
+        },
+        {
+          "name": "Celemek Bayi",
+          "slug": "ibu-bayi/perlengkapan-makan-bayi/celemek-bayi",
+          "children": []
+        },
+        {
+          "name": "Empeng",
+          "slug": "ibu-bayi/perlengkapan-makan-bayi/empeng",
+          "children": []
+        },
+        {
+          "name": "Kursi Makan Bayi",
+          "slug": "ibu-bayi/perlengkapan-makan-bayi/kursi-makan-bayi",
+          "children": []
+        },
+        {
+          "name": "Sterilizer Warmer",
+          "slug": "ibu-bayi/perlengkapan-makan-bayi/sterilizer-warmer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Mandi Bayi",
+      "slug": "ibu-bayi/perlengkapan-mandi-bayi",
+      "children": [
+        {
+          "name": "Bathtub Kolam Bayi",
+          "slug": "ibu-bayi/perlengkapan-mandi-bayi/bathtub-kolam-bayi",
+          "children": []
+        },
+        {
+          "name": "Handuk Washlap Bayi",
+          "slug": "ibu-bayi/perlengkapan-mandi-bayi/handuk-washlap-bayi",
+          "children": []
+        },
+        {
+          "name": "Pelampung Bayi",
+          "slug": "ibu-bayi/perlengkapan-mandi-bayi/pelampung-bayi",
+          "children": []
+        },
+        {
+          "name": "Pispot",
+          "slug": "ibu-bayi/perlengkapan-mandi-bayi/pispot",
+          "children": []
+        },
+        {
+          "name": "Topi Pelindung Air Bayi",
+          "slug": "ibu-bayi/perlengkapan-mandi-bayi/topi-pelindung-air-bayi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Tidur Bayi",
+      "slug": "ibu-bayi/perlengkapan-tidur-bayi",
+      "children": [
+        {
+          "name": "Baby Monitor",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/baby-monitor",
+          "children": []
+        },
+        {
+          "name": "Bantal Guling Bayi",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/bantal-guling-bayi",
+          "children": []
+        },
+        {
+          "name": "Bedong Bayi",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/bedong-bayi",
+          "children": []
+        },
+        {
+          "name": "Box Tidur Bayi",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/box-tidur-bayi",
+          "children": []
+        },
+        {
+          "name": "Kelambu Bayi",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/kelambu-bayi",
+          "children": []
+        },
+        {
+          "name": "Matras Tidur Bayi",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/matras-tidur-bayi",
+          "children": []
+        },
+        {
+          "name": "Perlak",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/perlak",
+          "children": []
+        },
+        {
+          "name": "Selimut Bayi",
+          "slug": "ibu-bayi/perlengkapan-tidur-bayi/selimut-bayi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Popok",
+      "slug": "ibu-bayi/popok",
+      "children": [
+        {
+          "name": "Diaper Cakes",
+          "slug": "ibu-bayi/popok/diaper-cakes",
+          "children": []
+        },
+        {
+          "name": "Diapers",
+          "slug": "ibu-bayi/popok/diapers",
+          "children": []
+        },
+        {
+          "name": "Popok Kain",
+          "slug": "ibu-bayi/popok/popok-kain",
+          "children": []
+        },
+        {
+          "name": "Popok Sekali Pakai",
+          "slug": "ibu-bayi/popok/popok-sekali-pakai",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Stroller Alat Bantu Bawa Bayi",
+      "slug": "ibu-bayi/stroller-alat-bantu-bawa-bayi",
+      "children": [
+        {
+          "name": "Aksesoris Stroller",
+          "slug": "ibu-bayi/stroller-alat-bantu-bawa-bayi/aksesoris-stroller",
+          "children": []
+        },
+        {
+          "name": "Alas Stroller",
+          "slug": "ibu-bayi/stroller-alat-bantu-bawa-bayi/alas-stroller",
+          "children": []
+        },
+        {
+          "name": "Dudukan Mobil Bayi",
+          "slug": "ibu-bayi/stroller-alat-bantu-bawa-bayi/dudukan-mobil-bayi",
+          "children": []
+        },
+        {
+          "name": "Gendongan Bayi",
+          "slug": "ibu-bayi/stroller-alat-bantu-bawa-bayi/gendongan-bayi",
+          "children": []
+        },
+        {
+          "name": "Stroller",
+          "slug": "ibu-bayi/stroller-alat-bantu-bawa-bayi/stroller",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Susu Bayi Anak",
+      "slug": "ibu-bayi/susu-bayi-anak",
+      "children": [
+        {
+          "name": "Biskuit Snack Bayi",
+          "slug": "ibu-bayi/susu-bayi-anak/biskuit-snack-bayi",
+          "children": []
+        },
+        {
+          "name": "Sereal Bubur Bayi",
+          "slug": "ibu-bayi/susu-bayi-anak/sereal-bubur-bayi",
+          "children": []
+        },
+        {
+          "name": "Susu Anak",
+          "slug": "ibu-bayi/susu-bayi-anak/susu-anak",
+          "children": []
+        },
+        {
+          "name": "Susu Bayi Di Bawah 1 Tahun",
+          "slug": "ibu-bayi/susu-bayi-anak/susu-bayi-di-bawah-1-tahun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tempat Sampah Popok Isi Ulang",
+      "slug": "ibu-bayi/tempat-sampah-popok-isi-ulang",
+      "children": [
+        {
+          "name": "Kantong Pembuangan Popok",
+          "slug": "ibu-bayi/tempat-sampah-popok-isi-ulang/kantong-pembuangan-popok",
+          "children": []
+        },
+        {
+          "name": "Liner Tempat Sampah Popok",
+          "slug": "ibu-bayi/tempat-sampah-popok-isi-ulang/liner-tempat-sampah-popok",
+          "children": []
+        },
+        {
+          "name": "Pengharum Tempat Sampah Popok",
+          "slug": "ibu-bayi/tempat-sampah-popok-isi-ulang/pengharum-tempat-sampah-popok",
+          "children": []
+        },
+        {
+          "name": "Tempat Sampah Popok",
+          "slug": "ibu-bayi/tempat-sampah-popok-isi-ulang/tempat-sampah-popok",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
