@@ -1,0 +1,797 @@
+{
+  "name": "Makanan Minuman",
+  "slug": "makanan-minuman",
+  "children": [
+    {
+      "name": "Bahan Kue",
+      "slug": "makanan-minuman/bahan-kue",
+      "children": [
+        {
+          "name": "Bahan Puding Agar Agar",
+          "slug": "makanan-minuman/bahan-kue/bahan-puding-agar-agar",
+          "children": []
+        },
+        {
+          "name": "Baking Powder",
+          "slug": "makanan-minuman/bahan-kue/baking-powder",
+          "children": []
+        },
+        {
+          "name": "Baking Soda",
+          "slug": "makanan-minuman/bahan-kue/baking-soda",
+          "children": []
+        },
+        {
+          "name": "Coklat Bubuk",
+          "slug": "makanan-minuman/bahan-kue/coklat-bubuk",
+          "children": []
+        },
+        {
+          "name": "Coklat Masak",
+          "slug": "makanan-minuman/bahan-kue/coklat-masak",
+          "children": []
+        },
+        {
+          "name": "Pastry Olahan Tepung Lainnya",
+          "slug": "makanan-minuman/bahan-kue/pastry-olahan-tepung-lainnya",
+          "children": []
+        },
+        {
+          "name": "Perisa Makanan",
+          "slug": "makanan-minuman/bahan-kue/perisa-makanan",
+          "children": []
+        },
+        {
+          "name": "Pewarna Makanan",
+          "slug": "makanan-minuman/bahan-kue/pewarna-makanan",
+          "children": []
+        },
+        {
+          "name": "Ragi",
+          "slug": "makanan-minuman/bahan-kue/ragi",
+          "children": []
+        },
+        {
+          "name": "Topping Penghias Kue",
+          "slug": "makanan-minuman/bahan-kue/topping-penghias-kue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Beras Shirataki Dan Porang",
+      "slug": "makanan-minuman/beras-shirataki-dan-porang",
+      "children": [
+        {
+          "name": "Beras Hitam",
+          "slug": "makanan-minuman/beras-shirataki-dan-porang/beras-hitam",
+          "children": []
+        },
+        {
+          "name": "Beras Ketan",
+          "slug": "makanan-minuman/beras-shirataki-dan-porang/beras-ketan",
+          "children": []
+        },
+        {
+          "name": "Beras Merah",
+          "slug": "makanan-minuman/beras-shirataki-dan-porang/beras-merah",
+          "children": []
+        },
+        {
+          "name": "Beras Putih",
+          "slug": "makanan-minuman/beras-shirataki-dan-porang/beras-putih",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Buah",
+      "slug": "makanan-minuman/buah",
+      "children": [
+        {
+          "name": "Buah Beku",
+          "slug": "makanan-minuman/buah/buah-beku",
+          "children": []
+        },
+        {
+          "name": "Buah Buahan",
+          "slug": "makanan-minuman/buah/buah-buahan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Bumbu Bahan Masakan",
+      "slug": "makanan-minuman/bumbu-bahan-masakan",
+      "children": [
+        {
+          "name": "Aneka Sambal",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/aneka-sambal",
+          "children": []
+        },
+        {
+          "name": "Bawang",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/bawang",
+          "children": []
+        },
+        {
+          "name": "Bumbu Masak Instan",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/bumbu-masak-instan",
+          "children": []
+        },
+        {
+          "name": "Cuka",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/cuka",
+          "children": []
+        },
+        {
+          "name": "Garam Merica",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/garam-merica",
+          "children": []
+        },
+        {
+          "name": "Gula",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/gula",
+          "children": []
+        },
+        {
+          "name": "Kaldu Penyedap Rasa",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/kaldu-penyedap-rasa",
+          "children": []
+        },
+        {
+          "name": "Kecap",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/kecap",
+          "children": []
+        },
+        {
+          "name": "Mayonnaise",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/mayonnaise",
+          "children": []
+        },
+        {
+          "name": "Minyak",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/minyak",
+          "children": []
+        },
+        {
+          "name": "Rempah",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/rempah",
+          "children": []
+        },
+        {
+          "name": "Santan",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/santan",
+          "children": []
+        },
+        {
+          "name": "Saus Dressing",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/saus-dressing",
+          "children": []
+        },
+        {
+          "name": "Terasi",
+          "slug": "makanan-minuman/bumbu-bahan-masakan/terasi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daging",
+      "slug": "makanan-minuman/daging",
+      "children": [
+        {
+          "name": "Baso",
+          "slug": "makanan-minuman/daging/baso",
+          "children": []
+        },
+        {
+          "name": "Daging Ayam",
+          "slug": "makanan-minuman/daging/daging-ayam",
+          "children": []
+        },
+        {
+          "name": "Daging Kambing",
+          "slug": "makanan-minuman/daging/daging-kambing",
+          "children": []
+        },
+        {
+          "name": "Daging Lainnya",
+          "slug": "makanan-minuman/daging/daging-lainnya",
+          "children": []
+        },
+        {
+          "name": "Daging Sapi",
+          "slug": "makanan-minuman/daging/daging-sapi",
+          "children": []
+        },
+        {
+          "name": "Nuggets",
+          "slug": "makanan-minuman/daging/nuggets",
+          "children": []
+        },
+        {
+          "name": "Sosis",
+          "slug": "makanan-minuman/daging/sosis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Hampers Parsel Dan Paket Makanan",
+      "slug": "makanan-minuman/hampers-parsel-dan-paket-makanan",
+      "children": [
+        {
+          "name": "Hampers Parcel Buah",
+          "slug": "makanan-minuman/hampers-parsel-dan-paket-makanan/hampers-parcel-buah",
+          "children": []
+        },
+        {
+          "name": "Hampers Parcel Coklat",
+          "slug": "makanan-minuman/hampers-parsel-dan-paket-makanan/hampers-parcel-coklat",
+          "children": []
+        },
+        {
+          "name": "Hampers Parcel Kue Kering",
+          "slug": "makanan-minuman/hampers-parsel-dan-paket-makanan/hampers-parcel-kue-kering",
+          "children": []
+        },
+        {
+          "name": "Hampers Parcel Makanan",
+          "slug": "makanan-minuman/hampers-parsel-dan-paket-makanan/hampers-parcel-makanan",
+          "children": []
+        },
+        {
+          "name": "Paket Sembako",
+          "slug": "makanan-minuman/hampers-parsel-dan-paket-makanan/paket-sembako",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kue",
+      "slug": "makanan-minuman/kue",
+      "children": [
+        {
+          "name": "Dessert",
+          "slug": "makanan-minuman/kue/dessert",
+          "children": []
+        },
+        {
+          "name": "Kue Basah",
+          "slug": "makanan-minuman/kue/kue-basah",
+          "children": []
+        },
+        {
+          "name": "Kue Kering",
+          "slug": "makanan-minuman/kue/kue-kering",
+          "children": []
+        },
+        {
+          "name": "Kue Ulang Tahun",
+          "slug": "makanan-minuman/kue/kue-ulang-tahun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Makanan Jadi",
+      "slug": "makanan-minuman/makanan-jadi",
+      "children": [
+        {
+          "name": "Buah Kaleng",
+          "slug": "makanan-minuman/makanan-jadi/buah-kaleng",
+          "children": []
+        },
+        {
+          "name": "Buah Olahan",
+          "slug": "makanan-minuman/makanan-jadi/buah-olahan",
+          "children": []
+        },
+        {
+          "name": "Daging Kaleng",
+          "slug": "makanan-minuman/makanan-jadi/daging-kaleng",
+          "children": []
+        },
+        {
+          "name": "Ikan Kaleng",
+          "slug": "makanan-minuman/makanan-jadi/ikan-kaleng",
+          "children": []
+        },
+        {
+          "name": "Makanan Instan Kaleng",
+          "slug": "makanan-minuman/makanan-jadi/makanan-instan-kaleng",
+          "children": []
+        },
+        {
+          "name": "Ready To Cook Siap Masak",
+          "slug": "makanan-minuman/makanan-jadi/ready-to-cook-siap-masak",
+          "children": []
+        },
+        {
+          "name": "Ready To Eat Siap Makan",
+          "slug": "makanan-minuman/makanan-jadi/ready-to-eat-siap-makan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Makanan Kering",
+      "slug": "makanan-minuman/makanan-kering",
+      "children": [
+        {
+          "name": "Abon",
+          "slug": "makanan-minuman/makanan-kering/abon",
+          "children": []
+        },
+        {
+          "name": "Bawang Goreng",
+          "slug": "makanan-minuman/makanan-kering/bawang-goreng",
+          "children": []
+        },
+        {
+          "name": "Biji Bijian",
+          "slug": "makanan-minuman/makanan-kering/biji-bijian",
+          "children": []
+        },
+        {
+          "name": "Daging Kering Asin",
+          "slug": "makanan-minuman/makanan-kering/daging-kering-asin",
+          "children": []
+        },
+        {
+          "name": "Kerupuk",
+          "slug": "makanan-minuman/makanan-kering/kerupuk",
+          "children": []
+        },
+        {
+          "name": "Quinoa",
+          "slug": "makanan-minuman/makanan-kering/quinoa",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Makanan Ringan",
+      "slug": "makanan-minuman/makanan-ringan",
+      "children": [
+        {
+          "name": "Biskuit Wafer",
+          "slug": "makanan-minuman/makanan-ringan/biskuit-wafer",
+          "children": []
+        },
+        {
+          "name": "Camilan Beku",
+          "slug": "makanan-minuman/makanan-ringan/camilan-beku",
+          "children": []
+        },
+        {
+          "name": "Camilan Instant",
+          "slug": "makanan-minuman/makanan-ringan/camilan-instant",
+          "children": []
+        },
+        {
+          "name": "Cokelat",
+          "slug": "makanan-minuman/makanan-ringan/cokelat",
+          "children": []
+        },
+        {
+          "name": "Kacang",
+          "slug": "makanan-minuman/makanan-ringan/kacang",
+          "children": []
+        },
+        {
+          "name": "Keripik",
+          "slug": "makanan-minuman/makanan-ringan/keripik",
+          "children": []
+        },
+        {
+          "name": "Permen",
+          "slug": "makanan-minuman/makanan-ringan/permen",
+          "children": []
+        },
+        {
+          "name": "Puding Jelly",
+          "slug": "makanan-minuman/makanan-ringan/puding-jelly",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Makanan Sarapan",
+      "slug": "makanan-minuman/makanan-sarapan",
+      "children": [
+        {
+          "name": "Granola",
+          "slug": "makanan-minuman/makanan-sarapan/granola",
+          "children": []
+        },
+        {
+          "name": "Meses",
+          "slug": "makanan-minuman/makanan-sarapan/meses",
+          "children": []
+        },
+        {
+          "name": "Muesli",
+          "slug": "makanan-minuman/makanan-sarapan/muesli",
+          "children": []
+        },
+        {
+          "name": "Oat",
+          "slug": "makanan-minuman/makanan-sarapan/oat",
+          "children": []
+        },
+        {
+          "name": "Roti",
+          "slug": "makanan-minuman/makanan-sarapan/roti",
+          "children": []
+        },
+        {
+          "name": "Selai",
+          "slug": "makanan-minuman/makanan-sarapan/selai",
+          "children": []
+        },
+        {
+          "name": "Sereal",
+          "slug": "makanan-minuman/makanan-sarapan/sereal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mie Pasta",
+      "slug": "makanan-minuman/mie-pasta",
+      "children": [
+        {
+          "name": "Aneka Pasta",
+          "slug": "makanan-minuman/mie-pasta/aneka-pasta",
+          "children": []
+        },
+        {
+          "name": "Bihun Soun",
+          "slug": "makanan-minuman/mie-pasta/bihun-soun",
+          "children": []
+        },
+        {
+          "name": "Kwetiau",
+          "slug": "makanan-minuman/mie-pasta/kwetiau",
+          "children": []
+        },
+        {
+          "name": "Mie Impor",
+          "slug": "makanan-minuman/mie-pasta/mie-impor",
+          "children": []
+        },
+        {
+          "name": "Mie Instan",
+          "slug": "makanan-minuman/mie-pasta/mie-instan",
+          "children": []
+        },
+        {
+          "name": "Mie Telur",
+          "slug": "makanan-minuman/mie-pasta/mie-telur",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Minuman",
+      "slug": "makanan-minuman/minuman",
+      "children": [
+        {
+          "name": "Air Mineral",
+          "slug": "makanan-minuman/minuman/air-mineral",
+          "children": []
+        },
+        {
+          "name": "Apple Cider Vinegar",
+          "slug": "makanan-minuman/minuman/apple-cider-vinegar",
+          "children": []
+        },
+        {
+          "name": "Bubuk Minuman Lainnya",
+          "slug": "makanan-minuman/minuman/bubuk-minuman-lainnya",
+          "children": []
+        },
+        {
+          "name": "Energy Drink",
+          "slug": "makanan-minuman/minuman/energy-drink",
+          "children": []
+        },
+        {
+          "name": "Jus",
+          "slug": "makanan-minuman/minuman/jus",
+          "children": []
+        },
+        {
+          "name": "Kental Manis",
+          "slug": "makanan-minuman/minuman/kental-manis",
+          "children": []
+        },
+        {
+          "name": "Kopi",
+          "slug": "makanan-minuman/minuman/kopi",
+          "children": []
+        },
+        {
+          "name": "Kopi Bubuk",
+          "slug": "makanan-minuman/minuman/kopi-bubuk",
+          "children": []
+        },
+        {
+          "name": "Kopi Kemasan",
+          "slug": "makanan-minuman/minuman/kopi-kemasan",
+          "children": []
+        },
+        {
+          "name": "Krimer",
+          "slug": "makanan-minuman/minuman/krimer",
+          "children": []
+        },
+        {
+          "name": "Madu",
+          "slug": "makanan-minuman/minuman/madu",
+          "children": []
+        },
+        {
+          "name": "Minuman Tradisional",
+          "slug": "makanan-minuman/minuman/minuman-tradisional",
+          "children": []
+        },
+        {
+          "name": "Ready To Drink Siap Minum",
+          "slug": "makanan-minuman/minuman/ready-to-drink-siap-minum",
+          "children": []
+        },
+        {
+          "name": "Sirup",
+          "slug": "makanan-minuman/minuman/sirup",
+          "children": []
+        },
+        {
+          "name": "Soft Drink",
+          "slug": "makanan-minuman/minuman/soft-drink",
+          "children": []
+        },
+        {
+          "name": "Teh",
+          "slug": "makanan-minuman/minuman/teh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Produk Mengandung Babi",
+      "slug": "makanan-minuman/produk-mengandung-babi",
+      "children": [
+        {
+          "name": "Bumbu Masak Non Halal",
+          "slug": "makanan-minuman/produk-mengandung-babi/bumbu-masak-non-halal",
+          "children": []
+        },
+        {
+          "name": "Daging Babi",
+          "slug": "makanan-minuman/produk-mengandung-babi/daging-babi",
+          "children": []
+        },
+        {
+          "name": "Olahan Daging Non Halal",
+          "slug": "makanan-minuman/produk-mengandung-babi/olahan-daging-non-halal",
+          "children": []
+        },
+        {
+          "name": "Ready To Eat Non Halal",
+          "slug": "makanan-minuman/produk-mengandung-babi/ready-to-eat-non-halal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sayur",
+      "slug": "makanan-minuman/sayur",
+      "children": [
+        {
+          "name": "Cabe",
+          "slug": "makanan-minuman/sayur/cabe",
+          "children": []
+        },
+        {
+          "name": "Jamur",
+          "slug": "makanan-minuman/sayur/jamur",
+          "children": []
+        },
+        {
+          "name": "Paket Sayur",
+          "slug": "makanan-minuman/sayur/paket-sayur",
+          "children": []
+        },
+        {
+          "name": "Sayuran Beku",
+          "slug": "makanan-minuman/sayur/sayuran-beku",
+          "children": []
+        },
+        {
+          "name": "Sayuran Buah",
+          "slug": "makanan-minuman/sayur/sayuran-buah",
+          "children": []
+        },
+        {
+          "name": "Sayuran Hijau",
+          "slug": "makanan-minuman/sayur/sayuran-hijau",
+          "children": []
+        },
+        {
+          "name": "Tahu Tempe",
+          "slug": "makanan-minuman/sayur/tahu-tempe",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Seafood",
+      "slug": "makanan-minuman/seafood",
+      "children": [
+        {
+          "name": "Cumi",
+          "slug": "makanan-minuman/seafood/cumi",
+          "children": []
+        },
+        {
+          "name": "Ikan Air Laut",
+          "slug": "makanan-minuman/seafood/ikan-air-laut",
+          "children": []
+        },
+        {
+          "name": "Ikan Air Tawar",
+          "slug": "makanan-minuman/seafood/ikan-air-tawar",
+          "children": []
+        },
+        {
+          "name": "Kerang",
+          "slug": "makanan-minuman/seafood/kerang",
+          "children": []
+        },
+        {
+          "name": "Udang",
+          "slug": "makanan-minuman/seafood/udang",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Seafood Lainnya",
+      "slug": "makanan-minuman/seafood-lainnya",
+      "children": [
+        {
+          "name": "Seafood",
+          "slug": "makanan-minuman/seafood-lainnya/seafood",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Susu Olahan Susu",
+      "slug": "makanan-minuman/susu-olahan-susu",
+      "children": [
+        {
+          "name": "Keju",
+          "slug": "makanan-minuman/susu-olahan-susu/keju",
+          "children": []
+        },
+        {
+          "name": "Mentega Butter",
+          "slug": "makanan-minuman/susu-olahan-susu/mentega-butter",
+          "children": []
+        },
+        {
+          "name": "Susu Bubuk Dewasa",
+          "slug": "makanan-minuman/susu-olahan-susu/susu-bubuk-dewasa",
+          "children": []
+        },
+        {
+          "name": "Susu Lansia",
+          "slug": "makanan-minuman/susu-olahan-susu/susu-lansia",
+          "children": []
+        },
+        {
+          "name": "Susu Non Dairy",
+          "slug": "makanan-minuman/susu-olahan-susu/susu-non-dairy",
+          "children": []
+        },
+        {
+          "name": "Susu Uht",
+          "slug": "makanan-minuman/susu-olahan-susu/susu-uht",
+          "children": []
+        },
+        {
+          "name": "Susu Segar Pasteurisasi",
+          "slug": "makanan-minuman/susu-olahan-susu/susu-segar-pasteurisasi",
+          "children": []
+        },
+        {
+          "name": "Whip Cream",
+          "slug": "makanan-minuman/susu-olahan-susu/whip-cream",
+          "children": []
+        },
+        {
+          "name": "Yogurt",
+          "slug": "makanan-minuman/susu-olahan-susu/yogurt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Telur",
+      "slug": "makanan-minuman/telur",
+      "children": [
+        {
+          "name": "Telur Bebek",
+          "slug": "makanan-minuman/telur/telur-bebek",
+          "children": []
+        },
+        {
+          "name": "Telur Puyuh",
+          "slug": "makanan-minuman/telur/telur-puyuh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Telur Ayam",
+      "slug": "makanan-minuman/telur-ayam",
+      "children": [
+        {
+          "name": "Telur",
+          "slug": "makanan-minuman/telur-ayam/telur",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tepung",
+      "slug": "makanan-minuman/tepung",
+      "children": [
+        {
+          "name": "Tepung Beras Ketan",
+          "slug": "makanan-minuman/tepung/tepung-beras-ketan",
+          "children": []
+        },
+        {
+          "name": "Tepung Bumbu Tepung Siap Pakai",
+          "slug": "makanan-minuman/tepung/tepung-bumbu-tepung-siap-pakai",
+          "children": []
+        },
+        {
+          "name": "Tepung Jagung",
+          "slug": "makanan-minuman/tepung/tepung-jagung",
+          "children": []
+        },
+        {
+          "name": "Tepung Kentang",
+          "slug": "makanan-minuman/tepung/tepung-kentang",
+          "children": []
+        },
+        {
+          "name": "Tepung Roti Panir",
+          "slug": "makanan-minuman/tepung/tepung-roti-panir",
+          "children": []
+        },
+        {
+          "name": "Tepung Sagu",
+          "slug": "makanan-minuman/tepung/tepung-sagu",
+          "children": []
+        },
+        {
+          "name": "Tepung Tapioka",
+          "slug": "makanan-minuman/tepung/tepung-tapioka",
+          "children": []
+        },
+        {
+          "name": "Tepung Terigu Gandum",
+          "slug": "makanan-minuman/tepung/tepung-terigu-gandum",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
