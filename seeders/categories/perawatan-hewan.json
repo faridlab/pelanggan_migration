@@ -1,0 +1,417 @@
+{
+  "name": "Perawatan Hewan",
+  "slug": "perawatan-hewan",
+  "children": [
+    {
+      "name": "Grooming Hewan",
+      "slug": "perawatan-hewan/grooming-hewan",
+      "children": [
+        {
+          "name": "Gunting Kuku Hewan",
+          "slug": "perawatan-hewan/grooming-hewan/gunting-kuku-hewan",
+          "children": []
+        },
+        {
+          "name": "Pet Glove",
+          "slug": "perawatan-hewan/grooming-hewan/pet-glove",
+          "children": []
+        },
+        {
+          "name": "Sikat Gigi Hewan",
+          "slug": "perawatan-hewan/grooming-hewan/sikat-gigi-hewan",
+          "children": []
+        },
+        {
+          "name": "Sisir Bulu Hewan",
+          "slug": "perawatan-hewan/grooming-hewan/sisir-bulu-hewan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Hewan Peliharaan",
+      "slug": "perawatan-hewan/hewan-peliharaan",
+      "children": [
+        {
+          "name": "Anjing",
+          "slug": "perawatan-hewan/hewan-peliharaan/anjing",
+          "children": []
+        },
+        {
+          "name": "Burung Dan Unggas",
+          "slug": "perawatan-hewan/hewan-peliharaan/burung-dan-unggas",
+          "children": []
+        },
+        {
+          "name": "Hamster",
+          "slug": "perawatan-hewan/hewan-peliharaan/hamster",
+          "children": []
+        },
+        {
+          "name": "Hewan Peliharaan Lainnya",
+          "slug": "perawatan-hewan/hewan-peliharaan/hewan-peliharaan-lainnya",
+          "children": []
+        },
+        {
+          "name": "Ikan Hias",
+          "slug": "perawatan-hewan/hewan-peliharaan/ikan-hias",
+          "children": []
+        },
+        {
+          "name": "Kelinci",
+          "slug": "perawatan-hewan/hewan-peliharaan/kelinci",
+          "children": []
+        },
+        {
+          "name": "Kucing",
+          "slug": "perawatan-hewan/hewan-peliharaan/kucing",
+          "children": []
+        },
+        {
+          "name": "Reptil",
+          "slug": "perawatan-hewan/hewan-peliharaan/reptil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Anjing",
+      "slug": "perawatan-hewan/perawatan-anjing",
+      "children": [
+        {
+          "name": "Baju Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/baju-anjing",
+          "children": []
+        },
+        {
+          "name": "Kalung Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/kalung-anjing",
+          "children": []
+        },
+        {
+          "name": "Mainan Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/mainan-anjing",
+          "children": []
+        },
+        {
+          "name": "Makanan Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/makanan-anjing",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/obat-vitamin-anjing",
+          "children": []
+        },
+        {
+          "name": "Shampoo Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/shampoo-anjing",
+          "children": []
+        },
+        {
+          "name": "Snack Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/snack-anjing",
+          "children": []
+        },
+        {
+          "name": "Tali Tuntun Anjing",
+          "slug": "perawatan-hewan/perawatan-anjing/tali-tuntun-anjing",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Ayam",
+      "slug": "perawatan-hewan/perawatan-ayam",
+      "children": [
+        {
+          "name": "Kandang Ayam",
+          "slug": "perawatan-hewan/perawatan-ayam/kandang-ayam",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Ayam",
+          "slug": "perawatan-hewan/perawatan-ayam/obat-vitamin-ayam",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Burung",
+      "slug": "perawatan-hewan/perawatan-burung",
+      "children": [
+        {
+          "name": "Kandang Burung",
+          "slug": "perawatan-hewan/perawatan-burung/kandang-burung",
+          "children": []
+        },
+        {
+          "name": "Mainan Burung",
+          "slug": "perawatan-hewan/perawatan-burung/mainan-burung",
+          "children": []
+        },
+        {
+          "name": "Makanan Burung",
+          "slug": "perawatan-hewan/perawatan-burung/makanan-burung",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Burung",
+          "slug": "perawatan-hewan/perawatan-burung/obat-vitamin-burung",
+          "children": []
+        },
+        {
+          "name": "Tempat Makan Minum Burung",
+          "slug": "perawatan-hewan/perawatan-burung/tempat-makan-minum-burung",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Hamster",
+      "slug": "perawatan-hewan/perawatan-hamster",
+      "children": [
+        {
+          "name": "Kandang Hamster",
+          "slug": "perawatan-hewan/perawatan-hamster/kandang-hamster",
+          "children": []
+        },
+        {
+          "name": "Mainan Hamster",
+          "slug": "perawatan-hewan/perawatan-hamster/mainan-hamster",
+          "children": []
+        },
+        {
+          "name": "Makanan Hamster",
+          "slug": "perawatan-hewan/perawatan-hamster/makanan-hamster",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Hamster",
+          "slug": "perawatan-hewan/perawatan-hamster/obat-vitamin-hamster",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Hewan Ternak",
+      "slug": "perawatan-hewan/perawatan-hewan-ternak",
+      "children": []
+    },
+    {
+      "name": "Perawatan Ikan",
+      "slug": "perawatan-hewan/perawatan-ikan",
+      "children": [
+        {
+          "name": "Aerator",
+          "slug": "perawatan-hewan/perawatan-ikan/aerator",
+          "children": []
+        },
+        {
+          "name": "Aksesoris Aquarium",
+          "slug": "perawatan-hewan/perawatan-ikan/aksesoris-aquarium",
+          "children": []
+        },
+        {
+          "name": "Aquarium",
+          "slug": "perawatan-hewan/perawatan-ikan/aquarium",
+          "children": []
+        },
+        {
+          "name": "Filter Akuarium",
+          "slug": "perawatan-hewan/perawatan-ikan/filter-akuarium",
+          "children": []
+        },
+        {
+          "name": "Hiasan Aquarium",
+          "slug": "perawatan-hewan/perawatan-ikan/hiasan-aquarium",
+          "children": []
+        },
+        {
+          "name": "Lampu Akuarium",
+          "slug": "perawatan-hewan/perawatan-ikan/lampu-akuarium",
+          "children": []
+        },
+        {
+          "name": "Makanan Ikan",
+          "slug": "perawatan-hewan/perawatan-ikan/makanan-ikan",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Ikan",
+          "slug": "perawatan-hewan/perawatan-ikan/obat-vitamin-ikan",
+          "children": []
+        },
+        {
+          "name": "Pelet Ikan",
+          "slug": "perawatan-hewan/perawatan-ikan/pelet-ikan",
+          "children": []
+        },
+        {
+          "name": "Penghangat Air Akuarium",
+          "slug": "perawatan-hewan/perawatan-ikan/penghangat-air-akuarium",
+          "children": []
+        },
+        {
+          "name": "Penjernih Air Akuarium",
+          "slug": "perawatan-hewan/perawatan-ikan/penjernih-air-akuarium",
+          "children": []
+        },
+        {
+          "name": "Pipa Akuarium",
+          "slug": "perawatan-hewan/perawatan-ikan/pipa-akuarium",
+          "children": []
+        },
+        {
+          "name": "Termometer Akuarium",
+          "slug": "perawatan-hewan/perawatan-ikan/termometer-akuarium",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Kelinci",
+      "slug": "perawatan-hewan/perawatan-kelinci",
+      "children": [
+        {
+          "name": "Makanan Kelinci",
+          "slug": "perawatan-hewan/perawatan-kelinci/makanan-kelinci",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Kelinci",
+          "slug": "perawatan-hewan/perawatan-kelinci/obat-vitamin-kelinci",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Kucing",
+      "slug": "perawatan-hewan/perawatan-kucing",
+      "children": [
+        {
+          "name": "Baju Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/baju-kucing",
+          "children": []
+        },
+        {
+          "name": "Garukan Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/garukan-kucing",
+          "children": []
+        },
+        {
+          "name": "Kalung Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/kalung-kucing",
+          "children": []
+        },
+        {
+          "name": "Mainan Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/mainan-kucing",
+          "children": []
+        },
+        {
+          "name": "Makanan Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/makanan-kucing",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/obat-vitamin-kucing",
+          "children": []
+        },
+        {
+          "name": "Pasir Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/pasir-kucing",
+          "children": []
+        },
+        {
+          "name": "Shampoo Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/shampoo-kucing",
+          "children": []
+        },
+        {
+          "name": "Snack Kucing",
+          "slug": "perawatan-hewan/perawatan-kucing/snack-kucing",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Reptil",
+      "slug": "perawatan-hewan/perawatan-reptil",
+      "children": [
+        {
+          "name": "Kandang Reptil",
+          "slug": "perawatan-hewan/perawatan-reptil/kandang-reptil",
+          "children": []
+        },
+        {
+          "name": "Lampu Uva Uvb Reptil",
+          "slug": "perawatan-hewan/perawatan-reptil/lampu-uva-uvb-reptil",
+          "children": []
+        },
+        {
+          "name": "Makanan Reptil",
+          "slug": "perawatan-hewan/perawatan-reptil/makanan-reptil",
+          "children": []
+        },
+        {
+          "name": "Obat Vitamin Reptil",
+          "slug": "perawatan-hewan/perawatan-reptil/obat-vitamin-reptil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Hewan",
+      "slug": "perawatan-hewan/perlengkapan-hewan",
+      "children": [
+        {
+          "name": "Alas Kandang Hewan",
+          "slug": "perawatan-hewan/perlengkapan-hewan/alas-kandang-hewan",
+          "children": []
+        },
+        {
+          "name": "Disinfektan Kandang",
+          "slug": "perawatan-hewan/perlengkapan-hewan/disinfektan-kandang",
+          "children": []
+        },
+        {
+          "name": "Kandang Hewan",
+          "slug": "perawatan-hewan/perlengkapan-hewan/kandang-hewan",
+          "children": []
+        },
+        {
+          "name": "Pet Cargo",
+          "slug": "perawatan-hewan/perlengkapan-hewan/pet-cargo",
+          "children": []
+        },
+        {
+          "name": "Pet Toy",
+          "slug": "perawatan-hewan/perlengkapan-hewan/pet-toy",
+          "children": []
+        },
+        {
+          "name": "Susu Hewan",
+          "slug": "perawatan-hewan/perlengkapan-hewan/susu-hewan",
+          "children": []
+        },
+        {
+          "name": "Tempat Makan Hewan",
+          "slug": "perawatan-hewan/perlengkapan-hewan/tempat-makan-hewan",
+          "children": []
+        },
+        {
+          "name": "Tempat Minum Hewan",
+          "slug": "perawatan-hewan/perlengkapan-hewan/tempat-minum-hewan",
+          "children": []
+        },
+        {
+          "name": "Tempat Tidur Hewan",
+          "slug": "perawatan-hewan/perlengkapan-hewan/tempat-tidur-hewan",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
