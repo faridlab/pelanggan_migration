@@ -8,7 +8,7 @@ export async function up(knex: Knex): Promise<void> {
     table.string('status', 255).notNullable().defaultTo('intial');
     table.integer('total').notNullable().defaultTo(1);
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
-    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
     table.timestamp('deleted_at', { useTz: false }).nullable();
     table.uuid('variant_id').nullable();
 

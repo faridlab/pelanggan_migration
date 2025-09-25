@@ -9,7 +9,7 @@ export async function up(knex: Knex): Promise<void> {
     table.string('data').notNullable();
     table.timestamp('read_at', { useTz: false });
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
-    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
 
     // Create index for notifiable_type and notifiable_id
     table.index(['notifiable_type', 'notifiable_id'], 'notifications_notifiable_type_notifiable_id_index');
