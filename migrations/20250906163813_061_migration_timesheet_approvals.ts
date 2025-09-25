@@ -14,7 +14,7 @@ export async function up(knex: Knex): Promise<void> {
     table.enum('status', statuses).notNullable().defaultTo('pending');
     table.json('data');
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
-    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
 
     // Create indexes

@@ -7,7 +7,7 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('country_id').notNullable();
     table.uuid('province_id').notNullable();
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
-    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
 
     // Create foreign key constraints

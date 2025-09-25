@@ -13,7 +13,7 @@ export async function up(knex: Knex): Promise<void> {
     table.string('ext', 10).nullable();
     table.enum('type', ['image', 'video', 'audio', 'document', 'other']).notNullable().defaultTo('image');
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
-    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
   });
 }

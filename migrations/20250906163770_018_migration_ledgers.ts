@@ -9,7 +9,7 @@ export async function up(knex: Knex): Promise<void> {
     table.decimal('beginning_balance', 15, 2).notNullable().defaultTo(0);
     table.decimal('ending_balance', 15, 2).notNullable().defaultTo(0);
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
-    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
+    table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
 
     // Create unique constraint
