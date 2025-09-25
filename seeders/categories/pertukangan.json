@@ -1,0 +1,1377 @@
+{
+  "name": "Pertukangan",
+  "slug": "pertukangan",
+  "children": [
+    {
+      "name": "Alat Angkut Barang",
+      "slug": "pertukangan/alat-angkut-barang",
+      "children": [
+        {
+          "name": "Chain Block",
+          "slug": "pertukangan/alat-angkut-barang/chain-block",
+          "children": []
+        },
+        {
+          "name": "Katrol",
+          "slug": "pertukangan/alat-angkut-barang/katrol",
+          "children": []
+        },
+        {
+          "name": "Krat Plastik",
+          "slug": "pertukangan/alat-angkut-barang/krat-plastik",
+          "children": []
+        },
+        {
+          "name": "Roda Kastor",
+          "slug": "pertukangan/alat-angkut-barang/roda-kastor",
+          "children": []
+        },
+        {
+          "name": "Stacker",
+          "slug": "pertukangan/alat-angkut-barang/stacker",
+          "children": []
+        },
+        {
+          "name": "Tali Kawat",
+          "slug": "pertukangan/alat-angkut-barang/tali-kawat",
+          "children": []
+        },
+        {
+          "name": "Tangga Lipat",
+          "slug": "pertukangan/alat-angkut-barang/tangga-lipat",
+          "children": []
+        },
+        {
+          "name": "Trolley",
+          "slug": "pertukangan/alat-angkut-barang/trolley",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Alat Keselamatan",
+      "slug": "pertukangan/alat-keselamatan",
+      "children": [
+        {
+          "name": "Ear Protector",
+          "slug": "pertukangan/alat-keselamatan/ear-protector",
+          "children": []
+        },
+        {
+          "name": "Pemadam Api",
+          "slug": "pertukangan/alat-keselamatan/pemadam-api",
+          "children": []
+        },
+        {
+          "name": "Pita Pembatas Barikade",
+          "slug": "pertukangan/alat-keselamatan/pita-pembatas-barikade",
+          "children": []
+        },
+        {
+          "name": "Rompi Proyek",
+          "slug": "pertukangan/alat-keselamatan/rompi-proyek",
+          "children": []
+        },
+        {
+          "name": "Safety Belt",
+          "slug": "pertukangan/alat-keselamatan/safety-belt",
+          "children": []
+        },
+        {
+          "name": "Safety Boots",
+          "slug": "pertukangan/alat-keselamatan/safety-boots",
+          "children": []
+        },
+        {
+          "name": "Safety Cone",
+          "slug": "pertukangan/alat-keselamatan/safety-cone",
+          "children": []
+        },
+        {
+          "name": "Safety Glasses",
+          "slug": "pertukangan/alat-keselamatan/safety-glasses",
+          "children": []
+        },
+        {
+          "name": "Safety Glove",
+          "slug": "pertukangan/alat-keselamatan/safety-glove",
+          "children": []
+        },
+        {
+          "name": "Safety Helmet",
+          "slug": "pertukangan/alat-keselamatan/safety-helmet",
+          "children": []
+        },
+        {
+          "name": "Safety Mask",
+          "slug": "pertukangan/alat-keselamatan/safety-mask",
+          "children": []
+        },
+        {
+          "name": "Topeng Helm Las",
+          "slug": "pertukangan/alat-keselamatan/topeng-helm-las",
+          "children": []
+        },
+        {
+          "name": "Wearpack",
+          "slug": "pertukangan/alat-keselamatan/wearpack",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Alat Perkebunan",
+      "slug": "pertukangan/alat-perkebunan",
+      "children": [
+        {
+          "name": "Alat Semprot Hama",
+          "slug": "pertukangan/alat-perkebunan/alat-semprot-hama",
+          "children": []
+        },
+        {
+          "name": "Cangkul",
+          "slug": "pertukangan/alat-perkebunan/cangkul",
+          "children": []
+        },
+        {
+          "name": "Fungisida",
+          "slug": "pertukangan/alat-perkebunan/fungisida",
+          "children": []
+        },
+        {
+          "name": "Jaring Kebun",
+          "slug": "pertukangan/alat-perkebunan/jaring-kebun",
+          "children": []
+        },
+        {
+          "name": "Mesin Blower",
+          "slug": "pertukangan/alat-perkebunan/mesin-blower",
+          "children": []
+        },
+        {
+          "name": "Mesin Fogging",
+          "slug": "pertukangan/alat-perkebunan/mesin-fogging",
+          "children": []
+        },
+        {
+          "name": "Mesin Traktor",
+          "slug": "pertukangan/alat-perkebunan/mesin-traktor",
+          "children": []
+        },
+        {
+          "name": "Pembasmi Lumut",
+          "slug": "pertukangan/alat-perkebunan/pembasmi-lumut",
+          "children": []
+        },
+        {
+          "name": "Pembasmi Rumput Liar",
+          "slug": "pertukangan/alat-perkebunan/pembasmi-rumput-liar",
+          "children": []
+        },
+        {
+          "name": "Pembasmi Serangga",
+          "slug": "pertukangan/alat-perkebunan/pembasmi-serangga",
+          "children": []
+        },
+        {
+          "name": "Pembasmi Tikus",
+          "slug": "pertukangan/alat-perkebunan/pembasmi-tikus",
+          "children": []
+        },
+        {
+          "name": "Pembasmi Tikus Tanah",
+          "slug": "pertukangan/alat-perkebunan/pembasmi-tikus-tanah",
+          "children": []
+        },
+        {
+          "name": "Pembasmi Ular",
+          "slug": "pertukangan/alat-perkebunan/pembasmi-ular",
+          "children": []
+        },
+        {
+          "name": "Penangkal Hama",
+          "slug": "pertukangan/alat-perkebunan/penangkal-hama",
+          "children": []
+        },
+        {
+          "name": "Pengatur Pertumbuhan",
+          "slug": "pertukangan/alat-perkebunan/pengatur-pertumbuhan",
+          "children": []
+        },
+        {
+          "name": "Pengendali Burung",
+          "slug": "pertukangan/alat-perkebunan/pengendali-burung",
+          "children": []
+        },
+        {
+          "name": "Pengendali Hewan Liar Peliharaan",
+          "slug": "pertukangan/alat-perkebunan/pengendali-hewan-liar-peliharaan",
+          "children": []
+        },
+        {
+          "name": "Perangkap",
+          "slug": "pertukangan/alat-perkebunan/perangkap",
+          "children": []
+        },
+        {
+          "name": "Pisau Sabit",
+          "slug": "pertukangan/alat-perkebunan/pisau-sabit",
+          "children": []
+        },
+        {
+          "name": "Sekop",
+          "slug": "pertukangan/alat-perkebunan/sekop",
+          "children": []
+        },
+        {
+          "name": "Semprotan",
+          "slug": "pertukangan/alat-perkebunan/semprotan",
+          "children": []
+        },
+        {
+          "name": "Serangga Yang Berguna",
+          "slug": "pertukangan/alat-perkebunan/serangga-yang-berguna",
+          "children": []
+        },
+        {
+          "name": "Sprinkler",
+          "slug": "pertukangan/alat-perkebunan/sprinkler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Alat Ukur Industri",
+      "slug": "pertukangan/alat-ukur-industri",
+      "children": [
+        {
+          "name": "Pengukur Arus Air",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-arus-air",
+          "children": []
+        },
+        {
+          "name": "Pengukur Arus Listrik",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-arus-listrik",
+          "children": []
+        },
+        {
+          "name": "Pengukur Berat",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-berat",
+          "children": []
+        },
+        {
+          "name": "Pengukur Dimensi",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-dimensi",
+          "children": []
+        },
+        {
+          "name": "Pengukur Intensitas Cahaya",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-intensitas-cahaya",
+          "children": []
+        },
+        {
+          "name": "Pengukur Intensitas Suara",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-intensitas-suara",
+          "children": []
+        },
+        {
+          "name": "Pengukur Kecepatan Rotasi",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-kecepatan-rotasi",
+          "children": []
+        },
+        {
+          "name": "Pengukur Kelembaban",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-kelembaban",
+          "children": []
+        },
+        {
+          "name": "Pengukur Kualitas Udara",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-kualitas-udara",
+          "children": []
+        },
+        {
+          "name": "Pengukur Tekanan",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-tekanan",
+          "children": []
+        },
+        {
+          "name": "Pengukur Temperatur",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-temperatur",
+          "children": []
+        },
+        {
+          "name": "Pengukur Tingkat Keasaman",
+          "slug": "pertukangan/alat-ukur-industri/pengukur-tingkat-keasaman",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Baut Mur Pengencang",
+      "slug": "pertukangan/baut-mur-pengencang",
+      "children": [
+        {
+          "name": "Baut",
+          "slug": "pertukangan/baut-mur-pengencang/baut",
+          "children": []
+        },
+        {
+          "name": "Hook",
+          "slug": "pertukangan/baut-mur-pengencang/hook",
+          "children": []
+        },
+        {
+          "name": "Mur",
+          "slug": "pertukangan/baut-mur-pengencang/mur",
+          "children": []
+        },
+        {
+          "name": "Ring Plat",
+          "slug": "pertukangan/baut-mur-pengencang/ring-plat",
+          "children": []
+        },
+        {
+          "name": "Rivet",
+          "slug": "pertukangan/baut-mur-pengencang/rivet",
+          "children": []
+        },
+        {
+          "name": "Skrup",
+          "slug": "pertukangan/baut-mur-pengencang/skrup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Cat Perlengkapan",
+      "slug": "pertukangan/cat-perlengkapan",
+      "children": [
+        {
+          "name": "Cat Kayu",
+          "slug": "pertukangan/cat-perlengkapan/cat-kayu",
+          "children": []
+        },
+        {
+          "name": "Cat Pelapis",
+          "slug": "pertukangan/cat-perlengkapan/cat-pelapis",
+          "children": []
+        },
+        {
+          "name": "Cat Semprot",
+          "slug": "pertukangan/cat-perlengkapan/cat-semprot",
+          "children": []
+        },
+        {
+          "name": "Cat Tembok",
+          "slug": "pertukangan/cat-perlengkapan/cat-tembok",
+          "children": []
+        },
+        {
+          "name": "Kuas Cat",
+          "slug": "pertukangan/cat-perlengkapan/kuas-cat",
+          "children": []
+        },
+        {
+          "name": "Plamir",
+          "slug": "pertukangan/cat-perlengkapan/plamir",
+          "children": []
+        },
+        {
+          "name": "Roller Cat",
+          "slug": "pertukangan/cat-perlengkapan/roller-cat",
+          "children": []
+        },
+        {
+          "name": "Thinner",
+          "slug": "pertukangan/cat-perlengkapan/thinner",
+          "children": []
+        },
+        {
+          "name": "Wallpaper",
+          "slug": "pertukangan/cat-perlengkapan/wallpaper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Generator Genset",
+      "slug": "pertukangan/generator-genset",
+      "children": []
+    },
+    {
+      "name": "Gerobak",
+      "slug": "pertukangan/gerobak",
+      "children": []
+    },
+    {
+      "name": "Hand Tools",
+      "slug": "pertukangan/hand-tools",
+      "children": [
+        {
+          "name": "Alat Penjepit",
+          "slug": "pertukangan/hand-tools/alat-penjepit",
+          "children": []
+        },
+        {
+          "name": "Blow Torch",
+          "slug": "pertukangan/hand-tools/blow-torch",
+          "children": []
+        },
+        {
+          "name": "Gergaji",
+          "slug": "pertukangan/hand-tools/gergaji",
+          "children": []
+        },
+        {
+          "name": "Gunting Pipa",
+          "slug": "pertukangan/hand-tools/gunting-pipa",
+          "children": []
+        },
+        {
+          "name": "Kapak",
+          "slug": "pertukangan/hand-tools/kapak",
+          "children": []
+        },
+        {
+          "name": "Kertas Amplas",
+          "slug": "pertukangan/hand-tools/kertas-amplas",
+          "children": []
+        },
+        {
+          "name": "Kunci Inggris",
+          "slug": "pertukangan/hand-tools/kunci-inggris",
+          "children": []
+        },
+        {
+          "name": "Kunci L",
+          "slug": "pertukangan/hand-tools/kunci-l",
+          "children": []
+        },
+        {
+          "name": "Kunci Ring Pas",
+          "slug": "pertukangan/hand-tools/kunci-ring-pas",
+          "children": []
+        },
+        {
+          "name": "Kunci Shock",
+          "slug": "pertukangan/hand-tools/kunci-shock",
+          "children": []
+        },
+        {
+          "name": "Kunci T",
+          "slug": "pertukangan/hand-tools/kunci-t",
+          "children": []
+        },
+        {
+          "name": "Mata Obeng",
+          "slug": "pertukangan/hand-tools/mata-obeng",
+          "children": []
+        },
+        {
+          "name": "Obeng",
+          "slug": "pertukangan/hand-tools/obeng",
+          "children": []
+        },
+        {
+          "name": "Palu",
+          "slug": "pertukangan/hand-tools/palu",
+          "children": []
+        },
+        {
+          "name": "Pinset",
+          "slug": "pertukangan/hand-tools/pinset",
+          "children": []
+        },
+        {
+          "name": "Sendok Semen",
+          "slug": "pertukangan/hand-tools/sendok-semen",
+          "children": []
+        },
+        {
+          "name": "Staples Gun",
+          "slug": "pertukangan/hand-tools/staples-gun",
+          "children": []
+        },
+        {
+          "name": "Tang",
+          "slug": "pertukangan/hand-tools/tang",
+          "children": []
+        },
+        {
+          "name": "Tang Crimping",
+          "slug": "pertukangan/hand-tools/tang-crimping",
+          "children": []
+        },
+        {
+          "name": "Tang Potong",
+          "slug": "pertukangan/hand-tools/tang-potong",
+          "children": []
+        },
+        {
+          "name": "Tool Kit Set",
+          "slug": "pertukangan/hand-tools/tool-kit-set",
+          "children": []
+        },
+        {
+          "name": "Treker",
+          "slug": "pertukangan/hand-tools/treker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Industrial Material",
+      "slug": "pertukangan/industrial-material",
+      "children": [
+        {
+          "name": "Biji Plastik",
+          "slug": "pertukangan/industrial-material/biji-plastik",
+          "children": []
+        },
+        {
+          "name": "Kaporit",
+          "slug": "pertukangan/industrial-material/kaporit",
+          "children": []
+        },
+        {
+          "name": "Resin",
+          "slug": "pertukangan/industrial-material/resin",
+          "children": []
+        },
+        {
+          "name": "Rubber Sheet",
+          "slug": "pertukangan/industrial-material/rubber-sheet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lampu",
+      "slug": "pertukangan/lampu",
+      "children": [
+        {
+          "name": "Bohlam",
+          "slug": "pertukangan/lampu/bohlam",
+          "children": []
+        },
+        {
+          "name": "Fitting Lampu",
+          "slug": "pertukangan/lampu/fitting-lampu",
+          "children": []
+        },
+        {
+          "name": "Lampu Baca",
+          "slug": "pertukangan/lampu/lampu-baca",
+          "children": []
+        },
+        {
+          "name": "Lampu Darurat",
+          "slug": "pertukangan/lampu/lampu-darurat",
+          "children": []
+        },
+        {
+          "name": "Lampu Dinding",
+          "slug": "pertukangan/lampu/lampu-dinding",
+          "children": []
+        },
+        {
+          "name": "Lampu Gantung",
+          "slug": "pertukangan/lampu/lampu-gantung",
+          "children": []
+        },
+        {
+          "name": "Lampu Hias",
+          "slug": "pertukangan/lampu/lampu-hias",
+          "children": []
+        },
+        {
+          "name": "Lampu Meja",
+          "slug": "pertukangan/lampu/lampu-meja",
+          "children": []
+        },
+        {
+          "name": "Lampu Proyektor",
+          "slug": "pertukangan/lampu/lampu-proyektor",
+          "children": []
+        },
+        {
+          "name": "Lampu Tidur",
+          "slug": "pertukangan/lampu/lampu-tidur",
+          "children": []
+        },
+        {
+          "name": "Senter",
+          "slug": "pertukangan/lampu/senter",
+          "children": []
+        },
+        {
+          "name": "Smart Lamp",
+          "slug": "pertukangan/lampu/smart-lamp",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ledeng",
+      "slug": "pertukangan/ledeng",
+      "children": [
+        {
+          "name": "Bath Tub",
+          "slug": "pertukangan/ledeng/bath-tub",
+          "children": []
+        },
+        {
+          "name": "Filter Keran Air",
+          "slug": "pertukangan/ledeng/filter-keran-air",
+          "children": []
+        },
+        {
+          "name": "Fitting Pipa",
+          "slug": "pertukangan/ledeng/fitting-pipa",
+          "children": []
+        },
+        {
+          "name": "Foot Valve Klep",
+          "slug": "pertukangan/ledeng/foot-valve-klep",
+          "children": []
+        },
+        {
+          "name": "Jet Shower Toilet",
+          "slug": "pertukangan/ledeng/jet-shower-toilet",
+          "children": []
+        },
+        {
+          "name": "Kepala Shower Mandi",
+          "slug": "pertukangan/ledeng/kepala-shower-mandi",
+          "children": []
+        },
+        {
+          "name": "Keran Air",
+          "slug": "pertukangan/ledeng/keran-air",
+          "children": []
+        },
+        {
+          "name": "Kloset",
+          "slug": "pertukangan/ledeng/kloset",
+          "children": []
+        },
+        {
+          "name": "Lem Pipa",
+          "slug": "pertukangan/ledeng/lem-pipa",
+          "children": []
+        },
+        {
+          "name": "Pembersih Saluran Air",
+          "slug": "pertukangan/ledeng/pembersih-saluran-air",
+          "children": []
+        },
+        {
+          "name": "Pipa Pvc",
+          "slug": "pertukangan/ledeng/pipa-pvc",
+          "children": []
+        },
+        {
+          "name": "Pompa Air",
+          "slug": "pertukangan/ledeng/pompa-air",
+          "children": []
+        },
+        {
+          "name": "Saringan Got",
+          "slug": "pertukangan/ledeng/saringan-got",
+          "children": []
+        },
+        {
+          "name": "Selang Shower",
+          "slug": "pertukangan/ledeng/selang-shower",
+          "children": []
+        },
+        {
+          "name": "Septic Tank",
+          "slug": "pertukangan/ledeng/septic-tank",
+          "children": []
+        },
+        {
+          "name": "Shower Holder",
+          "slug": "pertukangan/ledeng/shower-holder",
+          "children": []
+        },
+        {
+          "name": "Tiang Shower",
+          "slug": "pertukangan/ledeng/tiang-shower",
+          "children": []
+        },
+        {
+          "name": "Toren Air",
+          "slug": "pertukangan/ledeng/toren-air",
+          "children": []
+        },
+        {
+          "name": "Washtafel",
+          "slug": "pertukangan/ledeng/washtafel",
+          "children": []
+        },
+        {
+          "name": "Water Heater",
+          "slug": "pertukangan/ledeng/water-heater",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Machinery",
+      "slug": "pertukangan/machinery",
+      "children": [
+        {
+          "name": "Mesin Bandsaw",
+          "slug": "pertukangan/machinery/mesin-bandsaw",
+          "children": []
+        },
+        {
+          "name": "Mesin Bending",
+          "slug": "pertukangan/machinery/mesin-bending",
+          "children": []
+        },
+        {
+          "name": "Mesin Bubut",
+          "slug": "pertukangan/machinery/mesin-bubut",
+          "children": []
+        },
+        {
+          "name": "Mesin Milling",
+          "slug": "pertukangan/machinery/mesin-milling",
+          "children": []
+        },
+        {
+          "name": "Mesin Produksi",
+          "slug": "pertukangan/machinery/mesin-produksi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Material Bangunan",
+      "slug": "pertukangan/material-bangunan",
+      "children": [
+        {
+          "name": "Asbes",
+          "slug": "pertukangan/material-bangunan/asbes",
+          "children": []
+        },
+        {
+          "name": "Baja",
+          "slug": "pertukangan/material-bangunan/baja",
+          "children": []
+        },
+        {
+          "name": "Batako",
+          "slug": "pertukangan/material-bangunan/batako",
+          "children": []
+        },
+        {
+          "name": "Batu",
+          "slug": "pertukangan/material-bangunan/batu",
+          "children": []
+        },
+        {
+          "name": "Batu Bata",
+          "slug": "pertukangan/material-bangunan/batu-bata",
+          "children": []
+        },
+        {
+          "name": "Besi",
+          "slug": "pertukangan/material-bangunan/besi",
+          "children": []
+        },
+        {
+          "name": "Beton",
+          "slug": "pertukangan/material-bangunan/beton",
+          "children": []
+        },
+        {
+          "name": "Digital Lock",
+          "slug": "pertukangan/material-bangunan/digital-lock",
+          "children": []
+        },
+        {
+          "name": "Engsel",
+          "slug": "pertukangan/material-bangunan/engsel",
+          "children": []
+        },
+        {
+          "name": "Gagang Pintu",
+          "slug": "pertukangan/material-bangunan/gagang-pintu",
+          "children": []
+        },
+        {
+          "name": "Gembok",
+          "slug": "pertukangan/material-bangunan/gembok",
+          "children": []
+        },
+        {
+          "name": "Genteng",
+          "slug": "pertukangan/material-bangunan/genteng",
+          "children": []
+        },
+        {
+          "name": "Granit",
+          "slug": "pertukangan/material-bangunan/granit",
+          "children": []
+        },
+        {
+          "name": "Grendel",
+          "slug": "pertukangan/material-bangunan/grendel",
+          "children": []
+        },
+        {
+          "name": "Jendela",
+          "slug": "pertukangan/material-bangunan/jendela",
+          "children": []
+        },
+        {
+          "name": "Kaca",
+          "slug": "pertukangan/material-bangunan/kaca",
+          "children": []
+        },
+        {
+          "name": "Kawat",
+          "slug": "pertukangan/material-bangunan/kawat",
+          "children": []
+        },
+        {
+          "name": "Kayu",
+          "slug": "pertukangan/material-bangunan/kayu",
+          "children": []
+        },
+        {
+          "name": "Keramik Lantai",
+          "slug": "pertukangan/material-bangunan/keramik-lantai",
+          "children": []
+        },
+        {
+          "name": "Kusen Pintu",
+          "slug": "pertukangan/material-bangunan/kusen-pintu",
+          "children": []
+        },
+        {
+          "name": "Lantai Kayu",
+          "slug": "pertukangan/material-bangunan/lantai-kayu",
+          "children": []
+        },
+        {
+          "name": "Paku",
+          "slug": "pertukangan/material-bangunan/paku",
+          "children": []
+        },
+        {
+          "name": "Pasir",
+          "slug": "pertukangan/material-bangunan/pasir",
+          "children": []
+        },
+        {
+          "name": "Semen",
+          "slug": "pertukangan/material-bangunan/semen",
+          "children": []
+        },
+        {
+          "name": "Soda Api",
+          "slug": "pertukangan/material-bangunan/soda-api",
+          "children": []
+        },
+        {
+          "name": "Tanah",
+          "slug": "pertukangan/material-bangunan/tanah",
+          "children": []
+        },
+        {
+          "name": "Triplek",
+          "slug": "pertukangan/material-bangunan/triplek",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Motors Power Transmission",
+      "slug": "pertukangan/motors-power-transmission",
+      "children": [
+        {
+          "name": "Dinamo Motor",
+          "slug": "pertukangan/motors-power-transmission/dinamo-motor",
+          "children": []
+        },
+        {
+          "name": "Industrial Fan",
+          "slug": "pertukangan/motors-power-transmission/industrial-fan",
+          "children": []
+        },
+        {
+          "name": "Motor Starter",
+          "slug": "pertukangan/motors-power-transmission/motor-starter",
+          "children": []
+        },
+        {
+          "name": "Transmission Belt",
+          "slug": "pertukangan/motors-power-transmission/transmission-belt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Otomasi Industrial",
+      "slug": "pertukangan/otomasi-industrial",
+      "children": [
+        {
+          "name": "Capacitor",
+          "slug": "pertukangan/otomasi-industrial/capacitor",
+          "children": []
+        },
+        {
+          "name": "Circuit Breaker",
+          "slug": "pertukangan/otomasi-industrial/circuit-breaker",
+          "children": []
+        },
+        {
+          "name": "Contactor",
+          "slug": "pertukangan/otomasi-industrial/contactor",
+          "children": []
+        },
+        {
+          "name": "Digital Counter",
+          "slug": "pertukangan/otomasi-industrial/digital-counter",
+          "children": []
+        },
+        {
+          "name": "Encoder",
+          "slug": "pertukangan/otomasi-industrial/encoder",
+          "children": []
+        },
+        {
+          "name": "Gas Sensor",
+          "slug": "pertukangan/otomasi-industrial/gas-sensor",
+          "children": []
+        },
+        {
+          "name": "Human Machine Interface",
+          "slug": "pertukangan/otomasi-industrial/human-machine-interface",
+          "children": []
+        },
+        {
+          "name": "Indikator Temperatur",
+          "slug": "pertukangan/otomasi-industrial/indikator-temperatur",
+          "children": []
+        },
+        {
+          "name": "Industrial Plug",
+          "slug": "pertukangan/otomasi-industrial/industrial-plug",
+          "children": []
+        },
+        {
+          "name": "Industrial Socket",
+          "slug": "pertukangan/otomasi-industrial/industrial-socket",
+          "children": []
+        },
+        {
+          "name": "Level Sensor",
+          "slug": "pertukangan/otomasi-industrial/level-sensor",
+          "children": []
+        },
+        {
+          "name": "Limit Switch",
+          "slug": "pertukangan/otomasi-industrial/limit-switch",
+          "children": []
+        },
+        {
+          "name": "Pid Controller",
+          "slug": "pertukangan/otomasi-industrial/pid-controller",
+          "children": []
+        },
+        {
+          "name": "Plc",
+          "slug": "pertukangan/otomasi-industrial/plc",
+          "children": []
+        },
+        {
+          "name": "Photoelectric Sensor",
+          "slug": "pertukangan/otomasi-industrial/photoelectric-sensor",
+          "children": []
+        },
+        {
+          "name": "Pilot Light",
+          "slug": "pertukangan/otomasi-industrial/pilot-light",
+          "children": []
+        },
+        {
+          "name": "Push Button",
+          "slug": "pertukangan/otomasi-industrial/push-button",
+          "children": []
+        },
+        {
+          "name": "Relay",
+          "slug": "pertukangan/otomasi-industrial/relay",
+          "children": []
+        },
+        {
+          "name": "Remote Io",
+          "slug": "pertukangan/otomasi-industrial/remote-io",
+          "children": []
+        },
+        {
+          "name": "Smps",
+          "slug": "pertukangan/otomasi-industrial/smps",
+          "children": []
+        },
+        {
+          "name": "Sensor Proximity",
+          "slug": "pertukangan/otomasi-industrial/sensor-proximity",
+          "children": []
+        },
+        {
+          "name": "Signal Beacon",
+          "slug": "pertukangan/otomasi-industrial/signal-beacon",
+          "children": []
+        },
+        {
+          "name": "Signal Towers",
+          "slug": "pertukangan/otomasi-industrial/signal-towers",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perangkat Keamanan",
+      "slug": "pertukangan/perangkat-keamanan",
+      "children": [
+        {
+          "name": "Access Control Door",
+          "slug": "pertukangan/perangkat-keamanan/access-control-door",
+          "children": []
+        },
+        {
+          "name": "Alarm",
+          "slug": "pertukangan/perangkat-keamanan/alarm",
+          "children": []
+        },
+        {
+          "name": "Metal Detector",
+          "slug": "pertukangan/perangkat-keamanan/metal-detector",
+          "children": []
+        },
+        {
+          "name": "Motion Detector",
+          "slug": "pertukangan/perangkat-keamanan/motion-detector",
+          "children": []
+        },
+        {
+          "name": "Smoke Detector",
+          "slug": "pertukangan/perangkat-keamanan/smoke-detector",
+          "children": []
+        },
+        {
+          "name": "Spare Part",
+          "slug": "pertukangan/perangkat-keamanan/spare-part",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Las",
+      "slug": "pertukangan/perlengkapan-las",
+      "children": [
+        {
+          "name": "Generator Las",
+          "slug": "pertukangan/perlengkapan-las/generator-las",
+          "children": []
+        },
+        {
+          "name": "Kawat Las",
+          "slug": "pertukangan/perlengkapan-las/kawat-las",
+          "children": []
+        },
+        {
+          "name": "Mesin Las",
+          "slug": "pertukangan/perlengkapan-las/mesin-las",
+          "children": []
+        },
+        {
+          "name": "Pasta Solder",
+          "slug": "pertukangan/perlengkapan-las/pasta-solder",
+          "children": []
+        },
+        {
+          "name": "Solder",
+          "slug": "pertukangan/perlengkapan-las/solder",
+          "children": []
+        },
+        {
+          "name": "Soldering Kit",
+          "slug": "pertukangan/perlengkapan-las/soldering-kit",
+          "children": []
+        },
+        {
+          "name": "Timah Solder",
+          "slug": "pertukangan/perlengkapan-las/timah-solder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Listrik",
+      "slug": "pertukangan/perlengkapan-listrik",
+      "children": [
+        {
+          "name": "Adaptor",
+          "slug": "pertukangan/perlengkapan-listrik/adaptor",
+          "children": []
+        },
+        {
+          "name": "Anti Petir",
+          "slug": "pertukangan/perlengkapan-listrik/anti-petir",
+          "children": []
+        },
+        {
+          "name": "Bel",
+          "slug": "pertukangan/perlengkapan-listrik/bel",
+          "children": []
+        },
+        {
+          "name": "Insulator",
+          "slug": "pertukangan/perlengkapan-listrik/insulator",
+          "children": []
+        },
+        {
+          "name": "Isolasi Listrik",
+          "slug": "pertukangan/perlengkapan-listrik/isolasi-listrik",
+          "children": []
+        },
+        {
+          "name": "Kabel Roll",
+          "slug": "pertukangan/perlengkapan-listrik/kabel-roll",
+          "children": []
+        },
+        {
+          "name": "Komponen Listrik",
+          "slug": "pertukangan/perlengkapan-listrik/komponen-listrik",
+          "children": []
+        },
+        {
+          "name": "Mcb",
+          "slug": "pertukangan/perlengkapan-listrik/mcb",
+          "children": []
+        },
+        {
+          "name": "Pelindung Kabel Spiral",
+          "slug": "pertukangan/perlengkapan-listrik/pelindung-kabel-spiral",
+          "children": []
+        },
+        {
+          "name": "Pengaman Stop Kontak",
+          "slug": "pertukangan/perlengkapan-listrik/pengaman-stop-kontak",
+          "children": []
+        },
+        {
+          "name": "Penghemat Listrik",
+          "slug": "pertukangan/perlengkapan-listrik/penghemat-listrik",
+          "children": []
+        },
+        {
+          "name": "Power Supply",
+          "slug": "pertukangan/perlengkapan-listrik/power-supply",
+          "children": []
+        },
+        {
+          "name": "Saklar",
+          "slug": "pertukangan/perlengkapan-listrik/saklar",
+          "children": []
+        },
+        {
+          "name": "Steker",
+          "slug": "pertukangan/perlengkapan-listrik/steker",
+          "children": []
+        },
+        {
+          "name": "Stop Kontak",
+          "slug": "pertukangan/perlengkapan-listrik/stop-kontak",
+          "children": []
+        },
+        {
+          "name": "Stun Gun",
+          "slug": "pertukangan/perlengkapan-listrik/stun-gun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Pneumatic",
+      "slug": "pertukangan/pneumatic",
+      "children": [
+        {
+          "name": "Actuator Pneumatic",
+          "slug": "pertukangan/pneumatic/actuator-pneumatic",
+          "children": []
+        },
+        {
+          "name": "Fitting Pneumatic",
+          "slug": "pertukangan/pneumatic/fitting-pneumatic",
+          "children": []
+        },
+        {
+          "name": "Kompresor Udara",
+          "slug": "pertukangan/pneumatic/kompresor-udara",
+          "children": []
+        },
+        {
+          "name": "Pengatur Kecepatan",
+          "slug": "pertukangan/pneumatic/pengatur-kecepatan",
+          "children": []
+        },
+        {
+          "name": "Pompa Angin",
+          "slug": "pertukangan/pneumatic/pompa-angin",
+          "children": []
+        },
+        {
+          "name": "Regulator Pneumatic",
+          "slug": "pertukangan/pneumatic/regulator-pneumatic",
+          "children": []
+        },
+        {
+          "name": "Silinder Pneumatic",
+          "slug": "pertukangan/pneumatic/silinder-pneumatic",
+          "children": []
+        },
+        {
+          "name": "Spray Air Gun",
+          "slug": "pertukangan/pneumatic/spray-air-gun",
+          "children": []
+        },
+        {
+          "name": "Switch Pneumatic",
+          "slug": "pertukangan/pneumatic/switch-pneumatic",
+          "children": []
+        },
+        {
+          "name": "Vacuum Pneumatic",
+          "slug": "pertukangan/pneumatic/vacuum-pneumatic",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Power Tools",
+      "slug": "pertukangan/power-tools",
+      "children": [
+        {
+          "name": "Gergaji Listrik",
+          "slug": "pertukangan/power-tools/gergaji-listrik",
+          "children": []
+        },
+        {
+          "name": "Hot Gun",
+          "slug": "pertukangan/power-tools/hot-gun",
+          "children": []
+        },
+        {
+          "name": "Mata Bor",
+          "slug": "pertukangan/power-tools/mata-bor",
+          "children": []
+        },
+        {
+          "name": "Mata Gerinda",
+          "slug": "pertukangan/power-tools/mata-gerinda",
+          "children": []
+        },
+        {
+          "name": "Mesin Amplas",
+          "slug": "pertukangan/power-tools/mesin-amplas",
+          "children": []
+        },
+        {
+          "name": "Mesin Biscuit Jointer",
+          "slug": "pertukangan/power-tools/mesin-biscuit-jointer",
+          "children": []
+        },
+        {
+          "name": "Mesin Bobok",
+          "slug": "pertukangan/power-tools/mesin-bobok",
+          "children": []
+        },
+        {
+          "name": "Mesin Bor",
+          "slug": "pertukangan/power-tools/mesin-bor",
+          "children": []
+        },
+        {
+          "name": "Mesin Gerinda",
+          "slug": "pertukangan/power-tools/mesin-gerinda",
+          "children": []
+        },
+        {
+          "name": "Mesin Mixer Cat",
+          "slug": "pertukangan/power-tools/mesin-mixer-cat",
+          "children": []
+        },
+        {
+          "name": "Mesin Multi Oskilasi",
+          "slug": "pertukangan/power-tools/mesin-multi-oskilasi",
+          "children": []
+        },
+        {
+          "name": "Mesin Pemoles",
+          "slug": "pertukangan/power-tools/mesin-pemoles",
+          "children": []
+        },
+        {
+          "name": "Mesin Serut Kayu",
+          "slug": "pertukangan/power-tools/mesin-serut-kayu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tape Sealant Perekat",
+      "slug": "pertukangan/tape-sealant-perekat",
+      "children": [
+        {
+          "name": "Lem Material",
+          "slug": "pertukangan/tape-sealant-perekat/lem-material",
+          "children": []
+        },
+        {
+          "name": "Lem Talang",
+          "slug": "pertukangan/tape-sealant-perekat/lem-talang",
+          "children": []
+        },
+        {
+          "name": "Lem Tembak",
+          "slug": "pertukangan/tape-sealant-perekat/lem-tembak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tenaga Surya",
+      "slug": "pertukangan/tenaga-surya",
+      "children": [
+        {
+          "name": "Solar Cables",
+          "slug": "pertukangan/tenaga-surya/solar-cables",
+          "children": []
+        },
+        {
+          "name": "Solar Charge Controller",
+          "slug": "pertukangan/tenaga-surya/solar-charge-controller",
+          "children": []
+        },
+        {
+          "name": "Solar Inverter",
+          "slug": "pertukangan/tenaga-surya/solar-inverter",
+          "children": []
+        },
+        {
+          "name": "Solar Panel",
+          "slug": "pertukangan/tenaga-surya/solar-panel",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
