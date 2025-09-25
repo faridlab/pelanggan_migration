@@ -1,0 +1,539 @@
+{
+  "name": "Mainan Hobi",
+  "slug": "mainan-hobi",
+  "children": [
+    {
+      "name": "Board Game",
+      "slug": "mainan-hobi/board-game",
+      "children": [
+        {
+          "name": "Board Game Accessories",
+          "slug": "mainan-hobi/board-game/board-game-accessories",
+          "children": []
+        },
+        {
+          "name": "Family Kids Games",
+          "slug": "mainan-hobi/board-game/family-kids-games",
+          "children": []
+        },
+        {
+          "name": "Party Games",
+          "slug": "mainan-hobi/board-game/party-games",
+          "children": []
+        },
+        {
+          "name": "Roleplay Games",
+          "slug": "mainan-hobi/board-game/roleplay-games",
+          "children": []
+        },
+        {
+          "name": "Strategy Games",
+          "slug": "mainan-hobi/board-game/strategy-games",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Boneka",
+      "slug": "mainan-hobi/boneka",
+      "children": [
+        {
+          "name": "Boneka Bantal",
+          "slug": "mainan-hobi/boneka/boneka-bantal",
+          "children": []
+        },
+        {
+          "name": "Boneka Beruang",
+          "slug": "mainan-hobi/boneka/boneka-beruang",
+          "children": []
+        },
+        {
+          "name": "Boneka Binatang",
+          "slug": "mainan-hobi/boneka/boneka-binatang",
+          "children": []
+        },
+        {
+          "name": "Boneka Edukasi",
+          "slug": "mainan-hobi/boneka/boneka-edukasi",
+          "children": []
+        },
+        {
+          "name": "Boneka Karakter",
+          "slug": "mainan-hobi/boneka/boneka-karakter",
+          "children": []
+        },
+        {
+          "name": "Boneka Rajut",
+          "slug": "mainan-hobi/boneka/boneka-rajut",
+          "children": []
+        },
+        {
+          "name": "Boneka Wisuda",
+          "slug": "mainan-hobi/boneka/boneka-wisuda",
+          "children": []
+        },
+        {
+          "name": "Rumah Boneka",
+          "slug": "mainan-hobi/boneka/rumah-boneka",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Diecast",
+      "slug": "mainan-hobi/diecast",
+      "children": [
+        {
+          "name": "Bangunan Track Diecast",
+          "slug": "mainan-hobi/diecast/bangunan-track-diecast",
+          "children": []
+        },
+        {
+          "name": "Diecast Bus",
+          "slug": "mainan-hobi/diecast/diecast-bus",
+          "children": []
+        },
+        {
+          "name": "Diecast Kapal",
+          "slug": "mainan-hobi/diecast/diecast-kapal",
+          "children": []
+        },
+        {
+          "name": "Diecast Kendaraan Publik",
+          "slug": "mainan-hobi/diecast/diecast-kendaraan-publik",
+          "children": []
+        },
+        {
+          "name": "Diecast Militer",
+          "slug": "mainan-hobi/diecast/diecast-militer",
+          "children": []
+        },
+        {
+          "name": "Diecast Mobil",
+          "slug": "mainan-hobi/diecast/diecast-mobil",
+          "children": []
+        },
+        {
+          "name": "Diecast Motor Sepeda",
+          "slug": "mainan-hobi/diecast/diecast-motor-sepeda",
+          "children": []
+        },
+        {
+          "name": "Diecast Organizer",
+          "slug": "mainan-hobi/diecast/diecast-organizer",
+          "children": []
+        },
+        {
+          "name": "Diecast Pesawat",
+          "slug": "mainan-hobi/diecast/diecast-pesawat",
+          "children": []
+        },
+        {
+          "name": "Diecast Set",
+          "slug": "mainan-hobi/diecast/diecast-set",
+          "children": []
+        },
+        {
+          "name": "Diecast Truk Konstruksi",
+          "slug": "mainan-hobi/diecast/diecast-truk-konstruksi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Figure",
+      "slug": "mainan-hobi/figure",
+      "children": [
+        {
+          "name": "Action Figure",
+          "slug": "mainan-hobi/figure/action-figure",
+          "children": []
+        },
+        {
+          "name": "Bobble Head",
+          "slug": "mainan-hobi/figure/bobble-head",
+          "children": []
+        },
+        {
+          "name": "Figure Set",
+          "slug": "mainan-hobi/figure/figure-set",
+          "children": []
+        },
+        {
+          "name": "Funko Pop",
+          "slug": "mainan-hobi/figure/funko-pop",
+          "children": []
+        },
+        {
+          "name": "Miniatur",
+          "slug": "mainan-hobi/figure/miniatur",
+          "children": []
+        },
+        {
+          "name": "Super Deformed Figure",
+          "slug": "mainan-hobi/figure/super-deformed-figure",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gag Prank Toy",
+      "slug": "mainan-hobi/gag-prank-toy",
+      "children": []
+    },
+    {
+      "name": "Kostum",
+      "slug": "mainan-hobi/kostum",
+      "children": [
+        {
+          "name": "Kostum Pria",
+          "slug": "mainan-hobi/kostum/kostum-pria",
+          "children": []
+        },
+        {
+          "name": "Kostum Wanita",
+          "slug": "mainan-hobi/kostum/kostum-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mainan Anak Anak",
+      "slug": "mainan-hobi/mainan-anak-anak",
+      "children": [
+        {
+          "name": "Alat Masak Mainan",
+          "slug": "mainan-hobi/mainan-anak-anak/alat-masak-mainan",
+          "children": []
+        },
+        {
+          "name": "Beads Anak",
+          "slug": "mainan-hobi/mainan-anak-anak/beads-anak",
+          "children": []
+        },
+        {
+          "name": "Easel Anak",
+          "slug": "mainan-hobi/mainan-anak-anak/easel-anak",
+          "children": []
+        },
+        {
+          "name": "Flash Card Anak",
+          "slug": "mainan-hobi/mainan-anak-anak/flash-card-anak",
+          "children": []
+        },
+        {
+          "name": "Loom Bands",
+          "slug": "mainan-hobi/mainan-anak-anak/loom-bands",
+          "children": []
+        },
+        {
+          "name": "Magnetic Drawing",
+          "slug": "mainan-hobi/mainan-anak-anak/magnetic-drawing",
+          "children": []
+        },
+        {
+          "name": "Mainan Berhitung",
+          "slug": "mainan-hobi/mainan-anak-anak/mainan-berhitung",
+          "children": []
+        },
+        {
+          "name": "Mainan Dokter",
+          "slug": "mainan-hobi/mainan-anak-anak/mainan-dokter",
+          "children": []
+        },
+        {
+          "name": "Mainan Kasir",
+          "slug": "mainan-hobi/mainan-anak-anak/mainan-kasir",
+          "children": []
+        },
+        {
+          "name": "Mainan Kuda",
+          "slug": "mainan-hobi/mainan-anak-anak/mainan-kuda",
+          "children": []
+        },
+        {
+          "name": "Mainan Make Up",
+          "slug": "mainan-hobi/mainan-anak-anak/mainan-make-up",
+          "children": []
+        },
+        {
+          "name": "Mainan Montessori",
+          "slug": "mainan-hobi/mainan-anak-anak/mainan-montessori",
+          "children": []
+        },
+        {
+          "name": "Mainan Salon",
+          "slug": "mainan-hobi/mainan-anak-anak/mainan-salon",
+          "children": []
+        },
+        {
+          "name": "Mandi Bola",
+          "slug": "mainan-hobi/mainan-anak-anak/mandi-bola",
+          "children": []
+        },
+        {
+          "name": "Plastisin Lilin Mainan",
+          "slug": "mainan-hobi/mainan-anak-anak/plastisin-lilin-mainan",
+          "children": []
+        },
+        {
+          "name": "Ring Donat",
+          "slug": "mainan-hobi/mainan-anak-anak/ring-donat",
+          "children": []
+        },
+        {
+          "name": "Tanah Liat",
+          "slug": "mainan-hobi/mainan-anak-anak/tanah-liat",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mainan Bayi",
+      "slug": "mainan-hobi/mainan-bayi",
+      "children": [
+        {
+          "name": "Mainan Edukasi Musikal Bayi",
+          "slug": "mainan-hobi/mainan-bayi/mainan-edukasi-musikal-bayi",
+          "children": []
+        },
+        {
+          "name": "Mainan Gigi Bayi",
+          "slug": "mainan-hobi/mainan-bayi/mainan-gigi-bayi",
+          "children": []
+        },
+        {
+          "name": "Mainan Luar Ruang Bayi",
+          "slug": "mainan-hobi/mainan-bayi/mainan-luar-ruang-bayi",
+          "children": []
+        },
+        {
+          "name": "Mainan Mandi Bayi",
+          "slug": "mainan-hobi/mainan-bayi/mainan-mandi-bayi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mainan Remote Control",
+      "slug": "mainan-hobi/mainan-remote-control",
+      "children": [
+        {
+          "name": "Dance Pad",
+          "slug": "mainan-hobi/mainan-remote-control/dance-pad",
+          "children": []
+        },
+        {
+          "name": "Helikopter Rc",
+          "slug": "mainan-hobi/mainan-remote-control/helikopter-rc",
+          "children": []
+        },
+        {
+          "name": "Hoverboard",
+          "slug": "mainan-hobi/mainan-remote-control/hoverboard",
+          "children": []
+        },
+        {
+          "name": "Kapal Rc",
+          "slug": "mainan-hobi/mainan-remote-control/kapal-rc",
+          "children": []
+        },
+        {
+          "name": "Kereta Api Track Set",
+          "slug": "mainan-hobi/mainan-remote-control/kereta-api-track-set",
+          "children": []
+        },
+        {
+          "name": "Mainan Karaoke Anak",
+          "slug": "mainan-hobi/mainan-remote-control/mainan-karaoke-anak",
+          "children": []
+        },
+        {
+          "name": "Mainan Robot",
+          "slug": "mainan-hobi/mainan-remote-control/mainan-robot",
+          "children": []
+        },
+        {
+          "name": "Mobil Truk Rc",
+          "slug": "mainan-hobi/mainan-remote-control/mobil-truk-rc",
+          "children": []
+        },
+        {
+          "name": "Part Rc",
+          "slug": "mainan-hobi/mainan-remote-control/part-rc",
+          "children": []
+        },
+        {
+          "name": "Pesawat Rc",
+          "slug": "mainan-hobi/mainan-remote-control/pesawat-rc",
+          "children": []
+        },
+        {
+          "name": "Piano Anak",
+          "slug": "mainan-hobi/mainan-remote-control/piano-anak",
+          "children": []
+        },
+        {
+          "name": "Segway",
+          "slug": "mainan-hobi/mainan-remote-control/segway",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Model Kit",
+      "slug": "mainan-hobi/model-kit",
+      "children": [
+        {
+          "name": "Brick",
+          "slug": "mainan-hobi/model-kit/brick",
+          "children": []
+        },
+        {
+          "name": "Mecha Model Gunpla",
+          "slug": "mainan-hobi/model-kit/mecha-model-gunpla",
+          "children": []
+        },
+        {
+          "name": "Part Mini 4Wd Tamiya",
+          "slug": "mainan-hobi/model-kit/part-mini-4wd-tamiya",
+          "children": []
+        },
+        {
+          "name": "Tool Kit Mecha Model Gunpla",
+          "slug": "mainan-hobi/model-kit/tool-kit-mecha-model-gunpla",
+          "children": []
+        },
+        {
+          "name": "Vehicle Model Tamiya",
+          "slug": "mainan-hobi/model-kit/vehicle-model-tamiya",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Sulap",
+      "slug": "mainan-hobi/perlengkapan-sulap",
+      "children": []
+    },
+    {
+      "name": "Permainan Kartu",
+      "slug": "mainan-hobi/permainan-kartu",
+      "children": [
+        {
+          "name": "Playing Card",
+          "slug": "mainan-hobi/permainan-kartu/playing-card",
+          "children": []
+        },
+        {
+          "name": "Trading Card Game Tcg Ccg",
+          "slug": "mainan-hobi/permainan-kartu/trading-card-game-tcg-ccg",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Permainan Tradisional",
+      "slug": "mainan-hobi/permainan-tradisional",
+      "children": [
+        {
+          "name": "Bola Biji Bekel",
+          "slug": "mainan-hobi/permainan-tradisional/bola-biji-bekel",
+          "children": []
+        },
+        {
+          "name": "Congklak",
+          "slug": "mainan-hobi/permainan-tradisional/congklak",
+          "children": []
+        },
+        {
+          "name": "Kelereng",
+          "slug": "mainan-hobi/permainan-tradisional/kelereng",
+          "children": []
+        },
+        {
+          "name": "Ketapel",
+          "slug": "mainan-hobi/permainan-tradisional/ketapel",
+          "children": []
+        },
+        {
+          "name": "Mahjong",
+          "slug": "mainan-hobi/permainan-tradisional/mahjong",
+          "children": []
+        },
+        {
+          "name": "Gasing",
+          "slug": "mainan-hobi/permainan-tradisional/gasing",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Puzzle",
+      "slug": "mainan-hobi/puzzle",
+      "children": [
+        {
+          "name": "3D Puzzle",
+          "slug": "mainan-hobi/puzzle/3d-puzzle",
+          "children": []
+        },
+        {
+          "name": "Jigsaw Puzzle",
+          "slug": "mainan-hobi/puzzle/jigsaw-puzzle",
+          "children": []
+        },
+        {
+          "name": "Magic Cubes",
+          "slug": "mainan-hobi/puzzle/magic-cubes",
+          "children": []
+        },
+        {
+          "name": "Puzzle Lantai",
+          "slug": "mainan-hobi/puzzle/puzzle-lantai",
+          "children": []
+        },
+        {
+          "name": "Scrabbles",
+          "slug": "mainan-hobi/puzzle/scrabbles",
+          "children": []
+        },
+        {
+          "name": "Sudoku",
+          "slug": "mainan-hobi/puzzle/sudoku",
+          "children": []
+        },
+        {
+          "name": "Wooden Puzzle",
+          "slug": "mainan-hobi/puzzle/wooden-puzzle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Stress Relieve Toys",
+      "slug": "mainan-hobi/stress-relieve-toys",
+      "children": [
+        {
+          "name": "Fidget Cube",
+          "slug": "mainan-hobi/stress-relieve-toys/fidget-cube",
+          "children": []
+        },
+        {
+          "name": "Fidget Spinner",
+          "slug": "mainan-hobi/stress-relieve-toys/fidget-spinner",
+          "children": []
+        },
+        {
+          "name": "Slime",
+          "slug": "mainan-hobi/stress-relieve-toys/slime",
+          "children": []
+        },
+        {
+          "name": "Squishy",
+          "slug": "mainan-hobi/stress-relieve-toys/squishy",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
