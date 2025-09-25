@@ -1,0 +1,343 @@
+{
+  "name": "Perlengkapan Pesta",
+  "slug": "perlengkapan-pesta",
+  "children": [
+    {
+      "name": "Balon",
+      "slug": "perlengkapan-pesta/balon",
+      "children": [
+        {
+          "name": "Balon Huruf Angka",
+          "slug": "perlengkapan-pesta/balon/balon-huruf-angka",
+          "children": []
+        },
+        {
+          "name": "Balon Led",
+          "slug": "perlengkapan-pesta/balon/balon-led",
+          "children": []
+        },
+        {
+          "name": "Balon Latex",
+          "slug": "perlengkapan-pesta/balon/balon-latex",
+          "children": []
+        },
+        {
+          "name": "Balon Tepuk Supporter",
+          "slug": "perlengkapan-pesta/balon/balon-tepuk-supporter",
+          "children": []
+        },
+        {
+          "name": "Balon Karakter",
+          "slug": "perlengkapan-pesta/balon/balon-karakter",
+          "children": []
+        },
+        {
+          "name": "Pita Balon",
+          "slug": "perlengkapan-pesta/balon/pita-balon",
+          "children": []
+        },
+        {
+          "name": "Pompa Balon",
+          "slug": "perlengkapan-pesta/balon/pompa-balon",
+          "children": []
+        },
+        {
+          "name": "Stick Balon",
+          "slug": "perlengkapan-pesta/balon/stick-balon",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Bunga",
+      "slug": "perlengkapan-pesta/bunga",
+      "children": [
+        {
+          "name": "Buket Bunga",
+          "slug": "perlengkapan-pesta/bunga/buket-bunga",
+          "children": []
+        },
+        {
+          "name": "Bunga Flanel",
+          "slug": "perlengkapan-pesta/bunga/bunga-flanel",
+          "children": []
+        },
+        {
+          "name": "Bunga Kertas",
+          "slug": "perlengkapan-pesta/bunga/bunga-kertas",
+          "children": []
+        },
+        {
+          "name": "Bunga Papan",
+          "slug": "perlengkapan-pesta/bunga/bunga-papan",
+          "children": []
+        },
+        {
+          "name": "Bunga Plastik",
+          "slug": "perlengkapan-pesta/bunga/bunga-plastik",
+          "children": []
+        },
+        {
+          "name": "Bunga Sabun",
+          "slug": "perlengkapan-pesta/bunga/bunga-sabun",
+          "children": []
+        },
+        {
+          "name": "Bunga Tangkai",
+          "slug": "perlengkapan-pesta/bunga/bunga-tangkai",
+          "children": []
+        },
+        {
+          "name": "Kelopak Bunga",
+          "slug": "perlengkapan-pesta/bunga/kelopak-bunga",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Bungkus Kemasan",
+      "slug": "perlengkapan-pesta/bungkus-kemasan",
+      "children": [
+        {
+          "name": "Bubble Wrap",
+          "slug": "perlengkapan-pesta/bungkus-kemasan/bubble-wrap",
+          "children": []
+        },
+        {
+          "name": "Goodie Bag",
+          "slug": "perlengkapan-pesta/bungkus-kemasan/goodie-bag",
+          "children": []
+        },
+        {
+          "name": "Kardus",
+          "slug": "perlengkapan-pesta/bungkus-kemasan/kardus",
+          "children": []
+        },
+        {
+          "name": "Kertas Kado",
+          "slug": "perlengkapan-pesta/bungkus-kemasan/kertas-kado",
+          "children": []
+        },
+        {
+          "name": "Kotak Kado",
+          "slug": "perlengkapan-pesta/bungkus-kemasan/kotak-kado",
+          "children": []
+        },
+        {
+          "name": "Pita Kado",
+          "slug": "perlengkapan-pesta/bungkus-kemasan/pita-kado",
+          "children": []
+        },
+        {
+          "name": "Plastik",
+          "slug": "perlengkapan-pesta/bungkus-kemasan/plastik",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dekorasi Pesta",
+      "slug": "perlengkapan-pesta/dekorasi-pesta",
+      "children": [
+        {
+          "name": "Backdrop",
+          "slug": "perlengkapan-pesta/dekorasi-pesta/backdrop",
+          "children": []
+        },
+        {
+          "name": "Banner",
+          "slug": "perlengkapan-pesta/dekorasi-pesta/banner",
+          "children": []
+        },
+        {
+          "name": "Bendera",
+          "slug": "perlengkapan-pesta/dekorasi-pesta/bendera",
+          "children": []
+        },
+        {
+          "name": "Cake Topper",
+          "slug": "perlengkapan-pesta/dekorasi-pesta/cake-topper",
+          "children": []
+        },
+        {
+          "name": "Lampion",
+          "slug": "perlengkapan-pesta/dekorasi-pesta/lampion",
+          "children": []
+        },
+        {
+          "name": "Pompom",
+          "slug": "perlengkapan-pesta/dekorasi-pesta/pompom",
+          "children": []
+        },
+        {
+          "name": "Tirai Foil",
+          "slug": "perlengkapan-pesta/dekorasi-pesta/tirai-foil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Hadiah",
+      "slug": "perlengkapan-pesta/hadiah",
+      "children": [
+        {
+          "name": "Celengan",
+          "slug": "perlengkapan-pesta/hadiah/celengan",
+          "children": []
+        },
+        {
+          "name": "Gantungan Kunci",
+          "slug": "perlengkapan-pesta/hadiah/gantungan-kunci",
+          "children": []
+        },
+        {
+          "name": "Hadiah Custom",
+          "slug": "perlengkapan-pesta/hadiah/hadiah-custom",
+          "children": []
+        },
+        {
+          "name": "Hampers",
+          "slug": "perlengkapan-pesta/hadiah/hampers",
+          "children": []
+        },
+        {
+          "name": "Kartu Ucapan",
+          "slug": "perlengkapan-pesta/hadiah/kartu-ucapan",
+          "children": []
+        },
+        {
+          "name": "Korek Api",
+          "slug": "perlengkapan-pesta/hadiah/korek-api",
+          "children": []
+        },
+        {
+          "name": "Kotak Musik",
+          "slug": "perlengkapan-pesta/hadiah/kotak-musik",
+          "children": []
+        },
+        {
+          "name": "Miniatur Karikatur",
+          "slug": "perlengkapan-pesta/hadiah/miniatur-karikatur",
+          "children": []
+        },
+        {
+          "name": "Mug Hadiah",
+          "slug": "perlengkapan-pesta/hadiah/mug-hadiah",
+          "children": []
+        },
+        {
+          "name": "Selempang Sash",
+          "slug": "perlengkapan-pesta/hadiah/selempang-sash",
+          "children": []
+        },
+        {
+          "name": "Trophy Medali",
+          "slug": "perlengkapan-pesta/hadiah/trophy-medali",
+          "children": []
+        },
+        {
+          "name": "Uang Kuno",
+          "slug": "perlengkapan-pesta/hadiah/uang-kuno",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kebutuhan Pesta",
+      "slug": "perlengkapan-pesta/kebutuhan-pesta",
+      "children": [
+        {
+          "name": "Gelas Pesta",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/gelas-pesta",
+          "children": []
+        },
+        {
+          "name": "Glow Stick",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/glow-stick",
+          "children": []
+        },
+        {
+          "name": "Lilin Ulang Tahun",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/lilin-ulang-tahun",
+          "children": []
+        },
+        {
+          "name": "Party Popper Confetti",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/party-popper-confetti",
+          "children": []
+        },
+        {
+          "name": "Photo Props",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/photo-props",
+          "children": []
+        },
+        {
+          "name": "Pinata",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/pinata",
+          "children": []
+        },
+        {
+          "name": "Piring Pesta",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/piring-pesta",
+          "children": []
+        },
+        {
+          "name": "Smoke Bomb",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/smoke-bomb",
+          "children": []
+        },
+        {
+          "name": "Terompet",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/terompet",
+          "children": []
+        },
+        {
+          "name": "Topeng Pesta",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/topeng-pesta",
+          "children": []
+        },
+        {
+          "name": "Topi Pesta",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/topi-pesta",
+          "children": []
+        },
+        {
+          "name": "Undangan Ulang Tahun",
+          "slug": "perlengkapan-pesta/kebutuhan-pesta/undangan-ulang-tahun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Persiapan Pernikahan",
+      "slug": "perlengkapan-pesta/persiapan-pernikahan",
+      "children": [
+        {
+          "name": "Buku Tamu",
+          "slug": "perlengkapan-pesta/persiapan-pernikahan/buku-tamu",
+          "children": []
+        },
+        {
+          "name": "Dekorasi Pernikahan",
+          "slug": "perlengkapan-pesta/persiapan-pernikahan/dekorasi-pernikahan",
+          "children": []
+        },
+        {
+          "name": "Mahar Seserahan",
+          "slug": "perlengkapan-pesta/persiapan-pernikahan/mahar-seserahan",
+          "children": []
+        },
+        {
+          "name": "Souvenir Pernikahan",
+          "slug": "perlengkapan-pesta/persiapan-pernikahan/souvenir-pernikahan",
+          "children": []
+        },
+        {
+          "name": "Undangan Pernikahan",
+          "slug": "perlengkapan-pesta/persiapan-pernikahan/undangan-pernikahan",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
