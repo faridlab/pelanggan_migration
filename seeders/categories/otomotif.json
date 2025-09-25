@@ -1,0 +1,867 @@
+{
+  "name": "Otomotif",
+  "slug": "otomotif",
+  "children": [
+    {
+      "name": "Aksesoris Motor",
+      "slug": "otomotif/aksesoris-motor",
+      "children": [
+        {
+          "name": "Aksesori Body Motor",
+          "slug": "otomotif/aksesoris-motor/aksesori-body-motor",
+          "children": []
+        },
+        {
+          "name": "Alarm Gembok Motor",
+          "slug": "otomotif/aksesoris-motor/alarm-gembok-motor",
+          "children": []
+        },
+        {
+          "name": "Box Motor",
+          "slug": "otomotif/aksesoris-motor/box-motor",
+          "children": []
+        },
+        {
+          "name": "Cover Motor",
+          "slug": "otomotif/aksesoris-motor/cover-motor",
+          "children": []
+        },
+        {
+          "name": "Cover Stang Motor",
+          "slug": "otomotif/aksesoris-motor/cover-stang-motor",
+          "children": []
+        },
+        {
+          "name": "Emblem Motor",
+          "slug": "otomotif/aksesoris-motor/emblem-motor",
+          "children": []
+        },
+        {
+          "name": "Footstep Motor",
+          "slug": "otomotif/aksesoris-motor/footstep-motor",
+          "children": []
+        },
+        {
+          "name": "Handle Handfat Motor",
+          "slug": "otomotif/aksesoris-motor/handle-handfat-motor",
+          "children": []
+        },
+        {
+          "name": "Jok Motor",
+          "slug": "otomotif/aksesoris-motor/jok-motor",
+          "children": []
+        },
+        {
+          "name": "Karpet Motor",
+          "slug": "otomotif/aksesoris-motor/karpet-motor",
+          "children": []
+        },
+        {
+          "name": "Kursi Bonceng Anak",
+          "slug": "otomotif/aksesoris-motor/kursi-bonceng-anak",
+          "children": []
+        },
+        {
+          "name": "Spakbor Motor",
+          "slug": "otomotif/aksesoris-motor/spakbor-motor",
+          "children": []
+        },
+        {
+          "name": "Spion Motor",
+          "slug": "otomotif/aksesoris-motor/spion-motor",
+          "children": []
+        },
+        {
+          "name": "Windshield Motor",
+          "slug": "otomotif/aksesoris-motor/windshield-motor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aksesoris Pengendara Motor",
+      "slug": "otomotif/aksesoris-pengendara-motor",
+      "children": [
+        {
+          "name": "Cover Sepatu",
+          "slug": "otomotif/aksesoris-pengendara-motor/cover-sepatu",
+          "children": []
+        },
+        {
+          "name": "Goggle Motor",
+          "slug": "otomotif/aksesoris-pengendara-motor/goggle-motor",
+          "children": []
+        },
+        {
+          "name": "Jaket Motor",
+          "slug": "otomotif/aksesoris-pengendara-motor/jaket-motor",
+          "children": []
+        },
+        {
+          "name": "Jas Hujan",
+          "slug": "otomotif/aksesoris-pengendara-motor/jas-hujan",
+          "children": []
+        },
+        {
+          "name": "Masker Buff",
+          "slug": "otomotif/aksesoris-pengendara-motor/masker-buff",
+          "children": []
+        },
+        {
+          "name": "Rain Cover Bag",
+          "slug": "otomotif/aksesoris-pengendara-motor/rain-cover-bag",
+          "children": []
+        },
+        {
+          "name": "Rompi Motor",
+          "slug": "otomotif/aksesoris-pengendara-motor/rompi-motor",
+          "children": []
+        },
+        {
+          "name": "Sarung Tangan Motor",
+          "slug": "otomotif/aksesoris-pengendara-motor/sarung-tangan-motor",
+          "children": []
+        },
+        {
+          "name": "Sepatu Biker",
+          "slug": "otomotif/aksesoris-pengendara-motor/sepatu-biker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Alat Berat",
+      "slug": "otomotif/alat-berat",
+      "children": [
+        {
+          "name": "Sparepart Service",
+          "slug": "otomotif/alat-berat/sparepart-service",
+          "children": []
+        },
+        {
+          "name": "Unit",
+          "slug": "otomotif/alat-berat/unit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Audio Video Mobil",
+      "slug": "otomotif/audio-video-mobil",
+      "children": [
+        {
+          "name": "Head Unit Mobil",
+          "slug": "otomotif/audio-video-mobil/head-unit-mobil",
+          "children": []
+        },
+        {
+          "name": "Kabel Konektor Audio Mobil",
+          "slug": "otomotif/audio-video-mobil/kabel-konektor-audio-mobil",
+          "children": []
+        },
+        {
+          "name": "Power Amplifier",
+          "slug": "otomotif/audio-video-mobil/power-amplifier",
+          "children": []
+        },
+        {
+          "name": "Sensor Kamera Mobil",
+          "slug": "otomotif/audio-video-mobil/sensor-kamera-mobil",
+          "children": []
+        },
+        {
+          "name": "Speaker Mobil",
+          "slug": "otomotif/audio-video-mobil/speaker-mobil",
+          "children": []
+        },
+        {
+          "name": "Video Tv Mobil",
+          "slug": "otomotif/audio-video-mobil/video-tv-mobil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ban Mobil",
+      "slug": "otomotif/ban-mobil",
+      "children": []
+    },
+    {
+      "name": "Ban Motor",
+      "slug": "otomotif/ban-motor",
+      "children": []
+    },
+    {
+      "name": "Eksterior Mobil",
+      "slug": "otomotif/eksterior-mobil",
+      "children": [
+        {
+          "name": "Bumper Guard Mobil",
+          "slug": "otomotif/eksterior-mobil/bumper-guard-mobil",
+          "children": []
+        },
+        {
+          "name": "Cover Ban Mobil",
+          "slug": "otomotif/eksterior-mobil/cover-ban-mobil",
+          "children": []
+        },
+        {
+          "name": "Cover Mobil",
+          "slug": "otomotif/eksterior-mobil/cover-mobil",
+          "children": []
+        },
+        {
+          "name": "Dudukan Plat Nomor",
+          "slug": "otomotif/eksterior-mobil/dudukan-plat-nomor",
+          "children": []
+        },
+        {
+          "name": "Emblem Mobil",
+          "slug": "otomotif/eksterior-mobil/emblem-mobil",
+          "children": []
+        },
+        {
+          "name": "Kaca Film Mobil",
+          "slug": "otomotif/eksterior-mobil/kaca-film-mobil",
+          "children": []
+        },
+        {
+          "name": "Spion Mobil",
+          "slug": "otomotif/eksterior-mobil/spion-mobil",
+          "children": []
+        },
+        {
+          "name": "Sticker Anti Fog",
+          "slug": "otomotif/eksterior-mobil/sticker-anti-fog",
+          "children": []
+        },
+        {
+          "name": "Talang Air Mobil",
+          "slug": "otomotif/eksterior-mobil/talang-air-mobil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Helm Motor",
+      "slug": "otomotif/helm-motor",
+      "children": [
+        {
+          "name": "Aksesoris Helm",
+          "slug": "otomotif/helm-motor/aksesoris-helm",
+          "children": []
+        },
+        {
+          "name": "Cover Helm",
+          "slug": "otomotif/helm-motor/cover-helm",
+          "children": []
+        },
+        {
+          "name": "Helm Anak",
+          "slug": "otomotif/helm-motor/helm-anak",
+          "children": []
+        },
+        {
+          "name": "Helm Full Face",
+          "slug": "otomotif/helm-motor/helm-full-face",
+          "children": []
+        },
+        {
+          "name": "Helm Half Face",
+          "slug": "otomotif/helm-motor/helm-half-face",
+          "children": []
+        },
+        {
+          "name": "Helm Retro",
+          "slug": "otomotif/helm-motor/helm-retro",
+          "children": []
+        },
+        {
+          "name": "Kaca Helm",
+          "slug": "otomotif/helm-motor/kaca-helm",
+          "children": []
+        },
+        {
+          "name": "Kunci Helm",
+          "slug": "otomotif/helm-motor/kunci-helm",
+          "children": []
+        },
+        {
+          "name": "Parfum Helm",
+          "slug": "otomotif/helm-motor/parfum-helm",
+          "children": []
+        },
+        {
+          "name": "Tas Jaring Helm",
+          "slug": "otomotif/helm-motor/tas-jaring-helm",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Interior Mobil",
+      "slug": "otomotif/interior-mobil",
+      "children": [
+        {
+          "name": "Bantal Mobil",
+          "slug": "otomotif/interior-mobil/bantal-mobil",
+          "children": []
+        },
+        {
+          "name": "Car Seat Organizer",
+          "slug": "otomotif/interior-mobil/car-seat-organizer",
+          "children": []
+        },
+        {
+          "name": "Cover Dashboard Mobil",
+          "slug": "otomotif/interior-mobil/cover-dashboard-mobil",
+          "children": []
+        },
+        {
+          "name": "Cup Holder Mobil",
+          "slug": "otomotif/interior-mobil/cup-holder-mobil",
+          "children": []
+        },
+        {
+          "name": "Karpet Mobil",
+          "slug": "otomotif/interior-mobil/karpet-mobil",
+          "children": []
+        },
+        {
+          "name": "Kasur Mobil",
+          "slug": "otomotif/interior-mobil/kasur-mobil",
+          "children": []
+        },
+        {
+          "name": "Kunci Pengaman Mobil",
+          "slug": "otomotif/interior-mobil/kunci-pengaman-mobil",
+          "children": []
+        },
+        {
+          "name": "Parfum Mobil",
+          "slug": "otomotif/interior-mobil/parfum-mobil",
+          "children": []
+        },
+        {
+          "name": "Pelindung Panas Mobil",
+          "slug": "otomotif/interior-mobil/pelindung-panas-mobil",
+          "children": []
+        },
+        {
+          "name": "Sarung Stir Mobil",
+          "slug": "otomotif/interior-mobil/sarung-stir-mobil",
+          "children": []
+        },
+        {
+          "name": "Seat Cushion Mobil",
+          "slug": "otomotif/interior-mobil/seat-cushion-mobil",
+          "children": []
+        },
+        {
+          "name": "Sill Plate Mobil",
+          "slug": "otomotif/interior-mobil/sill-plate-mobil",
+          "children": []
+        },
+        {
+          "name": "Tempat Sampah Mobil",
+          "slug": "otomotif/interior-mobil/tempat-sampah-mobil",
+          "children": []
+        },
+        {
+          "name": "Tempat Tisu Mobil",
+          "slug": "otomotif/interior-mobil/tempat-tisu-mobil",
+          "children": []
+        },
+        {
+          "name": "Tongkat E Toll",
+          "slug": "otomotif/interior-mobil/tongkat-e-toll",
+          "children": []
+        },
+        {
+          "name": "Tuas Persneling Mobil",
+          "slug": "otomotif/interior-mobil/tuas-persneling-mobil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mobil",
+      "slug": "otomotif/mobil",
+      "children": [
+        {
+          "name": "Booking Fee Mobil Baru",
+          "slug": "otomotif/mobil/booking-fee-mobil-baru",
+          "children": []
+        },
+        {
+          "name": "Mobil Hatchback City Car Baru",
+          "slug": "otomotif/mobil/mobil-hatchback-city-car-baru",
+          "children": []
+        },
+        {
+          "name": "Mobil Listrik Baru",
+          "slug": "otomotif/mobil/mobil-listrik-baru",
+          "children": []
+        },
+        {
+          "name": "Mobil Niaga Baru",
+          "slug": "otomotif/mobil/mobil-niaga-baru",
+          "children": []
+        },
+        {
+          "name": "Mobil Suv Mpv Baru",
+          "slug": "otomotif/mobil/mobil-suv-mpv-baru",
+          "children": []
+        },
+        {
+          "name": "Mobil Sedan Baru",
+          "slug": "otomotif/mobil/mobil-sedan-baru",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mobil Bekas",
+      "slug": "otomotif/mobil-bekas",
+      "children": [
+        {
+          "name": "Mobil Hatchback City Car Bekas",
+          "slug": "otomotif/mobil-bekas/mobil-hatchback-city-car-bekas",
+          "children": []
+        },
+        {
+          "name": "Mobil Listrik Bekas",
+          "slug": "otomotif/mobil-bekas/mobil-listrik-bekas",
+          "children": []
+        },
+        {
+          "name": "Mobil Niaga Bekas",
+          "slug": "otomotif/mobil-bekas/mobil-niaga-bekas",
+          "children": []
+        },
+        {
+          "name": "Mobil Suv Mpv Bekas",
+          "slug": "otomotif/mobil-bekas/mobil-suv-mpv-bekas",
+          "children": []
+        },
+        {
+          "name": "Mobil Sedan Bekas",
+          "slug": "otomotif/mobil-bekas/mobil-sedan-bekas",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Oli Penghemat Bbm",
+      "slug": "otomotif/oli-penghemat-bbm",
+      "children": [
+        {
+          "name": "Engine Conditioner",
+          "slug": "otomotif/oli-penghemat-bbm/engine-conditioner",
+          "children": []
+        },
+        {
+          "name": "Filter Oli",
+          "slug": "otomotif/oli-penghemat-bbm/filter-oli",
+          "children": []
+        },
+        {
+          "name": "Fuel Additive",
+          "slug": "otomotif/oli-penghemat-bbm/fuel-additive",
+          "children": []
+        },
+        {
+          "name": "Oli Mobil",
+          "slug": "otomotif/oli-penghemat-bbm/oli-mobil",
+          "children": []
+        },
+        {
+          "name": "Oli Motor",
+          "slug": "otomotif/oli-penghemat-bbm/oli-motor",
+          "children": []
+        },
+        {
+          "name": "Penghemat Bbm",
+          "slug": "otomotif/oli-penghemat-bbm/penghemat-bbm",
+          "children": []
+        },
+        {
+          "name": "Tempat Oli",
+          "slug": "otomotif/oli-penghemat-bbm/tempat-oli",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Kendaraan",
+      "slug": "otomotif/perawatan-kendaraan",
+      "children": [
+        {
+          "name": "Anti Ban Bocor",
+          "slug": "otomotif/perawatan-kendaraan/anti-ban-bocor",
+          "children": []
+        },
+        {
+          "name": "Anti Gores Kendaraan",
+          "slug": "otomotif/perawatan-kendaraan/anti-gores-kendaraan",
+          "children": []
+        },
+        {
+          "name": "Busa Poles Kendaraan",
+          "slug": "otomotif/perawatan-kendaraan/busa-poles-kendaraan",
+          "children": []
+        },
+        {
+          "name": "Cairan Radiator",
+          "slug": "otomotif/perawatan-kendaraan/cairan-radiator",
+          "children": []
+        },
+        {
+          "name": "Lap Chamois",
+          "slug": "otomotif/perawatan-kendaraan/lap-chamois",
+          "children": []
+        },
+        {
+          "name": "Obat Jamur Mobil",
+          "slug": "otomotif/perawatan-kendaraan/obat-jamur-mobil",
+          "children": []
+        },
+        {
+          "name": "Pelumas Kendaraan",
+          "slug": "otomotif/perawatan-kendaraan/pelumas-kendaraan",
+          "children": []
+        },
+        {
+          "name": "Semir Ban",
+          "slug": "otomotif/perawatan-kendaraan/semir-ban",
+          "children": []
+        },
+        {
+          "name": "Vacuum Cleaner Mobil",
+          "slug": "otomotif/perawatan-kendaraan/vacuum-cleaner-mobil",
+          "children": []
+        },
+        {
+          "name": "Wash And Wax",
+          "slug": "otomotif/perawatan-kendaraan/wash-and-wax",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perkakas Kendaraan",
+      "slug": "otomotif/perkakas-kendaraan",
+      "children": [
+        {
+          "name": "Charger Aki Mobil",
+          "slug": "otomotif/perkakas-kendaraan/charger-aki-mobil",
+          "children": []
+        },
+        {
+          "name": "Dongkrak Mobil",
+          "slug": "otomotif/perkakas-kendaraan/dongkrak-mobil",
+          "children": []
+        },
+        {
+          "name": "Tali Derek Mobil",
+          "slug": "otomotif/perkakas-kendaraan/tali-derek-mobil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sepeda Motor",
+      "slug": "otomotif/sepeda-motor",
+      "children": [
+        {
+          "name": "Booking Fee Motor Baru",
+          "slug": "otomotif/sepeda-motor/booking-fee-motor-baru",
+          "children": []
+        },
+        {
+          "name": "Motor Bebek Baru",
+          "slug": "otomotif/sepeda-motor/motor-bebek-baru",
+          "children": []
+        },
+        {
+          "name": "Motor Listrik Baru",
+          "slug": "otomotif/sepeda-motor/motor-listrik-baru",
+          "children": []
+        },
+        {
+          "name": "Motor Matic Baru",
+          "slug": "otomotif/sepeda-motor/motor-matic-baru",
+          "children": []
+        },
+        {
+          "name": "Motor Sport Baru",
+          "slug": "otomotif/sepeda-motor/motor-sport-baru",
+          "children": []
+        },
+        {
+          "name": "Sepeda Listrik Baru",
+          "slug": "otomotif/sepeda-motor/sepeda-listrik-baru",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sepeda Motor Bekas",
+      "slug": "otomotif/sepeda-motor-bekas",
+      "children": [
+        {
+          "name": "Motor Bebek Bekas",
+          "slug": "otomotif/sepeda-motor-bekas/motor-bebek-bekas",
+          "children": []
+        },
+        {
+          "name": "Motor Listrik Bekas",
+          "slug": "otomotif/sepeda-motor-bekas/motor-listrik-bekas",
+          "children": []
+        },
+        {
+          "name": "Motor Matic Bekas",
+          "slug": "otomotif/sepeda-motor-bekas/motor-matic-bekas",
+          "children": []
+        },
+        {
+          "name": "Motor Sport Bekas",
+          "slug": "otomotif/sepeda-motor-bekas/motor-sport-bekas",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Spare Part Mobil",
+      "slug": "otomotif/spare-part-mobil",
+      "children": [
+        {
+          "name": "Bearing Mobil",
+          "slug": "otomotif/spare-part-mobil/bearing-mobil",
+          "children": []
+        },
+        {
+          "name": "Belt Mobil",
+          "slug": "otomotif/spare-part-mobil/belt-mobil",
+          "children": []
+        },
+        {
+          "name": "Busi Mobil",
+          "slug": "otomotif/spare-part-mobil/busi-mobil",
+          "children": []
+        },
+        {
+          "name": "Ecu Kelistrikan Mobil",
+          "slug": "otomotif/spare-part-mobil/ecu-kelistrikan-mobil",
+          "children": []
+        },
+        {
+          "name": "Engine Mounting Karet Mobil",
+          "slug": "otomotif/spare-part-mobil/engine-mounting-karet-mobil",
+          "children": []
+        },
+        {
+          "name": "Filter Udara Mobil",
+          "slug": "otomotif/spare-part-mobil/filter-udara-mobil",
+          "children": []
+        },
+        {
+          "name": "Gearbox",
+          "slug": "otomotif/spare-part-mobil/gearbox",
+          "children": []
+        },
+        {
+          "name": "Kampas Rem Mobil",
+          "slug": "otomotif/spare-part-mobil/kampas-rem-mobil",
+          "children": []
+        },
+        {
+          "name": "Klakson Mobil",
+          "slug": "otomotif/spare-part-mobil/klakson-mobil",
+          "children": []
+        },
+        {
+          "name": "Knalpot Mobil",
+          "slug": "otomotif/spare-part-mobil/knalpot-mobil",
+          "children": []
+        },
+        {
+          "name": "Koil Cdi Mobil",
+          "slug": "otomotif/spare-part-mobil/koil-cdi-mobil",
+          "children": []
+        },
+        {
+          "name": "Kopling Transmisi Mobil",
+          "slug": "otomotif/spare-part-mobil/kopling-transmisi-mobil",
+          "children": []
+        },
+        {
+          "name": "Lampu Mobil",
+          "slug": "otomotif/spare-part-mobil/lampu-mobil",
+          "children": []
+        },
+        {
+          "name": "Master Kaliper Rem Mobil",
+          "slug": "otomotif/spare-part-mobil/master-kaliper-rem-mobil",
+          "children": []
+        },
+        {
+          "name": "Piston Mobil",
+          "slug": "otomotif/spare-part-mobil/piston-mobil",
+          "children": []
+        },
+        {
+          "name": "Radiator Komponen Mobil",
+          "slug": "otomotif/spare-part-mobil/radiator-komponen-mobil",
+          "children": []
+        },
+        {
+          "name": "Selang Rem Mobil",
+          "slug": "otomotif/spare-part-mobil/selang-rem-mobil",
+          "children": []
+        },
+        {
+          "name": "Shockbreaker Kaki Kaki Mobil",
+          "slug": "otomotif/spare-part-mobil/shockbreaker-kaki-kaki-mobil",
+          "children": []
+        },
+        {
+          "name": "Stir Mobil",
+          "slug": "otomotif/spare-part-mobil/stir-mobil",
+          "children": []
+        },
+        {
+          "name": "Tromol Piringan Rem Mobil",
+          "slug": "otomotif/spare-part-mobil/tromol-piringan-rem-mobil",
+          "children": []
+        },
+        {
+          "name": "Wiper Wiper Cover Mobil",
+          "slug": "otomotif/spare-part-mobil/wiper-wiper-cover-mobil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Spare Part Motor",
+      "slug": "otomotif/spare-part-motor",
+      "children": [
+        {
+          "name": "Aki Motor",
+          "slug": "otomotif/spare-part-motor/aki-motor",
+          "children": []
+        },
+        {
+          "name": "Bearing Motor",
+          "slug": "otomotif/spare-part-motor/bearing-motor",
+          "children": []
+        },
+        {
+          "name": "Busi Motor",
+          "slug": "otomotif/spare-part-motor/busi-motor",
+          "children": []
+        },
+        {
+          "name": "Ecu Kelistrikan Motor",
+          "slug": "otomotif/spare-part-motor/ecu-kelistrikan-motor",
+          "children": []
+        },
+        {
+          "name": "Filter Udara Motor",
+          "slug": "otomotif/spare-part-motor/filter-udara-motor",
+          "children": []
+        },
+        {
+          "name": "Kabel Selang Motor",
+          "slug": "otomotif/spare-part-motor/kabel-selang-motor",
+          "children": []
+        },
+        {
+          "name": "Kaliper Cakram Tromol Motor",
+          "slug": "otomotif/spare-part-motor/kaliper-cakram-tromol-motor",
+          "children": []
+        },
+        {
+          "name": "Kampas Rem Motor",
+          "slug": "otomotif/spare-part-motor/kampas-rem-motor",
+          "children": []
+        },
+        {
+          "name": "Karburator Motor",
+          "slug": "otomotif/spare-part-motor/karburator-motor",
+          "children": []
+        },
+        {
+          "name": "Klakson Motor",
+          "slug": "otomotif/spare-part-motor/klakson-motor",
+          "children": []
+        },
+        {
+          "name": "Knalpot",
+          "slug": "otomotif/spare-part-motor/knalpot",
+          "children": []
+        },
+        {
+          "name": "Koil Cdi Motor",
+          "slug": "otomotif/spare-part-motor/koil-cdi-motor",
+          "children": []
+        },
+        {
+          "name": "Kopling Motor",
+          "slug": "otomotif/spare-part-motor/kopling-motor",
+          "children": []
+        },
+        {
+          "name": "Lampu Motor",
+          "slug": "otomotif/spare-part-motor/lampu-motor",
+          "children": []
+        },
+        {
+          "name": "Master Piringan Rem Motor",
+          "slug": "otomotif/spare-part-motor/master-piringan-rem-motor",
+          "children": []
+        },
+        {
+          "name": "Noken As Motor",
+          "slug": "otomotif/spare-part-motor/noken-as-motor",
+          "children": []
+        },
+        {
+          "name": "Piston Motor",
+          "slug": "otomotif/spare-part-motor/piston-motor",
+          "children": []
+        },
+        {
+          "name": "Rantai Gir Motor",
+          "slug": "otomotif/spare-part-motor/rantai-gir-motor",
+          "children": []
+        },
+        {
+          "name": "Selang Rem Motor",
+          "slug": "otomotif/spare-part-motor/selang-rem-motor",
+          "children": []
+        },
+        {
+          "name": "Shockbreaker Motor",
+          "slug": "otomotif/spare-part-motor/shockbreaker-motor",
+          "children": []
+        },
+        {
+          "name": "V Belt Motor",
+          "slug": "otomotif/spare-part-motor/v-belt-motor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Velg Mobil",
+      "slug": "otomotif/velg-mobil",
+      "children": []
+    },
+    {
+      "name": "Velg Motor",
+      "slug": "otomotif/velg-motor",
+      "children": []
+    }
+  ]
+}
