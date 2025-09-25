@@ -1,0 +1,558 @@
+{
+  "name": "Perawatan Tubuh",
+  "slug": "perawatan-tubuh",
+  "children": [
+    {
+      "name": "Grooming",
+      "slug": "perawatan-tubuh/grooming",
+      "children": [
+        {
+          "name": "Alat Cukur Non Elektrik",
+          "slug": "perawatan-tubuh/grooming/alat-cukur-non-elektrik",
+          "children": []
+        },
+        {
+          "name": "Hair Foam",
+          "slug": "perawatan-tubuh/grooming/hair-foam",
+          "children": []
+        },
+        {
+          "name": "Hair Wax Pomade",
+          "slug": "perawatan-tubuh/grooming/hair-wax-pomade",
+          "children": []
+        },
+        {
+          "name": "Krim Cukur",
+          "slug": "perawatan-tubuh/grooming/krim-cukur",
+          "children": []
+        },
+        {
+          "name": "Sisir Saku",
+          "slug": "perawatan-tubuh/grooming/sisir-saku",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mens Grooming",
+      "slug": "perawatan-tubuh/mens-grooming",
+      "children": [
+        {
+          "name": "Alat Cukur Elektrik",
+          "slug": "perawatan-tubuh/mens-grooming/alat-cukur-elektrik",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kesehatan Gigi Mulut",
+      "slug": "perawatan-tubuh/kesehatan-gigi-mulut",
+      "children": [
+        {
+          "name": "Obat Kumur Spray Mulut",
+          "slug": "perawatan-tubuh/kesehatan-gigi-mulut/obat-kumur-spray-mulut",
+          "children": []
+        },
+        {
+          "name": "Pasta Gigi",
+          "slug": "perawatan-tubuh/kesehatan-gigi-mulut/pasta-gigi",
+          "children": []
+        },
+        {
+          "name": "Pembersih Lidah",
+          "slug": "perawatan-tubuh/kesehatan-gigi-mulut/pembersih-lidah",
+          "children": []
+        },
+        {
+          "name": "Pemutih Gigi",
+          "slug": "perawatan-tubuh/kesehatan-gigi-mulut/pemutih-gigi",
+          "children": []
+        },
+        {
+          "name": "Sikat Gigi",
+          "slug": "perawatan-tubuh/kesehatan-gigi-mulut/sikat-gigi",
+          "children": []
+        },
+        {
+          "name": "Benang Tusuk Gigi",
+          "slug": "perawatan-tubuh/kesehatan-gigi-mulut/benang-tusuk-gigi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Parfum Cologne Fragrance",
+      "slug": "perawatan-tubuh/parfum-cologne-fragrance",
+      "children": [
+        {
+          "name": "Parfum Cologne Anak Anak",
+          "slug": "perawatan-tubuh/parfum-cologne-fragrance/parfum-cologne-anak-anak",
+          "children": []
+        },
+        {
+          "name": "Parfum Cologne Pria",
+          "slug": "perawatan-tubuh/parfum-cologne-fragrance/parfum-cologne-pria",
+          "children": []
+        },
+        {
+          "name": "Parfum Cologne Unisex",
+          "slug": "perawatan-tubuh/parfum-cologne-fragrance/parfum-cologne-unisex",
+          "children": []
+        },
+        {
+          "name": "Parfum Cologne Wanita",
+          "slug": "perawatan-tubuh/parfum-cologne-fragrance/parfum-cologne-wanita",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Kaki Tangan",
+      "slug": "perawatan-tubuh/perawatan-kaki-tangan",
+      "children": [
+        {
+          "name": "Batu Apung Kaki",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/batu-apung-kaki",
+          "children": []
+        },
+        {
+          "name": "Foot Cream",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/foot-cream",
+          "children": []
+        },
+        {
+          "name": "Foot Lotion",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/foot-lotion",
+          "children": []
+        },
+        {
+          "name": "Foot Mask",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/foot-mask",
+          "children": []
+        },
+        {
+          "name": "Foot Scrub",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/foot-scrub",
+          "children": []
+        },
+        {
+          "name": "Foot Spray",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/foot-spray",
+          "children": []
+        },
+        {
+          "name": "Gunting Kuku",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/gunting-kuku",
+          "children": []
+        },
+        {
+          "name": "Hand Cream",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/hand-cream",
+          "children": []
+        },
+        {
+          "name": "Hand Lotion",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/hand-lotion",
+          "children": []
+        },
+        {
+          "name": "Hand Mask",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/hand-mask",
+          "children": []
+        },
+        {
+          "name": "Hand Sanitizer",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/hand-sanitizer",
+          "children": []
+        },
+        {
+          "name": "Hand Scrub",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/hand-scrub",
+          "children": []
+        },
+        {
+          "name": "Kikir Kaki",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/kikir-kaki",
+          "children": []
+        },
+        {
+          "name": "Pemisah Jari Kaki",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/pemisah-jari-kaki",
+          "children": []
+        },
+        {
+          "name": "Pemotong Mata Ikan Kapalan",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/pemotong-mata-ikan-kapalan",
+          "children": []
+        },
+        {
+          "name": "Sabun Cuci Tangan",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/sabun-cuci-tangan",
+          "children": []
+        },
+        {
+          "name": "Sandal Spa",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/sandal-spa",
+          "children": []
+        },
+        {
+          "name": "Spa Perawatan Kaki",
+          "slug": "perawatan-tubuh/perawatan-kaki-tangan/spa-perawatan-kaki",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Kuku",
+      "slug": "perawatan-tubuh/perawatan-kuku",
+      "children": [
+        {
+          "name": "Alat Kuku",
+          "slug": "perawatan-tubuh/perawatan-kuku/alat-kuku",
+          "children": []
+        },
+        {
+          "name": "Alat Kutikula Kaki",
+          "slug": "perawatan-tubuh/perawatan-kuku/alat-kutikula-kaki",
+          "children": []
+        },
+        {
+          "name": "Alat Manikur Pedikur",
+          "slug": "perawatan-tubuh/perawatan-kuku/alat-manikur-pedikur",
+          "children": []
+        },
+        {
+          "name": "Electric Nail Drill",
+          "slug": "perawatan-tubuh/perawatan-kuku/electric-nail-drill",
+          "children": []
+        },
+        {
+          "name": "Electric Nail Drill Bits",
+          "slug": "perawatan-tubuh/perawatan-kuku/electric-nail-drill-bits",
+          "children": []
+        },
+        {
+          "name": "Foot Scrub",
+          "slug": "perawatan-tubuh/perawatan-kuku/foot-scrub",
+          "children": []
+        },
+        {
+          "name": "Foot Spray",
+          "slug": "perawatan-tubuh/perawatan-kuku/foot-spray",
+          "children": []
+        },
+        {
+          "name": "Gunting Kuku",
+          "slug": "perawatan-tubuh/perawatan-kuku/gunting-kuku",
+          "children": []
+        },
+        {
+          "name": "Korektor Kuteks",
+          "slug": "perawatan-tubuh/perawatan-kuku/korektor-kuteks",
+          "children": []
+        },
+        {
+          "name": "Krim Kuku",
+          "slug": "perawatan-tubuh/perawatan-kuku/krim-kuku",
+          "children": []
+        },
+        {
+          "name": "Lampu Pengering Kuteks",
+          "slug": "perawatan-tubuh/perawatan-kuku/lampu-pengering-kuteks",
+          "children": []
+        },
+        {
+          "name": "Minyak Kutikula Kuku",
+          "slug": "perawatan-tubuh/perawatan-kuku/minyak-kutikula-kuku",
+          "children": []
+        },
+        {
+          "name": "Nail Dotting Tools",
+          "slug": "perawatan-tubuh/perawatan-kuku/nail-dotting-tools",
+          "children": []
+        },
+        {
+          "name": "Nail Dryer",
+          "slug": "perawatan-tubuh/perawatan-kuku/nail-dryer",
+          "children": []
+        },
+        {
+          "name": "Penghilang Cat Kuku",
+          "slug": "perawatan-tubuh/perawatan-kuku/penghilang-cat-kuku",
+          "children": []
+        },
+        {
+          "name": "Sandaran Tangan Manikur",
+          "slug": "perawatan-tubuh/perawatan-kuku/sandaran-tangan-manikur",
+          "children": []
+        },
+        {
+          "name": "Set Manikur Pedikur",
+          "slug": "perawatan-tubuh/perawatan-kuku/set-manikur-pedikur",
+          "children": []
+        },
+        {
+          "name": "Sikat Pembersih Kuku",
+          "slug": "perawatan-tubuh/perawatan-kuku/sikat-pembersih-kuku",
+          "children": []
+        },
+        {
+          "name": "Sterilisator Alat Kuku",
+          "slug": "perawatan-tubuh/perawatan-kuku/sterilisator-alat-kuku",
+          "children": []
+        },
+        {
+          "name": "Tangan Jari Latihan Manikur",
+          "slug": "perawatan-tubuh/perawatan-kuku/tangan-jari-latihan-manikur",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Kulit",
+      "slug": "perawatan-tubuh/perawatan-kulit",
+      "children": [
+        {
+          "name": "Body Lotion",
+          "slug": "perawatan-tubuh/perawatan-kulit/body-lotion",
+          "children": []
+        },
+        {
+          "name": "Body Oil",
+          "slug": "perawatan-tubuh/perawatan-kulit/body-oil",
+          "children": []
+        },
+        {
+          "name": "Body Scrub",
+          "slug": "perawatan-tubuh/perawatan-kulit/body-scrub",
+          "children": []
+        },
+        {
+          "name": "Body Butter",
+          "slug": "perawatan-tubuh/perawatan-kulit/body-butter",
+          "children": []
+        },
+        {
+          "name": "Deodorant",
+          "slug": "perawatan-tubuh/perawatan-kulit/deodorant",
+          "children": []
+        },
+        {
+          "name": "Krim Pengencang Pelangsing",
+          "slug": "perawatan-tubuh/perawatan-kulit/krim-pengencang-pelangsing",
+          "children": []
+        },
+        {
+          "name": "Pemutih Tubuh Ketiak",
+          "slug": "perawatan-tubuh/perawatan-kulit/pemutih-tubuh-ketiak",
+          "children": []
+        },
+        {
+          "name": "Penghilang Bekas Jerawat",
+          "slug": "perawatan-tubuh/perawatan-kulit/penghilang-bekas-jerawat",
+          "children": []
+        },
+        {
+          "name": "Penghilang Bekas Luka",
+          "slug": "perawatan-tubuh/perawatan-kulit/penghilang-bekas-luka",
+          "children": []
+        },
+        {
+          "name": "Peralatan Waxing",
+          "slug": "perawatan-tubuh/perawatan-kulit/peralatan-waxing",
+          "children": []
+        },
+        {
+          "name": "Perontok Bulu",
+          "slug": "perawatan-tubuh/perawatan-kulit/perontok-bulu",
+          "children": []
+        },
+        {
+          "name": "Stretchmark Cream",
+          "slug": "perawatan-tubuh/perawatan-kulit/stretchmark-cream",
+          "children": []
+        },
+        {
+          "name": "Sunblock Badan",
+          "slug": "perawatan-tubuh/perawatan-kulit/sunblock-badan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Mata",
+      "slug": "perawatan-tubuh/perawatan-mata",
+      "children": [
+        {
+          "name": "Cairan Pembersih Sofltens",
+          "slug": "perawatan-tubuh/perawatan-mata/cairan-pembersih-sofltens",
+          "children": []
+        },
+        {
+          "name": "Softlens",
+          "slug": "perawatan-tubuh/perawatan-mata/softlens",
+          "children": []
+        },
+        {
+          "name": "Tetes Mata Softlens",
+          "slug": "perawatan-tubuh/perawatan-mata/tetes-mata-softlens",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Rambut",
+      "slug": "perawatan-tubuh/perawatan-rambut",
+      "children": [
+        {
+          "name": "Conditioner",
+          "slug": "perawatan-tubuh/perawatan-rambut/conditioner",
+          "children": []
+        },
+        {
+          "name": "Dry Shampoo",
+          "slug": "perawatan-tubuh/perawatan-rambut/dry-shampoo",
+          "children": []
+        },
+        {
+          "name": "Hair Tonic",
+          "slug": "perawatan-tubuh/perawatan-rambut/hair-tonic",
+          "children": []
+        },
+        {
+          "name": "Masker Rambut",
+          "slug": "perawatan-tubuh/perawatan-rambut/masker-rambut",
+          "children": []
+        },
+        {
+          "name": "Parfum Rambut",
+          "slug": "perawatan-tubuh/perawatan-rambut/parfum-rambut",
+          "children": []
+        },
+        {
+          "name": "Pewarna Rambut",
+          "slug": "perawatan-tubuh/perawatan-rambut/pewarna-rambut",
+          "children": []
+        },
+        {
+          "name": "Produk Styling Rambut",
+          "slug": "perawatan-tubuh/perawatan-rambut/produk-styling-rambut",
+          "children": []
+        },
+        {
+          "name": "Shampoo",
+          "slug": "perawatan-tubuh/perawatan-rambut/shampoo",
+          "children": []
+        },
+        {
+          "name": "Shampoo Kutu",
+          "slug": "perawatan-tubuh/perawatan-rambut/shampoo-kutu",
+          "children": []
+        },
+        {
+          "name": "Vitamin Serum Rambut",
+          "slug": "perawatan-tubuh/perawatan-rambut/vitamin-serum-rambut",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perawatan Telinga",
+      "slug": "perawatan-tubuh/perawatan-telinga",
+      "children": [
+        {
+          "name": "Cotton Bud",
+          "slug": "perawatan-tubuh/perawatan-telinga/cotton-bud",
+          "children": []
+        },
+        {
+          "name": "Ear Candle",
+          "slug": "perawatan-tubuh/perawatan-telinga/ear-candle",
+          "children": []
+        },
+        {
+          "name": "Pembersih Telinga",
+          "slug": "perawatan-tubuh/perawatan-telinga/pembersih-telinga",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Perlengkapan Mandi",
+      "slug": "perawatan-tubuh/perlengkapan-mandi",
+      "children": [
+        {
+          "name": "Bath Bomb",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/bath-bomb",
+          "children": []
+        },
+        {
+          "name": "Bath Salt",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/bath-salt",
+          "children": []
+        },
+        {
+          "name": "Kain Lap Mandi",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/kain-lap-mandi",
+          "children": []
+        },
+        {
+          "name": "Loofah Spons Pouf",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/loofah-spons-pouf",
+          "children": []
+        },
+        {
+          "name": "Sabun Mandi",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/sabun-mandi",
+          "children": []
+        },
+        {
+          "name": "Sarung Tangan Eksfoliasi",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/sarung-tangan-eksfoliasi",
+          "children": []
+        },
+        {
+          "name": "Shower Cap",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/shower-cap",
+          "children": []
+        },
+        {
+          "name": "Shower Puff",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/shower-puff",
+          "children": []
+        },
+        {
+          "name": "Sikat Badan",
+          "slug": "perawatan-tubuh/perlengkapan-mandi/sikat-badan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Produk Kewanitaan",
+      "slug": "perawatan-tubuh/produk-kewanitaan",
+      "children": [
+        {
+          "name": "Menstrual Cup Tampon",
+          "slug": "perawatan-tubuh/produk-kewanitaan/menstrual-cup-tampon",
+          "children": []
+        },
+        {
+          "name": "Pembalut",
+          "slug": "perawatan-tubuh/produk-kewanitaan/pembalut",
+          "children": []
+        },
+        {
+          "name": "Perawatan Tubuh Wanita",
+          "slug": "perawatan-tubuh/produk-kewanitaan/perawatan-tubuh-wanita",
+          "children": []
+        },
+        {
+          "name": "Sabun Kewanitaan",
+          "slug": "perawatan-tubuh/produk-kewanitaan/sabun-kewanitaan",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
