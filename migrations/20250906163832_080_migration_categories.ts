@@ -1,7 +1,6 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
-  const types = ['product', 'service', 'post', 'page', 'other'];
   return knex.schema.createTable('categories', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('parent_id').nullable();
