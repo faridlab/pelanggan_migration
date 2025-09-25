@@ -1,0 +1,877 @@
+[
+    {
+        "bic": "AGTBIDJA",
+        "name": "PT. BANK RAYA INDONESIA, TBK",
+        "short_name": "BANK RAYA",
+        "code": 494,
+        "office_code": 14
+    },
+    {
+        "bic": "ANZBIDJX",
+        "name": "PT. BANK ANZ INDONESIA",
+        "short_name": "ANZ INDONESIA",
+        "code": 61,
+        "office_code": 306
+    },
+    {
+        "bic": "ARTGIDJA",
+        "name": "PT. BANK ARTHA GRAHA INTERNASIONAL, TBK",
+        "short_name": "BAG INTERNASIONAL",
+        "code": 37,
+        "office_code": 28
+    },
+    {
+        "bic": "SYACIDJ1",
+        "name": "PT. BANK ACEH SYARIAH",
+        "short_name": "BANK ACEH",
+        "code": 116,
+        "office_code": 9900
+    },
+    {
+        "bic": "IBKOIDJA",
+        "name": "PT. BANK IBK INDONESIA",
+        "short_name": "BANK IBK",
+        "code": 945,
+        "office_code": 305
+    },
+    {
+        "bic": "LOMAIDJ1",
+        "name": "PT. BANK AMAR INDONESIA",
+        "short_name": "BANK AMAR",
+        "code": 531,
+        "office_code": 12
+    },
+    {
+        "bic": "JAGBIDJA",
+        "name": "PT. BANK JAGO Tbk",
+        "short_name": "BANK JAGO",
+        "code": 542,
+        "office_code": 12
+    },
+    {
+        "bic": "SYATIDJ1",
+        "name": "PT. BANK JAGO TBK UNIT USAHA SYARIAH",
+        "short_name": "BANK JAGO UUS",
+        "code": 542,
+        "office_code": 9903
+    },
+    {
+        "bic": "SYCAIDJ1",
+        "name": "PT. BANK BCA SYARIAH",
+        "short_name": "BANK BCA SYARIAH",
+        "code": 536,
+        "office_code": 17
+    },
+    {
+        "bic": "PDBKIDJ1",
+        "name": "PT. BPD BENGKULU",
+        "short_name": "BANK BENGKULU",
+        "code": 133,
+        "office_code": 12
+    },
+    {
+        "bic": "BUSTIDJ1",
+        "name": "PT. KROM BANK INDONESIA",
+        "short_name": "KROM BANK",
+        "code": 459,
+        "office_code": 11
+    },
+    {
+        "bic": "BNINIDJA",
+        "name": "PT. BANK NEGARA INDONESIA (PERSERO)",
+        "short_name": "BANK BNI",
+        "code": 9,
+        "office_code": 10
+    },
+    {
+        "bic": "PDYKIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH DIY",
+        "short_name": "BANK BPD DIY",
+        "code": 112,
+        "office_code": 15
+    },
+    {
+        "bic": "SYYKIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH DIY UNIT USAHA SYARIAH",
+        "short_name": "BANK BPD DIY UUS",
+        "code": 112,
+        "office_code": 9922
+    },
+    {
+        "bic": "PUBAIDJ1",
+        "name": "PT. BANK BTPN SYARIAH",
+        "short_name": "BANK BTPN SYARIAH",
+        "code": 547,
+        "office_code": 46
+    },
+    {
+        "bic": "BCIAIDJA",
+        "name": "PT BANK CAPITAL INDONESIA",
+        "short_name": "BANK CAPITAL",
+        "code": 54,
+        "office_code": 308
+    },
+    {
+        "bic": "BNIAIDJA",
+        "name": "PT. BANK CIMB NIAGA TBK",
+        "short_name": "BANK CIMB",
+        "code": 22,
+        "office_code": 26
+    },
+    {
+        "bic": "SYNAIDJ1",
+        "name": "PT. BANK CIMB NIAGA TBK - UNIT USAHA SYARIAH",
+        "short_name": "BANK CIMB NIAGA UUS",
+        "code": 22,
+        "office_code": 9920
+    },
+    {
+        "bic": "BDINIDJA",
+        "name": "PT. BANK DANAMON INDONESIA Tbk.",
+        "short_name": "BANK DANAMON",
+        "code": 11,
+        "office_code": 42
+    },
+    {
+        "bic": "SYBDIDJ1",
+        "name": "PT. BANK DANAMON INDONESIA UNIT USAHA SYARIAH",
+        "short_name": "BANK DANAMON UUS",
+        "code": 11,
+        "office_code": 9920
+    },
+    {
+        "bic": "LMANIDJ1",
+        "name": "PT. BANK OKE INDONESIA",
+        "short_name": "BANK OKE",
+        "code": 526,
+        "office_code": 10
+    },
+    {
+        "bic": "BDKIIDJ1",
+        "name": "PT. BANK DKI",
+        "short_name": "BANK DKI",
+        "code": 111,
+        "office_code": 12
+    },
+    {
+        "bic": "SYDKIDJ1",
+        "name": "PT. BANK DKI UNIT USAHA SYARIAH",
+        "short_name": "BANK DKI UUS",
+        "code": 111,
+        "office_code": 9916
+    },
+    {
+        "bic": "FAMAIDJ1",
+        "name": "PT. SUPER BANK INDONESIA",
+        "short_name": "SUPER BANK",
+        "code": 562,
+        "office_code": 16
+    },
+    {
+        "bic": "GNESIDJA",
+        "name": "PT. BANK GANESHA",
+        "short_name": "BANK GANESHA",
+        "code": 161,
+        "office_code": 17
+    },
+    {
+        "bic": "HRDAIDJ1",
+        "name": "PT. ALLO BANK INDONESIA",
+        "short_name": "BANK ALLO",
+        "code": 567,
+        "office_code": 11
+    },
+    {
+        "bic": "HSBCIDJA",
+        "name": "PT. BANK HSBC INDONESIA",
+        "short_name": "BANK HSBC INDONESIA",
+        "code": 87,
+        "office_code": 10
+    },
+    {
+        "bic": "ICBKIDJA",
+        "name": "PT. BANK ICBC INDONESIA",
+        "short_name": "BANK ICBC",
+        "code": 164,
+        "office_code": 16
+    },
+    {
+        "bic": "IAPTIDJA",
+        "name": "PT. BANK INA PERDANA",
+        "short_name": "BANK INA",
+        "code": 513,
+        "office_code": 14
+    },
+    {
+        "bic": "BIDXIDJA",
+        "name": "BANK INDEX SELINDO",
+        "short_name": "BANK INDEX",
+        "code": 555,
+        "office_code": 18
+    },
+    {
+        "bic": "PDJBIDJA",
+        "name": "PT. BANK PEMBANGUNAN DAERAH JABAR DAN BANTEN",
+        "short_name": "BANK JABAR",
+        "code": 110,
+        "office_code": 323
+    },
+    {
+        "bic": "SYJBIDJ1",
+        "name": "PT. BANK JABAR BANTEN SYARIAH",
+        "short_name": "BANK JABAR SYARIAH",
+        "code": 425,
+        "office_code": 18
+    },
+    {
+        "bic": "JSABIDJ1",
+        "name": "PT. BANK JASA JAKARTA",
+        "short_name": "BANK JASA JAKARTA",
+        "code": 472,
+        "office_code": 14
+    },
+    {
+        "bic": "PDJGIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+        "short_name": "BANK JATENG",
+        "code": 113,
+        "office_code": 348
+    },
+    {
+        "bic": "SYJGIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH JATENG UNIT USAHA SYAR",
+        "short_name": "BANK JATENG UUS",
+        "code": 113,
+        "office_code": 9938
+    },
+    {
+        "bic": "PDJTIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH JATIM",
+        "short_name": "BANK JATIM",
+        "code": 114,
+        "office_code": 383
+    },
+    {
+        "bic": "SYJTIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH JATIM - UNIT USAHA SYAR",
+        "short_name": "BANK JATIM - UUS",
+        "code": 114,
+        "office_code": 9928
+    },
+    {
+        "bic": "CICTIDJA",
+        "name": "PT. BANK JTRUST INDONESIA, TBK",
+        "short_name": "BANK JTRUST",
+        "code": 95,
+        "office_code": 11
+    },
+    {
+        "bic": "HNBNIDJA",
+        "name": "PT. BANK KEB HANA INDONESIA",
+        "short_name": "BANK KEB HANA",
+        "code": 484,
+        "office_code": 17
+    },
+    {
+        "bic": "SSPIIDJA",
+        "name": "PT. BANK SEABANK INDONESIA",
+        "short_name": "BANK SEABANK",
+        "code": 535,
+        "office_code": 14
+    },
+    {
+        "bic": "PDLPIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH LAMPUNG",
+        "short_name": "BANK LAMPUNG",
+        "code": 121,
+        "office_code": 51
+    },
+    {
+        "bic": "PDMLIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH MALUKU",
+        "short_name": "BANK MALUKU",
+        "code": 131,
+        "office_code": 16
+    },
+    {
+        "bic": "BMRIIDJA",
+        "name": "PT. BANK MANDIRI (PERSERO) TBK",
+        "short_name": "BANK MANDIRI",
+        "code": 8,
+        "office_code": 17
+    },
+    {
+        "bic": "SIHBIDJ1",
+        "name": "PT. BANK MANDIRI TASPEN",
+        "short_name": "BANK MANDIRI TASPEN",
+        "code": 564,
+        "office_code": 12
+    },
+    {
+        "bic": "BMSEIDJA",
+        "name": "PT. BANK MULTI ARTA SENTOSA",
+        "short_name": "BANK MAS",
+        "code": 548,
+        "office_code": 10
+    },
+    {
+        "bic": "MASDIDJ1",
+        "name": "PT. BANK MASPION",
+        "short_name": "BANK MASPION",
+        "code": 157,
+        "office_code": 18
+    },
+    {
+        "bic": "MAYAIDJA",
+        "name": "PT. BANK MAYAPADA Tbk.",
+        "short_name": "BANK MAYAPADA",
+        "code": 97,
+        "office_code": 17
+    },
+    {
+        "bic": "IBBKIDJA",
+        "name": "PT. BANK MAYBANK INDONESIA Tbk.",
+        "short_name": "BANK MAYBANK",
+        "code": 16,
+        "office_code": 131
+    },
+    {
+        "bic": "SYBKIDJ1",
+        "name": "PT. BANK MAYBANK INDONESIA Tbk. UNIT USAHA SYARIAH",
+        "short_name": "BANK MAYBANK UUS",
+        "code": 16,
+        "office_code": 9925
+    },
+    {
+        "bic": "MAYOIDJA",
+        "name": "PT. BANK HIBANK INDONESIA",
+        "short_name": "BANK HIBANK",
+        "code": 553,
+        "office_code": 12
+    },
+    {
+        "bic": "MEGAIDJA",
+        "name": "PT. BANK MEGA Tbk.",
+        "short_name": "BANK MEGA",
+        "code": 426,
+        "office_code": 121
+    },
+    {
+        "bic": "BUTGIDJ1",
+        "name": "PT. BANK MEGA SYARIAH",
+        "short_name": "BANK MEGA SYARIAH",
+        "code": 506,
+        "office_code": 16
+    },
+    {
+        "bic": "MEDHIDS1",
+        "name": "PT. BANK MESTIKA DHARMA",
+        "short_name": "BANK MESTIKA",
+        "code": 151,
+        "office_code": 10
+    },
+    {
+        "bic": "MHCCIDJA",
+        "name": "PT. BANK MIZUHO INDONESIA",
+        "short_name": "BANK MIZUHO",
+        "code": 48,
+        "office_code": 303
+    },
+    {
+        "bic": "MUABIDJA",
+        "name": "PT. BANK MUAMALAT INDONESIA",
+        "short_name": "BANK MUAMALAT",
+        "code": 147,
+        "office_code": 11
+    },
+    {
+        "bic": "SYSBIDJ1",
+        "name": "PT. BANK NAGARI - UNIT USAHA SYARIAH",
+        "short_name": "BANK NAGARI - UUS",
+        "code": 118,
+        "office_code": 9920
+    },
+    {
+        "bic": "LFIBIDJ1",
+        "name": "PT. BANK NATIONALNOBU",
+        "short_name": "BANK NATIONALNOBU",
+        "code": 503,
+        "office_code": 17
+    },
+    {
+        "bic": "PDNBIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH NTB SYARIAH",
+        "short_name": "BPD NTB SYARIAH",
+        "code": 128,
+        "office_code": 10
+    },
+    {
+        "bic": "NISPIDJA",
+        "name": "PT. BANK OCBC NISP, Tbk.",
+        "short_name": "BANK OCBC NISP",
+        "code": 28,
+        "office_code": 24
+    },
+    {
+        "bic": "SYONIDJ1",
+        "name": "PT.BANK OCBC NISP TBK - UNIT USAHA SYARIAH",
+        "short_name": "BANK OCBC NISP - UUS",
+        "code": 28,
+        "office_code": 9928
+    },
+    {
+        "bic": "SWBAIDJ1",
+        "name": "PT. BANK OF INDIA INDONESIA, TBK",
+        "short_name": "BANK OF INDIA IND",
+        "code": 146,
+        "office_code": 47
+    },
+    {
+        "bic": "ARFAIDJ1",
+        "name": "PT. BANK PANIN DUBAI SYARIAH",
+        "short_name": "BANK PANIN DUBAI SYA",
+        "code": 517,
+        "office_code": 16
+    },
+    {
+        "bic": "BBBAIDJA",
+        "name": "PT. BANK PERMATA,TBK",
+        "short_name": "BANK PERMATA",
+        "code": 13,
+        "office_code": 475
+    },
+    {
+        "bic": "SYBBIDJ1",
+        "name": "PT. BANK PERMATA,TBK UNIT USAHA SYARIAH",
+        "short_name": "BANK PERMATA UUS",
+        "code": 13,
+        "office_code": 9926
+    },
+    {
+        "bic": "AWANIDJA",
+        "name": "PT. BANK QNB INDONESIA,TBK",
+        "short_name": "BANK QNB",
+        "code": 167,
+        "office_code": 15
+    },
+    {
+        "bic": "BPIAIDJA",
+        "name": "PT. BANK RESONA PERDANIA",
+        "short_name": "BANK RESONA",
+        "code": 47,
+        "office_code": 300
+    },
+    {
+        "bic": "PDRIIDJA",
+        "name": "PT. BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH",
+        "short_name": "BPD RIAU KEPRI SYARIAH",
+        "code": 119,
+        "office_code": 16
+    },
+    {
+        "bic": "ROYBIDJ1",
+        "name": "PT. BANK DIGITAL BCA",
+        "short_name": "BANK DIGITAL BCA",
+        "code": 501,
+        "office_code": 11
+    },
+    {
+        "bic": "SAHMIDJA",
+        "name": "PT. BANK SAHABAT SAMPOERNA",
+        "short_name": "BANK SAMPOERNA",
+        "code": 523,
+        "office_code": 11
+    },
+    {
+        "bic": "IDMOIDJ1",
+        "name": "PT. BANK SBI INDONESIA",
+        "short_name": "BANK SBI",
+        "code": 498,
+        "office_code": 16
+    },
+    {
+        "bic": "MEEKIDJ1",
+        "name": "PT. BANK SHINHAN INDONESIA",
+        "short_name": "BANK SHINHAN IND",
+        "code": 152,
+        "office_code": 13
+    },
+    {
+        "bic": "SBJKIDJA",
+        "name": "PT. BANK SINARMAS",
+        "short_name": "BANK SINARMAS",
+        "code": 153,
+        "office_code": 16
+    },
+    {
+        "bic": "NANOIDJ1",
+        "name": "PT. BANK NANO SYARIAH",
+        "short_name": "BANK NANO SYARIAH",
+        "code": 253,
+        "office_code": 15
+    },
+    {
+        "bic": "PDWSIDJ1",
+        "name": "PT. BANK SULSELBAR",
+        "short_name": "BANK SULSELBAR",
+        "code": 126,
+        "office_code": 27
+    },
+    {
+        "bic": "SYWSIDJ1",
+        "name": "PT. BANK SULSELBAR UNIT USAHA SYARIAH",
+        "short_name": "BANK SULSELBAR UUS",
+        "code": 126,
+        "office_code": 9947
+    },
+    {
+        "bic": "PDSUIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH SUMUT",
+        "short_name": "BANK SUMUT",
+        "code": 117,
+        "office_code": 10
+    },
+    {
+        "bic": "SDOBIDJ1",
+        "name": "PT. BANK KB BUKOPIN SYARIAH",
+        "short_name": "BANK KB BUKOPIN SYARIAH",
+        "code": 521,
+        "office_code": 31
+    },
+    {
+        "bic": "VICTIDJ1",
+        "name": "PT. BANK VICTORIA INTERNATIONAL",
+        "short_name": "BANK VICTORIA",
+        "code": 566,
+        "office_code": 18
+    },
+    {
+        "bic": "SWAGIDJ1",
+        "name": "PT. BANK VICTORIA SYARIAH",
+        "short_name": "BANK VICTORIA SYARIAH",
+        "code": 405,
+        "office_code": 72
+    },
+    {
+        "bic": "BSDRIDJA",
+        "name": "PT. BANK WOORI SAUDARA INDONESIA 1906,TBK",
+        "short_name": "BANK WOORI SAUDARA",
+        "code": 212,
+        "office_code": 27
+    },
+    {
+        "bic": "YUDBIDJ1",
+        "name": "PT. BANK NEO COMMERCE, Tbk.",
+        "short_name": "BANK NEO COMMERCE",
+        "code": 490,
+        "office_code": 12
+    },
+    {
+        "bic": "BBAIIDJA",
+        "name": "PT. BANK BUMI ARTA",
+        "short_name": "BBA",
+        "code": 76,
+        "office_code": 10
+    },
+    {
+        "bic": "CENAIDJA",
+        "name": "PT. BANK CENTRAL ASIA Tbk.",
+        "short_name": "BCA",
+        "code": 14,
+        "office_code": 397
+    },
+    {
+        "bic": "INDOIDJA",
+        "name": "BANK INDONESIA",
+        "short_name": "BI",
+        "code": 1,
+        "office_code": 16
+    },
+    {
+        "bic": "BNPAIDJA",
+        "name": "PT. BANK BNP PARIBAS INDONESIA",
+        "short_name": "BNP PARIBAS",
+        "code": 57,
+        "office_code": 307
+    },
+    {
+        "bic": "BOFAID2X",
+        "name": "BANK OF AMERICA NA",
+        "short_name": "BOA",
+        "code": 33,
+        "office_code": 301
+    },
+    {
+        "bic": "BKCHIDJA",
+        "name": "BANK OF CHINA (HONG KONG) LIMITED",
+        "short_name": "BOC LIMITED",
+        "code": 69,
+        "office_code": 300
+    },
+    {
+        "bic": "ABALIDBS",
+        "name": "PT. BANK PEMBANGUNAN DAERAH BALI",
+        "short_name": "BPD BALI",
+        "code": 129,
+        "office_code": 13
+    },
+    {
+        "bic": "PDBBIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH BANTEN",
+        "short_name": "BPD BANTEN",
+        "code": 137,
+        "office_code": 14
+    },
+    {
+        "bic": "PDJMIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH JAMBI",
+        "short_name": "BPD JAMBI",
+        "code": 115,
+        "office_code": 14
+    },
+    {
+        "bic": "SYJMIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH JAMBI UUS",
+        "short_name": "BPD JAMBI UUS",
+        "code": 115,
+        "office_code": 9918
+    },
+    {
+        "bic": "PDKBIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH KALBAR",
+        "short_name": "BPD KALBAR",
+        "code": 123,
+        "office_code": 15
+    },
+    {
+        "bic": "SYKBIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH KALBAR UUS",
+        "short_name": "BPD KALBAR UUS",
+        "code": 123,
+        "office_code": 9922
+    },
+    {
+        "bic": "PDKSIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH KALSEL",
+        "short_name": "BPD KALSEL",
+        "code": 122,
+        "office_code": 12
+    },
+    {
+        "bic": "SYKSIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH KALSEL - UNIT USAHA SYARIAH",
+        "short_name": "BPD KALSEL UUS",
+        "code": 122,
+        "office_code": 9929
+    },
+    {
+        "bic": "PDKGIDJ1",
+        "name": "PT. BPD KALIMANTAN TENGAH",
+        "short_name": "BPD KALTENG",
+        "code": 125,
+        "office_code": 11
+    },
+    {
+        "bic": "PDKTIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH KALTIM DAN KALTARA",
+        "short_name": "BPD KALTIMTARA",
+        "code": 124,
+        "office_code": 18
+    },
+    {
+        "bic": "SYKTIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH KALTIM DAN KALTARA-UNIT",
+        "short_name": "BPD KALTIMTARA UUS",
+        "code": 124,
+        "office_code": 9925
+    },
+    {
+        "bic": "PDNTIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH NTT",
+        "short_name": "BPD NTT",
+        "code": 130,
+        "office_code": 13
+    },
+    {
+        "bic": "PDIJIDJ1",
+        "name": "PT.BANK PEMBANGUNAN DAERAH PAPUA",
+        "short_name": "BPD PAPUA",
+        "code": 132,
+        "office_code": 19
+    },
+    {
+        "bic": "PDWGIDJ1",
+        "name": "PT. BPD SULAWESI TENGAH",
+        "short_name": "BPD SULTENG",
+        "code": 134,
+        "office_code": 15
+    },
+    {
+        "bic": "PDWRIDJ1",
+        "name": "PT. BPD SULAWESI TENGGARA",
+        "short_name": "BPD SULTRA",
+        "code": 135,
+        "office_code": 18
+    },
+    {
+        "bic": "PDWUIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH SULUT",
+        "short_name": "BPD SULUT",
+        "code": 127,
+        "office_code": 17
+    },
+    {
+        "bic": "PDSBIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH SUMATERA BARAT",
+        "short_name": "BANK NAGARI",
+        "code": 118,
+        "office_code": 13
+    },
+    {
+        "bic": "BSSPIDSP",
+        "name": "PT. BPD SUMSEL DAN BABEL",
+        "short_name": "BPD SUMSEL BABEL",
+        "code": 120,
+        "office_code": 16
+    },
+    {
+        "bic": "SYSSIDJ1",
+        "name": "PT. BPD SUMSEL DAN BABEL UNIT USAHA SYARIAH",
+        "short_name": "BPD SUMSEL BABEL UUS",
+        "code": 120,
+        "office_code": 9923
+    },
+    {
+        "bic": "SYSUIDJ1",
+        "name": "PT. BANK PEMBANGUNAN DAERAH SUMUT UUS",
+        "short_name": "BPD SUMUT UUS",
+        "code": 117,
+        "office_code": 9927
+    },
+    {
+        "bic": "BRINIDJA",
+        "name": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+        "short_name": "BRI",
+        "code": 2,
+        "office_code": 307
+    },
+    {
+        "bic": "BSMDIDJA",
+        "name": "PT. BANK SYARIAH INDONESIA",
+        "short_name": "BANK BSI",
+        "code": 451,
+        "office_code": 17
+    },
+    {
+        "bic": "BOTKIDJX",
+        "name": "MUFG BANK, LTD",
+        "short_name": "BTMU",
+        "code": 42,
+        "office_code": 305
+    },
+    {
+        "bic": "BTANIDJA",
+        "name": "PT. BANK TABUNGAN NEGARA (PERSERO)",
+        "short_name": "BTN",
+        "code": 200,
+        "office_code": 150
+    },
+    {
+        "bic": "SYBTIDJ1",
+        "name": "PT. BANK TABUNGAN NEGARA (PERSERO) UNIT USAHA SYARIAH",
+        "short_name": "BTN UUS",
+        "code": 200,
+        "office_code": 9928
+    },
+    {
+        "bic": "SUNIIDJA",
+        "name": "BANK SMBC INDONESIA BANK",
+        "short_name": "SMBC",
+        "code": 213,
+        "office_code": 101
+    },
+    {
+        "bic": "BBUKIDJA",
+        "name": "PT. BANK BUKOPIN Tbk.",
+        "short_name": "BUKOPIN",
+        "code": 441,
+        "office_code": 10
+    },
+    {
+        "bic": "MCORIDJA",
+        "name": "PT. BANK CHINA CONSTRUCTION BANK INDONESIA, TBK",
+        "short_name": "CHINA CONSTRUCTION B",
+        "code": 36,
+        "office_code": 300
+    },
+    {
+        "bic": "CITIIDJX",
+        "name": "CITIBANK, NA",
+        "short_name": "CITIBANK",
+        "code": 31,
+        "office_code": 305
+    },
+    {
+        "bic": "CTCBIDJA",
+        "name": "PT. BANK CTBC INDONESIA",
+        "short_name": "CTBC INDONESIA",
+        "code": 949,
+        "office_code": 307
+    },
+    {
+        "bic": "DBSBIDJA",
+        "name": "PT. BANK DBS INDONESIA",
+        "short_name": "DBS",
+        "code": 46,
+        "office_code": 307
+    },
+    {
+        "bic": "DEUTIDJA",
+        "name": "DEUTSCHE BANK AG.",
+        "short_name": "DEUTSCHE BANK",
+        "code": 67,
+        "office_code": 304
+    },
+    {
+        "bic": "CHASIDJX",
+        "name": "KC JPMORGAN CHASE BANK, N.A",
+        "short_name": "JPMORGAN BANK",
+        "code": 32,
+        "office_code": 308
+    },
+    {
+        "bic": "NETBIDJA",
+        "name": "PT. BANK ALADIN SYARIAH",
+        "short_name": "BANK ALADIN SYARIAH",
+        "code": 947,
+        "office_code": 302
+    },
+    {
+        "bic": "BUMIIDJA",
+        "name": "PT. BANK MNC INTERNASIONAL, TBK",
+        "short_name": "MNC BANK",
+        "code": 485,
+        "office_code": 10
+    },
+    {
+        "bic": "PINBIDJA",
+        "name": "PT. PANIN BANK Tbk.",
+        "short_name": "PANIN BANK",
+        "code": 19,
+        "office_code": 17
+    },
+    {
+        "bic": "SCBLIDJX",
+        "name": "STANDARD CHARTERED BANK",
+        "short_name": "STANDCHARD",
+        "code": 50,
+        "office_code": 306
+    },
+    {
+        "bic": "BBIJIDJA",
+        "name": "PT. BANK UOB INDONESIA",
+        "short_name": "UOB INDONESIA",
+        "code": 23,
+        "office_code": 16
+    }
+]
