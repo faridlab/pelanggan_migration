@@ -1,0 +1,119 @@
+{
+  "name": "Properti",
+  "slug": "properti",
+  "children": [
+    {
+      "name": "Booking Fee Properti",
+      "slug": "properti/booking-fee-properti",
+      "children": [
+        {
+          "name": "Apartemen Booking Fee",
+          "slug": "properti/booking-fee-properti/apartemen-booking-fee",
+          "children": []
+        },
+        {
+          "name": "Gedung Booking Fee",
+          "slug": "properti/booking-fee-properti/gedung-booking-fee",
+          "children": []
+        },
+        {
+          "name": "Ruko Booking Fee",
+          "slug": "properti/booking-fee-properti/ruko-booking-fee",
+          "children": []
+        },
+        {
+          "name": "Rumah Booking Fee",
+          "slug": "properti/booking-fee-properti/rumah-booking-fee",
+          "children": []
+        },
+        {
+          "name": "Tanah Booking Fee",
+          "slug": "properti/booking-fee-properti/tanah-booking-fee",
+          "children": []
+        },
+        {
+          "name": "Villa Booking Fee",
+          "slug": "properti/booking-fee-properti/villa-booking-fee",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Full Payment Properti",
+      "slug": "properti/full-payment-properti",
+      "children": [
+        {
+          "name": "Apartemen Full Payment",
+          "slug": "properti/full-payment-properti/apartemen-full-payment",
+          "children": []
+        },
+        {
+          "name": "Gedung Full Payment",
+          "slug": "properti/full-payment-properti/gedung-full-payment",
+          "children": []
+        },
+        {
+          "name": "Ruko Full Payment",
+          "slug": "properti/full-payment-properti/ruko-full-payment",
+          "children": []
+        },
+        {
+          "name": "Rumah Full Payment",
+          "slug": "properti/full-payment-properti/rumah-full-payment",
+          "children": []
+        },
+        {
+          "name": "Tanah Full Payment",
+          "slug": "properti/full-payment-properti/tanah-full-payment",
+          "children": []
+        },
+        {
+          "name": "Villa Full Payment",
+          "slug": "properti/full-payment-properti/villa-full-payment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sewa Properti",
+      "slug": "properti/sewa-properti",
+      "children": [
+        {
+          "name": "Apartemen Sewa",
+          "slug": "properti/sewa-properti/apartemen-sewa",
+          "children": []
+        },
+        {
+          "name": "Gedung Sewa",
+          "slug": "properti/sewa-properti/gedung-sewa",
+          "children": []
+        },
+        {
+          "name": "Kos Kosan",
+          "slug": "properti/sewa-properti/kos-kosan",
+          "children": []
+        },
+        {
+          "name": "Ruko Sewa",
+          "slug": "properti/sewa-properti/ruko-sewa",
+          "children": []
+        },
+        {
+          "name": "Rumah Sewa",
+          "slug": "properti/sewa-properti/rumah-sewa",
+          "children": []
+        },
+        {
+          "name": "Tanah Sewa",
+          "slug": "properti/sewa-properti/tanah-sewa",
+          "children": []
+        },
+        {
+          "name": "Villa Sewa",
+          "slug": "properti/sewa-properti/villa-sewa",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
