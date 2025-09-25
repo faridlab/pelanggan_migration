@@ -1,0 +1,817 @@
+{
+  "name": "Rumah Tangga",
+  "slug": "rumah-tangga",
+  "children": [
+    {
+      "name": "Dekorasi",
+      "slug": "rumah-tangga/dekorasi",
+      "children": [
+        {
+          "name": "Cover Kipas Angin",
+          "slug": "rumah-tangga/dekorasi/cover-kipas-angin",
+          "children": []
+        },
+        {
+          "name": "Cover Kursi",
+          "slug": "rumah-tangga/dekorasi/cover-kursi",
+          "children": []
+        },
+        {
+          "name": "Hiasan Dinding",
+          "slug": "rumah-tangga/dekorasi/hiasan-dinding",
+          "children": []
+        },
+        {
+          "name": "Hiasan Natal",
+          "slug": "rumah-tangga/dekorasi/hiasan-natal",
+          "children": []
+        },
+        {
+          "name": "Jam Dinding",
+          "slug": "rumah-tangga/dekorasi/jam-dinding",
+          "children": []
+        },
+        {
+          "name": "Jam Meja",
+          "slug": "rumah-tangga/dekorasi/jam-meja",
+          "children": []
+        },
+        {
+          "name": "Keset",
+          "slug": "rumah-tangga/dekorasi/keset",
+          "children": []
+        },
+        {
+          "name": "Lampu Pohon Natal",
+          "slug": "rumah-tangga/dekorasi/lampu-pohon-natal",
+          "children": []
+        },
+        {
+          "name": "Lilin",
+          "slug": "rumah-tangga/dekorasi/lilin",
+          "children": []
+        },
+        {
+          "name": "Lilin Aroma Terapi",
+          "slug": "rumah-tangga/dekorasi/lilin-aroma-terapi",
+          "children": []
+        },
+        {
+          "name": "Lukisan",
+          "slug": "rumah-tangga/dekorasi/lukisan",
+          "children": []
+        },
+        {
+          "name": "Patung",
+          "slug": "rumah-tangga/dekorasi/patung",
+          "children": []
+        },
+        {
+          "name": "Pohon Natal",
+          "slug": "rumah-tangga/dekorasi/pohon-natal",
+          "children": []
+        },
+        {
+          "name": "Reed Diffuser",
+          "slug": "rumah-tangga/dekorasi/reed-diffuser",
+          "children": []
+        },
+        {
+          "name": "Slinger",
+          "slug": "rumah-tangga/dekorasi/slinger",
+          "children": []
+        },
+        {
+          "name": "Stiker Kaca",
+          "slug": "rumah-tangga/dekorasi/stiker-kaca",
+          "children": []
+        },
+        {
+          "name": "Tanaman Artificial",
+          "slug": "rumah-tangga/dekorasi/tanaman-artificial",
+          "children": []
+        },
+        {
+          "name": "Taplak Meja",
+          "slug": "rumah-tangga/dekorasi/taplak-meja",
+          "children": []
+        },
+        {
+          "name": "Tempat Lilin",
+          "slug": "rumah-tangga/dekorasi/tempat-lilin",
+          "children": []
+        },
+        {
+          "name": "Vas Bunga",
+          "slug": "rumah-tangga/dekorasi/vas-bunga",
+          "children": []
+        },
+        {
+          "name": "Wall Sticker",
+          "slug": "rumah-tangga/dekorasi/wall-sticker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Furniture",
+      "slug": "rumah-tangga/furniture",
+      "children": [
+        {
+          "name": "Bedside Table",
+          "slug": "rumah-tangga/furniture/bedside-table",
+          "children": []
+        },
+        {
+          "name": "Cermin Badan",
+          "slug": "rumah-tangga/furniture/cermin-badan",
+          "children": []
+        },
+        {
+          "name": "Kasur",
+          "slug": "rumah-tangga/furniture/kasur",
+          "children": []
+        },
+        {
+          "name": "Kursi",
+          "slug": "rumah-tangga/furniture/kursi",
+          "children": []
+        },
+        {
+          "name": "Kursi Bar",
+          "slug": "rumah-tangga/furniture/kursi-bar",
+          "children": []
+        },
+        {
+          "name": "Kursi Goyang",
+          "slug": "rumah-tangga/furniture/kursi-goyang",
+          "children": []
+        },
+        {
+          "name": "Kursi Kantor",
+          "slug": "rumah-tangga/furniture/kursi-kantor",
+          "children": []
+        },
+        {
+          "name": "Kursi Makan",
+          "slug": "rumah-tangga/furniture/kursi-makan",
+          "children": []
+        },
+        {
+          "name": "Kursi Malas",
+          "slug": "rumah-tangga/furniture/kursi-malas",
+          "children": []
+        },
+        {
+          "name": "Lemari Pakaian",
+          "slug": "rumah-tangga/furniture/lemari-pakaian",
+          "children": []
+        },
+        {
+          "name": "Meja Bar",
+          "slug": "rumah-tangga/furniture/meja-bar",
+          "children": []
+        },
+        {
+          "name": "Meja Kantor",
+          "slug": "rumah-tangga/furniture/meja-kantor",
+          "children": []
+        },
+        {
+          "name": "Meja Makan",
+          "slug": "rumah-tangga/furniture/meja-makan",
+          "children": []
+        },
+        {
+          "name": "Meja Rias",
+          "slug": "rumah-tangga/furniture/meja-rias",
+          "children": []
+        },
+        {
+          "name": "Meja Tv",
+          "slug": "rumah-tangga/furniture/meja-tv",
+          "children": []
+        },
+        {
+          "name": "Meja Tamu",
+          "slug": "rumah-tangga/furniture/meja-tamu",
+          "children": []
+        },
+        {
+          "name": "Pengaman Furniture",
+          "slug": "rumah-tangga/furniture/pengaman-furniture",
+          "children": []
+        },
+        {
+          "name": "Rak",
+          "slug": "rumah-tangga/furniture/rak",
+          "children": []
+        },
+        {
+          "name": "Rangka Tempat Tidur",
+          "slug": "rumah-tangga/furniture/rangka-tempat-tidur",
+          "children": []
+        },
+        {
+          "name": "Sofa",
+          "slug": "rumah-tangga/furniture/sofa",
+          "children": []
+        },
+        {
+          "name": "Sofa Bed",
+          "slug": "rumah-tangga/furniture/sofa-bed",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kamar Mandi",
+      "slug": "rumah-tangga/kamar-mandi",
+      "children": [
+        {
+          "name": "Cermin Kamar Mandi",
+          "slug": "rumah-tangga/kamar-mandi/cermin-kamar-mandi",
+          "children": []
+        },
+        {
+          "name": "Dispenser Odol",
+          "slug": "rumah-tangga/kamar-mandi/dispenser-odol",
+          "children": []
+        },
+        {
+          "name": "Ember Baskom",
+          "slug": "rumah-tangga/kamar-mandi/ember-baskom",
+          "children": []
+        },
+        {
+          "name": "Gantungan Handuk",
+          "slug": "rumah-tangga/kamar-mandi/gantungan-handuk",
+          "children": []
+        },
+        {
+          "name": "Gayung",
+          "slug": "rumah-tangga/kamar-mandi/gayung",
+          "children": []
+        },
+        {
+          "name": "Handuk Mandi",
+          "slug": "rumah-tangga/kamar-mandi/handuk-mandi",
+          "children": []
+        },
+        {
+          "name": "Keset Anti Slip",
+          "slug": "rumah-tangga/kamar-mandi/keset-anti-slip",
+          "children": []
+        },
+        {
+          "name": "Kimono Mandi",
+          "slug": "rumah-tangga/kamar-mandi/kimono-mandi",
+          "children": []
+        },
+        {
+          "name": "Rak Toilet",
+          "slug": "rumah-tangga/kamar-mandi/rak-toilet",
+          "children": []
+        },
+        {
+          "name": "Shower Curtain",
+          "slug": "rumah-tangga/kamar-mandi/shower-curtain",
+          "children": []
+        },
+        {
+          "name": "Tempat Sabun",
+          "slug": "rumah-tangga/kamar-mandi/tempat-sabun",
+          "children": []
+        },
+        {
+          "name": "Tempat Sikat Gigi",
+          "slug": "rumah-tangga/kamar-mandi/tempat-sikat-gigi",
+          "children": []
+        },
+        {
+          "name": "Toilet Cover",
+          "slug": "rumah-tangga/kamar-mandi/toilet-cover",
+          "children": []
+        },
+        {
+          "name": "Toilet Seat Anak",
+          "slug": "rumah-tangga/kamar-mandi/toilet-seat-anak",
+          "children": []
+        },
+        {
+          "name": "Tutup Wastafel",
+          "slug": "rumah-tangga/kamar-mandi/tutup-wastafel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kamar Tidur",
+      "slug": "rumah-tangga/kamar-tidur",
+      "children": [
+        {
+          "name": "Bantal Kepala",
+          "slug": "rumah-tangga/kamar-tidur/bantal-kepala",
+          "children": []
+        },
+        {
+          "name": "Guling",
+          "slug": "rumah-tangga/kamar-tidur/guling",
+          "children": []
+        },
+        {
+          "name": "Jepitan Sprei",
+          "slug": "rumah-tangga/kamar-tidur/jepitan-sprei",
+          "children": []
+        },
+        {
+          "name": "Kelambu",
+          "slug": "rumah-tangga/kamar-tidur/kelambu",
+          "children": []
+        },
+        {
+          "name": "Mattress Cover",
+          "slug": "rumah-tangga/kamar-tidur/mattress-cover",
+          "children": []
+        },
+        {
+          "name": "Sarung Bantal",
+          "slug": "rumah-tangga/kamar-tidur/sarung-bantal",
+          "children": []
+        },
+        {
+          "name": "Selimut",
+          "slug": "rumah-tangga/kamar-tidur/selimut",
+          "children": []
+        },
+        {
+          "name": "Sprei Bed Cover",
+          "slug": "rumah-tangga/kamar-tidur/sprei-bed-cover",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kebersihan",
+      "slug": "rumah-tangga/kebersihan",
+      "children": [
+        {
+          "name": "Alat Pel",
+          "slug": "rumah-tangga/kebersihan/alat-pel",
+          "children": []
+        },
+        {
+          "name": "Asbak",
+          "slug": "rumah-tangga/kebersihan/asbak",
+          "children": []
+        },
+        {
+          "name": "Ember Baskom",
+          "slug": "rumah-tangga/kebersihan/ember-baskom",
+          "children": []
+        },
+        {
+          "name": "High Pressure Cleaner",
+          "slug": "rumah-tangga/kebersihan/high-pressure-cleaner",
+          "children": []
+        },
+        {
+          "name": "Kain Lap",
+          "slug": "rumah-tangga/kebersihan/kain-lap",
+          "children": []
+        },
+        {
+          "name": "Kantong Sampah",
+          "slug": "rumah-tangga/kebersihan/kantong-sampah",
+          "children": []
+        },
+        {
+          "name": "Kemoceng",
+          "slug": "rumah-tangga/kebersihan/kemoceng",
+          "children": []
+        },
+        {
+          "name": "Lainnya",
+          "slug": "rumah-tangga/kebersihan/lainnya",
+          "children": []
+        },
+        {
+          "name": "Pengki",
+          "slug": "rumah-tangga/kebersihan/pengki",
+          "children": []
+        },
+        {
+          "name": "Sapu",
+          "slug": "rumah-tangga/kebersihan/sapu",
+          "children": []
+        },
+        {
+          "name": "Sapu Lidi",
+          "slug": "rumah-tangga/kebersihan/sapu-lidi",
+          "children": []
+        },
+        {
+          "name": "Sarung Tangan Karet",
+          "slug": "rumah-tangga/kebersihan/sarung-tangan-karet",
+          "children": []
+        },
+        {
+          "name": "Selang Air",
+          "slug": "rumah-tangga/kebersihan/selang-air",
+          "children": []
+        },
+        {
+          "name": "Sikat",
+          "slug": "rumah-tangga/kebersihan/sikat",
+          "children": []
+        },
+        {
+          "name": "Tempat Sampah",
+          "slug": "rumah-tangga/kebersihan/tempat-sampah",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kebutuhan Rumah",
+      "slug": "rumah-tangga/kebutuhan-rumah",
+      "children": [
+        {
+          "name": "Baterai",
+          "slug": "rumah-tangga/kebutuhan-rumah/baterai",
+          "children": []
+        },
+        {
+          "name": "Baterai Jam",
+          "slug": "rumah-tangga/kebutuhan-rumah/baterai-jam",
+          "children": []
+        },
+        {
+          "name": "Humidifier",
+          "slug": "rumah-tangga/kebutuhan-rumah/humidifier",
+          "children": []
+        },
+        {
+          "name": "Payung",
+          "slug": "rumah-tangga/kebutuhan-rumah/payung",
+          "children": []
+        },
+        {
+          "name": "Pembatas Ruangan",
+          "slug": "rumah-tangga/kebutuhan-rumah/pembatas-ruangan",
+          "children": []
+        },
+        {
+          "name": "Penahan Pintu",
+          "slug": "rumah-tangga/kebutuhan-rumah/penahan-pintu",
+          "children": []
+        },
+        {
+          "name": "Termometer Ruangan",
+          "slug": "rumah-tangga/kebutuhan-rumah/termometer-ruangan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Laundry",
+      "slug": "rumah-tangga/laundry",
+      "children": [
+        {
+          "name": "Alat Pelipat Baju",
+          "slug": "rumah-tangga/laundry/alat-pelipat-baju",
+          "children": []
+        },
+        {
+          "name": "Bola Pencuci Baju",
+          "slug": "rumah-tangga/laundry/bola-pencuci-baju",
+          "children": []
+        },
+        {
+          "name": "Cover Mesin Cuci",
+          "slug": "rumah-tangga/laundry/cover-mesin-cuci",
+          "children": []
+        },
+        {
+          "name": "Gantungan Baju",
+          "slug": "rumah-tangga/laundry/gantungan-baju",
+          "children": []
+        },
+        {
+          "name": "Jaring Pakaian Mesin Cuci",
+          "slug": "rumah-tangga/laundry/jaring-pakaian-mesin-cuci",
+          "children": []
+        },
+        {
+          "name": "Jemuran Baju",
+          "slug": "rumah-tangga/laundry/jemuran-baju",
+          "children": []
+        },
+        {
+          "name": "Jepit Jemuran",
+          "slug": "rumah-tangga/laundry/jepit-jemuran",
+          "children": []
+        },
+        {
+          "name": "Lainnya",
+          "slug": "rumah-tangga/laundry/lainnya",
+          "children": []
+        },
+        {
+          "name": "Laundry Bag",
+          "slug": "rumah-tangga/laundry/laundry-bag",
+          "children": []
+        },
+        {
+          "name": "Meja Setrika",
+          "slug": "rumah-tangga/laundry/meja-setrika",
+          "children": []
+        },
+        {
+          "name": "Papan Cuci Baju",
+          "slug": "rumah-tangga/laundry/papan-cuci-baju",
+          "children": []
+        },
+        {
+          "name": "Roll Pembersih Pakaian",
+          "slug": "rumah-tangga/laundry/roll-pembersih-pakaian",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ruang Tamu Keluarga",
+      "slug": "rumah-tangga/ruang-tamu-keluarga",
+      "children": [
+        {
+          "name": "Bantal Sofa",
+          "slug": "rumah-tangga/ruang-tamu-keluarga/bantal-sofa",
+          "children": []
+        },
+        {
+          "name": "Bean Bag",
+          "slug": "rumah-tangga/ruang-tamu-keluarga/bean-bag",
+          "children": []
+        },
+        {
+          "name": "Cover Sofa",
+          "slug": "rumah-tangga/ruang-tamu-keluarga/cover-sofa",
+          "children": []
+        },
+        {
+          "name": "Gorden",
+          "slug": "rumah-tangga/ruang-tamu-keluarga/gorden",
+          "children": []
+        },
+        {
+          "name": "Karpet Tikar",
+          "slug": "rumah-tangga/ruang-tamu-keluarga/karpet-tikar",
+          "children": []
+        },
+        {
+          "name": "Sarung Bantal Sofa",
+          "slug": "rumah-tangga/ruang-tamu-keluarga/sarung-bantal-sofa",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Taman",
+      "slug": "rumah-tangga/taman",
+      "children": [
+        {
+          "name": "Air Sofa",
+          "slug": "rumah-tangga/taman/air-sofa",
+          "children": []
+        },
+        {
+          "name": "Ayunan",
+          "slug": "rumah-tangga/taman/ayunan",
+          "children": []
+        },
+        {
+          "name": "Benih Bibit Tanaman",
+          "slug": "rumah-tangga/taman/benih-bibit-tanaman",
+          "children": []
+        },
+        {
+          "name": "Garpu Taman",
+          "slug": "rumah-tangga/taman/garpu-taman",
+          "children": []
+        },
+        {
+          "name": "Hiasan Taman",
+          "slug": "rumah-tangga/taman/hiasan-taman",
+          "children": []
+        },
+        {
+          "name": "Irigasi",
+          "slug": "rumah-tangga/taman/irigasi",
+          "children": []
+        },
+        {
+          "name": "Kursi Pantai",
+          "slug": "rumah-tangga/taman/kursi-pantai",
+          "children": []
+        },
+        {
+          "name": "Media Tanam",
+          "slug": "rumah-tangga/taman/media-tanam",
+          "children": []
+        },
+        {
+          "name": "Pemotong Rumput",
+          "slug": "rumah-tangga/taman/pemotong-rumput",
+          "children": []
+        },
+        {
+          "name": "Penyiram Tanaman",
+          "slug": "rumah-tangga/taman/penyiram-tanaman",
+          "children": []
+        },
+        {
+          "name": "Pot Tanaman",
+          "slug": "rumah-tangga/taman/pot-tanaman",
+          "children": []
+        },
+        {
+          "name": "Pupuk",
+          "slug": "rumah-tangga/taman/pupuk",
+          "children": []
+        },
+        {
+          "name": "Sekop Taman",
+          "slug": "rumah-tangga/taman/sekop-taman",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tempat Penyimpanan",
+      "slug": "rumah-tangga/tempat-penyimpanan",
+      "children": [
+        {
+          "name": "Botol",
+          "slug": "rumah-tangga/tempat-penyimpanan/botol",
+          "children": []
+        },
+        {
+          "name": "Brankas",
+          "slug": "rumah-tangga/tempat-penyimpanan/brankas",
+          "children": []
+        },
+        {
+          "name": "Keranjang",
+          "slug": "rumah-tangga/tempat-penyimpanan/keranjang",
+          "children": []
+        },
+        {
+          "name": "Kotak",
+          "slug": "rumah-tangga/tempat-penyimpanan/kotak",
+          "children": []
+        },
+        {
+          "name": "Kotak Baterai",
+          "slug": "rumah-tangga/tempat-penyimpanan/kotak-baterai",
+          "children": []
+        },
+        {
+          "name": "Kotak Jam",
+          "slug": "rumah-tangga/tempat-penyimpanan/kotak-jam",
+          "children": []
+        },
+        {
+          "name": "Kotak Karton",
+          "slug": "rumah-tangga/tempat-penyimpanan/kotak-karton",
+          "children": []
+        },
+        {
+          "name": "Kotak Surat",
+          "slug": "rumah-tangga/tempat-penyimpanan/kotak-surat",
+          "children": []
+        },
+        {
+          "name": "Laci",
+          "slug": "rumah-tangga/tempat-penyimpanan/laci",
+          "children": []
+        },
+        {
+          "name": "Lainnya",
+          "slug": "rumah-tangga/tempat-penyimpanan/lainnya",
+          "children": []
+        },
+        {
+          "name": "Stand Hanger",
+          "slug": "rumah-tangga/tempat-penyimpanan/stand-hanger",
+          "children": []
+        },
+        {
+          "name": "Storage Box Multifungsi",
+          "slug": "rumah-tangga/tempat-penyimpanan/storage-box-multifungsi",
+          "children": []
+        },
+        {
+          "name": "Tempat Obat",
+          "slug": "rumah-tangga/tempat-penyimpanan/tempat-obat",
+          "children": []
+        },
+        {
+          "name": "Tempat Pakaian",
+          "slug": "rumah-tangga/tempat-penyimpanan/tempat-pakaian",
+          "children": []
+        },
+        {
+          "name": "Tempat Perhiasan Aksesoris",
+          "slug": "rumah-tangga/tempat-penyimpanan/tempat-perhiasan-aksesoris",
+          "children": []
+        },
+        {
+          "name": "Tempat Remote",
+          "slug": "rumah-tangga/tempat-penyimpanan/tempat-remote",
+          "children": []
+        },
+        {
+          "name": "Tempat Sepatu Sandal",
+          "slug": "rumah-tangga/tempat-penyimpanan/tempat-sepatu-sandal",
+          "children": []
+        },
+        {
+          "name": "Tempat Tas",
+          "slug": "rumah-tangga/tempat-penyimpanan/tempat-tas",
+          "children": []
+        },
+        {
+          "name": "Tempat Tissue",
+          "slug": "rumah-tangga/tempat-penyimpanan/tempat-tissue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "slug": "rumah-tangga/travel",
+      "children": [
+        {
+          "name": "Bantal Leher",
+          "slug": "rumah-tangga/travel/bantal-leher",
+          "children": []
+        },
+        {
+          "name": "Gembok Koper",
+          "slug": "rumah-tangga/travel/gembok-koper",
+          "children": []
+        },
+        {
+          "name": "Koper",
+          "slug": "rumah-tangga/travel/koper",
+          "children": []
+        },
+        {
+          "name": "Luggage Cover",
+          "slug": "rumah-tangga/travel/luggage-cover",
+          "children": []
+        },
+        {
+          "name": "Luggage Strap",
+          "slug": "rumah-tangga/travel/luggage-strap",
+          "children": []
+        },
+        {
+          "name": "Luggage Tag",
+          "slug": "rumah-tangga/travel/luggage-tag",
+          "children": []
+        },
+        {
+          "name": "Passport Cover",
+          "slug": "rumah-tangga/travel/passport-cover",
+          "children": []
+        },
+        {
+          "name": "Penutup Mata Tidur",
+          "slug": "rumah-tangga/travel/penutup-mata-tidur",
+          "children": []
+        },
+        {
+          "name": "Travel Bag",
+          "slug": "rumah-tangga/travel/travel-bag",
+          "children": []
+        },
+        {
+          "name": "Travel Organizer",
+          "slug": "rumah-tangga/travel/travel-organizer",
+          "children": []
+        },
+        {
+          "name": "Travel Toiletries Kit",
+          "slug": "rumah-tangga/travel/travel-toiletries-kit",
+          "children": []
+        },
+        {
+          "name": "Universal Travel Adaptor",
+          "slug": "rumah-tangga/travel/universal-travel-adaptor",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
