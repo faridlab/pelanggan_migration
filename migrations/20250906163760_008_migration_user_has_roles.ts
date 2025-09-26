@@ -50,7 +50,7 @@ export async function up(knex: Knex): Promise<void> {
 
 export async function down(knex: Knex): Promise<void> {
     // Drop the trigger and function before dropping the table
-  await knex.raw('DROP TRIGGER IF EXISTS update_user_has_roles_updated_at ON user;');
+  await knex.raw('DROP TRIGGER IF EXISTS update_user_has_roles_updated_at ON user_has_roles;');
   await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
   await knex.schema.dropTable('user_has_roles');
 }

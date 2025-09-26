@@ -41,16 +41,16 @@ export async function up(knex: Knex): Promise<void> {
 
   // Create a trigger to call the function on UPDATE
   await knex.raw(`
-    CREATE TRIGGER update_calendar_updated_at
-    BEFORE UPDATE ON calendar
+    CREATE TRIGGER update_calendar_levels_updated_at
+    BEFORE UPDATE ON calendar_levels
     FOR EACH ROW
     EXECUTE FUNCTION update_updated_at_column();
   `);
 }
 
 export async function down(knex: Knex): Promise<void> {
-    // Drop the trigger and function before dropping the table
-  await knex.raw('DROP TRIGGER IF EXISTS update_calendar_updated_at ON calendar;');
+  // Drop the trigger and function before dropping the table
+  await knex.raw('DROP TRIGGER IF EXISTS update_calendar_levels_updated_at ON calendar_levels;');
   await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
-  await knex.schema.dropTable('calendar');
+  await knex.schema.dropTable('calendar_levels');
 }

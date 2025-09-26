@@ -43,7 +43,7 @@ export async function up(knex: Knex): Promise<void> {
     table.check('?? IN (?, ?, ?)', ['status', 'pending', 'approved', 'rejected']);
   });
 
-  // Create a function to update the updated_at column
+  // Create a function to update the updated_at column (only if it doesn't exist)
   await knex.raw(`
     CREATE OR REPLACE FUNCTION update_updated_at_column()
     RETURNS TRIGGER AS $$
@@ -54,18 +54,18 @@ export async function up(knex: Knex): Promise<void> {
     $$ language 'plpgsql';
   `);
 
-  // Create a trigger to call the function on UPDATE
+  // Create a trigger to call the function on UPDATE for timesheet_approvals table
   await knex.raw(`
-    CREATE TRIGGER update_timesheet_updated_at
-    BEFORE UPDATE ON timesheet
+    CREATE TRIGGER update_timesheet_approvals_updated_at
+    BEFORE UPDATE ON timesheet_approvals
     FOR EACH ROW
     EXECUTE FUNCTION update_updated_at_column();
   `);
 }
 
 export async function down(knex: Knex): Promise<void> {
-    // Drop the trigger and function before dropping the table
-  await knex.raw('DROP TRIGGER IF EXISTS update_timesheet_updated_at ON timesheet;');
-  await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
-  await knex.schema.dropTable('timesheet');
+  // Drop the trigger before dropping the table
+  await knex.raw('DROP TRIGGER IF EXISTS update_timesheet_approvals_updated_at ON timesheet_approvals;');
+  await knex.schema.dropTable('timesheet_approvals');
+  // Note: We don't drop the function here as it might be used by other tables
 }

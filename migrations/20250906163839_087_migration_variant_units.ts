@@ -49,8 +49,8 @@ export async function up(knex: Knex): Promise<void> {
 
   // Create a trigger to call the function on UPDATE
   await knex.raw(`
-    CREATE TRIGGER update_variant_updated_at
-    BEFORE UPDATE ON variant
+    CREATE TRIGGER update_variant_units_updated_at
+    BEFORE UPDATE ON variant_units
     FOR EACH ROW
     EXECUTE FUNCTION update_updated_at_column();
   `);
@@ -58,7 +58,7 @@ export async function up(knex: Knex): Promise<void> {
 
 export async function down(knex: Knex): Promise<void> {
     // Drop the trigger and function before dropping the table
-  await knex.raw('DROP TRIGGER IF EXISTS update_variant_updated_at ON variant;');
+  await knex.raw('DROP TRIGGER IF EXISTS update_variant_units_updated_at ON variant_units;');
   await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
-  await knex.schema.dropTable('variant');
+  await knex.schema.dropTable('variant_units');
 }

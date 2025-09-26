@@ -8,7 +8,7 @@ export async function up(knex: Knex): Promise<void> {
     table.text('description').notNullable();
     table.date('start_date').notNullable();
     table.date('end_date').nullable();
-    table.uuid('type_id').notNullable();
+    table.string('type_id').nullable();
     table.uuid('client_id').notNullable();
     table.decimal('value_contract', 15, 2).notNullable();
     table.string('base_currency', 3).notNullable().defaultTo('IDR');
@@ -23,19 +23,12 @@ export async function up(knex: Knex): Promise<void> {
     table.timestamp('deleted_at', { useTz: false });
 
     // Create indexes
-    table.index('type_id');
     table.index('client_id');
     table.index('status');
     table.index('start_date');
     table.index('end_date');
 
     // Create foreign key constraints
-    table.foreign('type_id', 'contracts_type_id_foreign')
-      .references('id')
-      .inTable('contract_types')
-      .onDelete('RESTRICT')
-      .onUpdate('CASCADE');
-
     table.foreign('client_id', 'contracts_client_id_foreign')
       .references('id')
       .inTable('contacts')

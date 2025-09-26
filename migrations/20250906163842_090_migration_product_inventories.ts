@@ -5,7 +5,6 @@ export async function up(knex: Knex): Promise<void> {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('product_id').notNullable();
     table.uuid('warehouse_id').notNullable();
-    table.uuid('variant_id').nullable(); // From product_stocks
 
     // Stock quantities
     table.integer('stock_quantity').notNullable().defaultTo(0);
@@ -15,8 +14,6 @@ export async function up(knex: Knex): Promise<void> {
     // Inventory management
     table.integer('reorder_point').nullable();
     table.integer('max_stock').nullable();
-    table.string('location_in_warehouse').nullable();
-    table.timestamp('last_restocked_at').nullable();
 
     // Audit fields
     table.timestamp('created_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
@@ -25,13 +22,10 @@ export async function up(knex: Knex): Promise<void> {
 
     // Indexes
     table.index(['product_id', 'warehouse_id']);
-    table.index(['product_id', 'warehouse_id', 'variant_id']);
-    table.index('last_restocked_at');
 
     // Foreign keys
     table.foreign('product_id').references('id').inTable('products').onDelete('CASCADE');
     table.foreign('warehouse_id').references('id').inTable('warehouses').onDelete('CASCADE');
-    table.foreign('variant_id').references('id').inTable('product_variant_units').onDelete('CASCADE');
 
     // Constraints
     table.check('stock_quantity >= 0', [], 'stock_quantity_positive');
@@ -53,8 +47,8 @@ export async function up(knex: Knex): Promise<void> {
 
   // Create a trigger to call the function on UPDATE
   await knex.raw(`
-    CREATE TRIGGER update_product_updated_at
-    BEFORE UPDATE ON product
+    CREATE TRIGGER update_product_inventories_updated_at
+    BEFORE UPDATE ON product_inventories
     FOR EACH ROW
     EXECUTE FUNCTION update_updated_at_column();
   `);
@@ -62,7 +56,7 @@ export async function up(knex: Knex): Promise<void> {
 
 export async function down(knex: Knex): Promise<void> {
     // Drop the trigger and function before dropping the table
-  await knex.raw('DROP TRIGGER IF EXISTS update_product_updated_at ON product;');
+  await knex.raw('DROP TRIGGER IF EXISTS update_product_inventories_updated_at ON product_inventories;');
   await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
-  await knex.schema.dropTable('product');
+  await knex.schema.dropTable('product_inventories');
 }

@@ -12,7 +12,6 @@ export async function up(knex: Knex): Promise<void> {
     table.enum('type', recommendationTypes).notNullable().defaultTo('manual');
     table.enum('target_audience', targetAudiences).notNullable().defaultTo('all');
     table.boolean('recommended').notNullable().defaultTo(true);
-    table.integer('order').notNullable().defaultTo(1);
     table.integer('priority').notNullable().defaultTo(1); // For algorithm weighting
 
     // Time-based recommendations
@@ -32,7 +31,7 @@ export async function up(knex: Knex): Promise<void> {
     table.index('product_id');
     table.index(['type', 'target_audience']);
     table.index(['starts_at', 'expires_at']);
-    table.index(['recommended', 'order']);
+    table.index(['recommended']);
 
     // Unique constraint to prevent duplicates
     table.unique(['product_id', 'type', 'target_audience'], {
@@ -46,7 +45,6 @@ export async function up(knex: Knex): Promise<void> {
       .onDelete('CASCADE');
 
     // Constraints
-    table.check('order >= 1', [], 'order_positive');
     table.check('priority >= 1', [], 'priority_positive');
   });
 
@@ -63,8 +61,8 @@ export async function up(knex: Knex): Promise<void> {
 
   // Create a trigger to call the function on UPDATE
   await knex.raw(`
-    CREATE TRIGGER update_product_updated_at
-    BEFORE UPDATE ON product
+    CREATE TRIGGER update_product_recommendations_updated_at
+    BEFORE UPDATE ON product_recommendations
     FOR EACH ROW
     EXECUTE FUNCTION update_updated_at_column();
   `);
@@ -72,7 +70,7 @@ export async function up(knex: Knex): Promise<void> {
 
 export async function down(knex: Knex): Promise<void> {
     // Drop the trigger and function before dropping the table
-  await knex.raw('DROP TRIGGER IF EXISTS update_product_updated_at ON product;');
+  await knex.raw('DROP TRIGGER IF EXISTS update_product_recommendations_updated_at ON product_recommendations;');
   await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
-  await knex.schema.dropTable('product');
+  await knex.schema.dropTable('product_recommendations');
 }
