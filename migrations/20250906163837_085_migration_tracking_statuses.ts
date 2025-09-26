@@ -1,7 +1,7 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
-  return knex.schema.createTable('tracking_statuses', (table) => {
+  await knex.schema.createTable('tracking_statuses', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.integer('order').notNullable();
     table.string('group', 255).notNullable();
@@ -15,8 +15,30 @@ export async function up(knex: Knex): Promise<void> {
     table.index('group');
     table.index('status');
   });
+
+  // Create a function to update the updated_at column
+  await knex.raw(`
+    CREATE OR REPLACE FUNCTION update_updated_at_column()
+    RETURNS TRIGGER AS $$
+    BEGIN
+      NEW.updated_at = CURRENT_TIMESTAMP;
+      RETURN NEW;
+    END;
+    $$ language 'plpgsql';
+  `);
+
+  // Create a trigger to call the function on UPDATE
+  await knex.raw(`
+    CREATE TRIGGER update_tracking_updated_at
+    BEFORE UPDATE ON tracking
+    FOR EACH ROW
+    EXECUTE FUNCTION update_updated_at_column();
+  `);
 }
 
 export async function down(knex: Knex): Promise<void> {
-  return knex.schema.dropTable('tracking_statuses');
+    // Drop the trigger and function before dropping the table
+  await knex.raw('DROP TRIGGER IF EXISTS update_tracking_updated_at ON tracking;');
+  await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
+  await knex.schema.dropTable('tracking');
 }

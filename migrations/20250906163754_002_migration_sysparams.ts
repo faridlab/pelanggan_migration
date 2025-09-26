@@ -1,7 +1,7 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
-  return knex.schema.createTable('sysparams', (table) => {
+  await knex.schema.createTable('sysparams', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.string('group', 255).notNullable();
     table.string('key', 255).notNullable();
@@ -13,8 +13,30 @@ export async function up(knex: Knex): Promise<void> {
     table.timestamp('updated_at', { useTz: false }).notNullable().defaultTo(knex.fn.now());
     table.timestamp('deleted_at', { useTz: false });
   });
+
+  // Create a function to update the updated_at column
+  await knex.raw(`
+    CREATE OR REPLACE FUNCTION update_updated_at_column()
+    RETURNS TRIGGER AS $$
+    BEGIN
+      NEW.updated_at = CURRENT_TIMESTAMP;
+      RETURN NEW;
+    END;
+    $$ language 'plpgsql';
+  `);
+
+  // Create a trigger to call the function on UPDATE
+  await knex.raw(`
+    CREATE TRIGGER update_sysparams_updated_at
+    BEFORE UPDATE ON sysparams
+    FOR EACH ROW
+    EXECUTE FUNCTION update_updated_at_column();
+  `);
 }
 
 export async function down(knex: Knex): Promise<void> {
-  return knex.schema.dropTable('sysparams');
+    // Drop the trigger and function before dropping the table
+  await knex.raw('DROP TRIGGER IF EXISTS update_sysparams_updated_at ON sysparams;');
+  await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
+  await knex.schema.dropTable('sysparams');
 }

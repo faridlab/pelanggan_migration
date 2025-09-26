@@ -1,7 +1,7 @@
 import type { Knex } from "knex";
 
 export async function up(knex: Knex): Promise<void> {
-  return knex.schema.createTable('quotation_items', (table) => {
+  await knex.schema.createTable('quotation_items', (table) => {
     table.uuid('id').primary().defaultTo(knex.raw('gen_random_uuid()'));
     table.uuid('quotation_id').notNullable();
     table.string('title').notNullable();
@@ -21,8 +21,30 @@ export async function up(knex: Knex): Promise<void> {
       .onDelete('RESTRICT')
       .onUpdate('CASCADE');
   });
+
+  // Create a function to update the updated_at column
+  await knex.raw(`
+    CREATE OR REPLACE FUNCTION update_updated_at_column()
+    RETURNS TRIGGER AS $$
+    BEGIN
+      NEW.updated_at = CURRENT_TIMESTAMP;
+      RETURN NEW;
+    END;
+    $$ language 'plpgsql';
+  `);
+
+  // Create a trigger to call the function on UPDATE
+  await knex.raw(`
+    CREATE TRIGGER update_quotation_updated_at
+    BEFORE UPDATE ON quotation
+    FOR EACH ROW
+    EXECUTE FUNCTION update_updated_at_column();
+  `);
 }
 
 export async function down(knex: Knex): Promise<void> {
-  return knex.schema.dropTable('quotation_items');
+    // Drop the trigger and function before dropping the table
+  await knex.raw('DROP TRIGGER IF EXISTS update_quotation_updated_at ON quotation;');
+  await knex.raw('DROP FUNCTION IF EXISTS update_updated_at_column;');
+  await knex.schema.dropTable('quotation');
 }
